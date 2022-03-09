@@ -3,10 +3,11 @@
 Amazon review analysis 
 
 **The reason they selected the topic**
-Online shopping is becoming one of the buying habits for consumers in this era. On the internet, hundreds of thousands of data, such as content, images, and reviews are provided on the product pages and promotions. The reviews from previous users seem to do a big favor to the new customers, however, it might consume more time for making the final decisions.
+
+Online shopping is becoming one of the buying habits for consumers in this era. On the internet, hundreds of thousands of data, such as content, images, and reviews are provided on the product pages. The reviews from previous users seem to do a big favor to the new customers, however, it might consume more time for making the final decisions. Our project is to give the user a summary from consumers that group by the number of starts.
 
 **Description of the source of data**
-Extract live time review from Amazon.com one specific product page based on the user search. 
+Extract live time review from Amazon.com one specific product page based on user's search. 
 
 **Questions they hope to answer with the data**
 
