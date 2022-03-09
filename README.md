@@ -12,5 +12,7 @@ Extract live time review from Amazon.com one specific product page based on user
 **Questions they hope to answer with the data**
 
 What are the common features? Extract from the 4* and 5* reviews
+
 What are the major defect, concerns of this product? Extract from the 1* and 2* reviews
+
 What do people from different review groups generally think of this product? Summary from each review by starts
