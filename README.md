@@ -18,8 +18,7 @@ We are using python and pandas to clean the dataset, filtering on data industry 
 Upload the cleaned dataset to S3 buket AWS XXX---
 
 **Description of the analysis phase of the project**
-Technologies, languages, tools, and algorithms used throughout the project
-Beautiful soup, splinter, pgadmin, jupyter notebook, huggieface (model)
+Beautiful soup, splinter, pgadmin, jupyter notebook
 
 Result of analysis
 Recommendation for future analysis
