@@ -5,6 +5,7 @@ Predicting the average salary of jobs in the data industry based on different va
 **The reason the topic was selected**
 To better educate us on the salary level of data-related jobs when we enter the job market. 
 This will us help with negotiations for future job offers.
+
 **Description of the source of data:** 
 Kaggle: Salary and more-Data Scientist, Analyst, Engineer
 https://www.kaggle.com/phuchuynguyen/salary-and-moredata-scientist-analyst-engineer
