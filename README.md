@@ -17,10 +17,10 @@ How  do different factors, such as location, years of experience, gender, compan
 
 **Description of the data exploration phase of the project**
 We are using python and pandas to clean the dataset, filtering on data industry specific jobs in the USA.
-Upload the cleaned dataset to S3 buket AWS XXX---
+Upload the cleaned dataset to S3 buket on AWS.
 
 **Description of the analysis phase of the project**
-Beautiful soup, splinter, pgadmin, jupyter notebook
+Beautiful soup, splinter, pgadmin, jupyter notebook  
 
 Result of analysis
 Recommendation for future analysis
