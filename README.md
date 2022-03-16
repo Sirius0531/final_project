@@ -1,18 +1,25 @@
 # final_project
 **Topic:**
-Amazon review analysis 
+Predicting the average salary of jobs in the data industry based on different variables using a linear regression model.
 
-**The reason they selected the topic**
+**The reason the topic was selected**
+To better educate us on the salary level of data-related jobs when we enter the job market. 
+This will us help with negotiations for future job offers.
+**Description of the source of data:** 
+Kaggle: Salary and more-Data Scientist, Analyst, Engineer
+https://www.kaggle.com/phuchuynguyen/salary-and-moredata-scientist-analyst-engineer
 
-Online shopping is becoming one of the buying habits for consumers in this era. On the internet, hundreds of thousands of data, such as content, images, and reviews are provided on the product pages. The reviews from previous users seem to do a big favor to the new customers, however, it might consume more time for making the final decisions. Our project is to give the user a summary from consumers that group by the number of starts.
+**Questions the team hopes to answer with the data**
+How  do different factors, such as location, years of experience, gender, company, affect the anticipated salary.
 
-**Description of the source of data**
-Extract live time review from Amazon.com one specific product page based on user's search. 
+**Description of the data exploration phase of the project**
+We are using python and pandas to clean the dataset, filtering on data industry specific jobs in the USA.
+Upload the cleaned dataset to S3 buket AWS XXX---
 
-**Questions they hope to answer with the data**
+**Description of the analysis phase of the project**
+Technologies, languages, tools, and algorithms used throughout the project
+Beautiful soup, splinter, pgadmin, jupyter notebook, huggieface (model)
 
-What are the common features? Extract from the 4* and 5* reviews
-
-What are the major defect, concerns of this product? Extract from the 1* and 2* reviews
-
-What do people from different review groups generally think of this product? Summary from each review by starts
+Result of analysis
+Recommendation for future analysis
+Anything the team would have done differently
