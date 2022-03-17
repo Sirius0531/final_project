@@ -1,0 +1,2227 @@
+title,company,location,yearsofexperience,totalyearlycompensation,gender,Masters_Degree,Bachelors_Degree,state
+Data Scientist,LinkedIn,"San Francisco, CA",4.0,233000,Male,0,0,CA
+Data Scientist,Microsoft,"Seattle, WA",11.0,218000,Male,0,0,WA
+Data Scientist,ebay,"San Jose, CA",10.0,180000,Female,0,0,CA
+Data Scientist,Twitter,"San Francisco, CA",4.0,500000,Male,0,0,CA
+Data Scientist,Facebook,"Seattle, WA",8.0,370000,Male,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",3.0,200000,Male,0,0,WA
+Data Scientist,Microsoft,"Bellevue, WA",11.0,340000,Male,0,0,WA
+Data Scientist,Google,"Kirkland, WA",10.0,690000,Male,0,0,WA
+Data Scientist,Netflix,"Los Gatos, CA",3.0,600000,Male,0,0,CA
+Data Scientist,Tesla,"Palo Alto, CA",8.0,168000,Male,0,0,CA
+Data Scientist,GrubHub,"New York, NY",4.0,187000,Male,0,0,NY
+Data Scientist,Facebook,"Menlo Park, CA",11.0,225000,,0,0,CA
+Data Scientist,Qualcomm,"San Diego, CA",6.0,220000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",7.0,130000,,0,0,WA
+Data Scientist,Capital One,"Mc Lean, VA",4.0,112000,,0,0,VA
+Data Scientist,Amazon,"Boston, MA",5.0,200000,,0,0,MA
+Data Scientist,Booz Allen Hamilton,"Washington, DC",1.0,120000,,0,0,DC
+Data Scientist,Microsoft,"Seattle, WA",20.0,500000,,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",2.0,220000,,0,0,WA
+Data Scientist,Workday,"San Francisco, CA",1.0,147000,,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",9.0,340000,,0,0,WA
+Data Scientist,Uber,"San Francisco, CA",2.0,235000,,0,0,CA
+Data Scientist,Intuit,"Mountain View, CA",9.0,206000,,0,0,CA
+Data Scientist,Airbnb,"San Francisco, CA",3.0,233000,,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",9.0,149000,,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",9.0,356000,,0,0,WA
+Data Scientist,eBay,"Seattle, WA",5.0,305000,,0,0,WA
+Data Scientist,Facebook,"Menlo Park, CA",5.0,200000,,0,0,CA
+Data Scientist,Apple,"Cupertino, CA",0.0,215000,,0,0,CA
+Data Scientist,Google,"Seattle, WA",6.0,700000,,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",2.0,243000,,0,0,WA
+Data Scientist,Amazon,"Palo Alto, CA",3.0,260000,,0,0,CA
+Data Scientist,Facebook,"Seattle, WA",10.0,240000,,0,0,WA
+Data Scientist,Amazon,"Sunnyvale, CA",1.0,300000,,0,0,CA
+Data Scientist,Oath,"New York, NY",1.0,160000,,0,0,NY
+Data Scientist,PayPal,"San Jose, CA",7.0,220000,,0,0,CA
+Data Scientist,Google,"Mountain View, CA",1.0,210000,,0,0,CA
+Data Scientist,Google,"Mountain View, CA",1.0,210000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",6.0,115000,,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",6.0,115000,,0,0,WA
+Data Scientist,Apple,"Cupertino, CA",6.0,188000,,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",10.0,215000,,0,0,WA
+Data Scientist,Salesforce,"San Francisco, CA",15.0,315000,,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",2.0,240000,,0,0,CA
+Data Scientist,Twitter,"San Francisco, CA",2.0,230000,,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",15.0,216000,,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",3.0,125000,,0,0,WA
+Data Scientist,Apple,"Cupertino, CA",6.0,322000,,0,0,CA
+Data Scientist,Netflix,"Los Gatos, CA",2.0,400000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",2.0,157000,,0,0,WA
+Data Scientist,Seagate,"Bloomington, MN",4.0,82000,,0,0,MN
+Data Scientist,Johnson and Johnson,"Boston, MA",6.0,120000,,0,0,MA
+Data Scientist,Microsoft,"Redmond, WA",2.0,240000,,0,0,WA
+Data Scientist,Indeed,"Austin, TX",1.0,100000,,0,0,TX
+Data Scientist,Indeed,"New York, NY",2.0,114000,,0,0,NY
+Data Scientist,Indeed,"New York, NY",2.0,119000,,0,0,NY
+Data Scientist,Lyft,"San Francisco, CA",0.0,250000,,0,0,CA
+Data Scientist,Microsoft,"Boston, MA",10.0,182000,,0,0,MA
+Data Scientist,Google,"Santa Monica, CA",1.0,120000,,0,0,CA
+Data Scientist,Intuit,"Mountain View, CA",3.0,318000,,0,0,CA
+Data Scientist,JPMorgan Chase,"New York, NY",3.0,135000,,0,0,NY
+Data Scientist,Amazon,"Seattle, WA",5.0,228000,,0,0,WA
+Data Scientist,IBM,"San Jose, CA",2.0,137000,,0,0,CA
+Data Scientist,Bank of America Merrill Lynch,"Charlotte, NC",20.0,156000,,0,0,NC
+Data Scientist,Facebook,"San Francisco, CA",1.0,193000,,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",5.0,350000,,0,0,CA
+Data Scientist,Apple,"Sunnyvale, CA",9.0,425000,,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",6.0,385000,,0,0,CA
+Data Scientist,JPMorgan Chase,"Dallas, TX",5.0,150000,,0,0,TX
+Data Scientist,Facebook,"San Francisco, CA",3.0,280000,,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",2.0,180000,,0,0,WA
+Data Scientist,DigitalOcean,"New York, NY",4.0,160000,,0,0,NY
+Data Scientist,Amazon,"Seattle, WA",1.0,125000,,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",9.0,180000,,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",9.0,180000,,0,0,WA
+Data Scientist,Other,"Boston, MA",4.0,115000,,0,0,MA
+Data Scientist,Microsoft,"Redmond, WA",4.0,190000,,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",2.0,225000,,0,0,WA
+Data Scientist,Microsoft,"Sunnyvale, CA",4.0,145000,Male,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",0.0,230000,Male,0,0,CA
+Data Scientist,Netflix,"Los Gatos, CA",10.0,425000,,0,0,CA
+Data Scientist,Cisco,"Bellevue, WA",8.0,200000,Female,0,0,WA
+Data Scientist,Sandia National Labs,"Albuquerque, NM",1.0,115000,Male,0,0,NM
+Data Scientist,Zillow,"Seattle, WA",0.0,205000,Male,0,0,WA
+Data Scientist,Airbnb,"San Francisco, CA",3.0,284000,Male,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",10.0,400000,Male,0,0,WA
+Data Scientist,Facebook,"Menlo Park, CA",5.0,237000,Male,0,0,CA
+Data Scientist,Microsoft,"Seattle, WA",2.0,145000,Male,0,0,WA
+Data Scientist,SAS,"Cary, NC",9.0,112000,Other,0,0,NC
+Data Scientist,Microsoft,"Redmond, WA",0.0,160000,Male,0,0,WA
+Data Scientist,Feedzai,"Atlanta, GA",4.0,140000,Male,0,0,GA
+Data Scientist,Tesla,"San Francisco, CA",2.0,169000,Male,0,0,CA
+Data Scientist,Microsoft,"Cambridge, MA",8.0,183000,Male,0,0,MA
+Data Scientist,Affirm,"San Francisco, CA",5.0,220000,,0,0,CA
+Data Scientist,Bank of America Merrill Lynch,"New York, NY",2.0,145000,Male,0,0,NY
+Data Scientist,The Climate Corporation,"Seattle, WA",5.0,145000,Male,0,0,WA
+Data Scientist,Walmart,"Bentonville, AR",10.0,195000,Male,0,0,AR
+Data Scientist,Airbnb,"San Francisco, CA",7.0,430000,Male,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",6.0,169000,Male,0,0,WA
+Data Scientist,Walmart Labs,"San Francisco, CA",10.0,320000,Male,0,0,CA
+Data Scientist,Google,"Mountain View, CA",6.0,250000,,0,0,CA
+Data Scientist,Google,"Mountain View, CA",6.0,250000,,0,0,CA
+Data Scientist,PayPal,"San Jose, CA",5.0,182000,,0,0,CA
+Data Scientist,Quantcast,"San Francisco, CA",20.0,180000,Male,0,0,CA
+Data Scientist,Amazon,"Irvine, CA",4.0,196000,Male,0,0,CA
+Data Scientist,Electronic Arts,"Austin, TX",2.0,100000,Male,0,0,TX
+Data Scientist,Electronic Arts,"Austin, TX",2.0,100000,Male,0,0,TX
+Data Scientist,Apple,"Cupertino, CA",6.0,300000,Male,0,0,CA
+Data Scientist,Startup,"Los Angeles, CA",3.0,110000,Male,0,0,CA
+Data Scientist,Lyft,"San Francisco, CA",2.0,145000,Male,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",0.0,150000,Male,0,0,CA
+Data Scientist,Twitter,"San Francisco, CA",0.0,187000,Male,0,0,CA
+Data Scientist,Capital One,"Washington, DC",1.0,125000,Male,0,0,DC
+Data Scientist,Reddit,"Chicago, IL",5.0,185000,,0,0,IL
+Data Scientist,LinkedIn,"Sunnyvale, CA",3.0,281000,Male,0,0,CA
+Data Scientist,LinkedIn,"Mountain View, CA",4.0,250000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",4.0,154000,Male,0,0,WA
+Data Scientist,Microsoft,"Bellevue, WA",0.0,226000,Male,0,0,WA
+Data Scientist,Juniper Networks,"Boston, MA",3.0,118000,Male,0,0,MA
+Data Scientist,Microsoft,"Redmond, WA",18.0,365000,Male,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",0.0,192000,Male,0,0,WA
+Data Scientist,Oracle,"Broomfield, CO",3.0,120000,Male,0,0,CO
+Data Scientist,Amazon,"Seattle, WA",4.0,187000,,0,0,WA
+Data Scientist,Airbnb,"San Francisco, CA",4.0,283000,Male,0,0,CA
+Data Scientist,Cisco,"San Francisco, CA",8.0,240000,Male,0,0,CA
+Data Scientist,Toyota Research Institute,"Mountain View, CA",6.0,265000,Male,0,0,CA
+Data Scientist,Intuit,"Mountain View, CA",5.0,220000,Male,0,0,CA
+Data Scientist,Amazon,"Palo Alto, CA",3.0,209000,,0,0,CA
+Data Scientist,Starbucks,"Seattle, WA",18.0,184000,,0,0,WA
+Data Scientist,Facebook,"San Francisco, CA",4.0,350000,Male,0,0,CA
+Data Scientist,Goldman Sachs,"New York, NY",2.0,120000,Male,0,0,NY
+Data Scientist,Affirm,"San Francisco, CA",0.0,165000,Male,0,0,CA
+Data Scientist,Intel,"Hillsboro, OR",4.0,137000,Male,0,0,OR
+Data Scientist,eBay,"San Jose, CA",2.0,176000,Male,0,0,CA
+Data Scientist,Applied Materials,"Santa Clara, CA",13.0,165000,Male,0,0,CA
+Data Scientist,S&P GLOBAL,"New York, NY",1.0,135000,,0,0,NY
+Data Scientist,Amazon,"Palo Alto, CA",4.0,181000,Male,0,0,CA
+Data Scientist,Capital One,"San Francisco, CA",1.0,132000,Female,0,0,CA
+Data Scientist,eBay,"San Jose, CA",12.0,900000,Male,0,0,CA
+Data Scientist,Pinterest,"San Francisco, CA",2.0,310000,Male,0,0,CA
+Data Scientist,GE Digital,"San Francisco, CA",1.0,178000,,0,0,CA
+Data Scientist,Apple,"Cupertino, CA",1.0,230000,Female,0,0,CA
+Data Scientist,PayPal,"San Jose, CA",3.0,195000,Male,0,0,CA
+Data Scientist,Salesforce,"San Francisco, CA",1.0,180000,Male,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",3.0,195000,Female,0,0,CA
+Data Scientist,Intuit,"Mountain View, CA",5.0,185000,Male,0,0,CA
+Data Scientist,Netflix,"Los Gatos, CA",5.0,655000,Male,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",0.0,150000,Male,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",0.0,150000,,0,0,WA
+Data Scientist,airbnb,"San Francisco, CA",8.0,195000,Female,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",7.0,150000,Male,0,0,WA
+Data Scientist,eBay,"Seattle, WA",10.0,315000,,0,0,WA
+Data Scientist,Walmart Labs,"Sunnyvale, CA",6.0,252000,Male,0,0,CA
+Data Scientist,eBay,"San Jose, CA",10.0,235000,Male,0,0,CA
+Data Scientist,LinkedIn,"San Francisco, CA",5.0,200000,Female,0,0,CA
+Data Scientist,LinkedIn,"San Francisco, CA",5.0,200000,Female,0,0,CA
+Data Scientist,Liberty Mutual,"Boston, MA",1.0,118000,Male,0,0,MA
+Data Scientist,Zillow,"Seattle, WA",3.0,170000,Male,0,0,WA
+Data Scientist,McKinsey & Company,"San Francisco, CA",4.0,200000,Male,0,0,CA
+Data Scientist,Capital One,"Plano, TX",9.0,200000,Other,0,0,TX
+Data Scientist,JPMorgan Chase,"Columbus, OH",2.0,120000,Male,0,0,OH
+Data Scientist,Oracle,"Colorado Springs, CO",7.0,117000,Male,0,0,CO
+Data Scientist,Amazon,"Seattle, WA",0.0,123000,Male,0,0,WA
+Data Scientist,Microsoft,"Bellevue, WA",10.0,270000,Male,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",0.0,150000,Male,0,0,WA
+Data Scientist,Google,"Mountain View, CA",8.0,634000,Female,0,0,CA
+Data Scientist,Microsoft,"Cambridge, MA",0.0,164000,Male,0,0,MA
+Data Scientist,AMAZON,"San Francisco, CA",2.0,178000,Other,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",0.0,225000,Female,0,0,CA
+Data Scientist,SurveyMonkey,"Portland, OR",3.0,200000,Male,0,0,OR
+Data Scientist,Microsoft,"Berkeley, CA",3.0,245000,Male,0,0,CA
+Data Scientist,Blizzard Entertainment,"Irvine, CA",2.0,120000,Female,0,0,CA
+Data Scientist,Microsoft,"Bellevue, WA",10.0,222000,Male,0,0,WA
+Data Scientist,Facebook,"Seattle, WA",2.0,201000,Male,0,0,WA
+Data Scientist,Cisco,"Morrisville, NC",3.0,70000,Female,0,0,NC
+Data Scientist,Twitter,"Boulder, CO",3.0,211000,Male,0,0,CO
+Data Scientist,Medtronic,"New York, NY",2.0,150000,Male,0,0,NY
+Data Scientist,Capital One,"Richmond, VA",13.0,144000,Male,0,0,VA
+Data Scientist,Intuit,"Mountain View, CA",4.0,276000,Male,0,0,CA
+Data Scientist,Microsoft,"Seattle, WA",3.0,250000,Female,0,0,WA
+Data Scientist,Dropbox,"San Francisco, CA",4.0,215000,,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",1.0,108000,Female,0,0,WA
+Data Scientist,Microsoft,"Seattle, WA",2.0,230000,Female,0,0,WA
+Data Scientist,Yahoo,"Sunnyvale, CA",2.0,160000,Female,0,0,CA
+Data Scientist,Microsoft,"Mountain View, CA",0.0,240000,Other,0,0,CA
+Data Scientist,Google,"Mountain View, CA",0.0,200000,Female,0,0,CA
+Data Scientist,Microsoft,"Sunnyvale, CA",1.0,158000,Male,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",6.0,165000,Male,0,0,WA
+Data Scientist,Google,"Mountain View, CA",4.0,225000,Male,0,0,CA
+Data Scientist,IBM,"Washington, DC",5.0,155000,Male,0,0,DC
+Data Scientist,Amazon,"Seattle, WA",5.0,304000,Male,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",3.0,133000,Female,0,0,WA
+Data Scientist,Uber,"San Francisco, CA",4.0,312000,Male,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",0.0,166000,Male,0,0,CA
+Data Scientist,ASML,"San Jose, CA",4.0,190000,Female,0,0,CA
+Data Scientist,google,"Mountain View, CA",10.0,300000,Male,0,0,CA
+Data Scientist,Amazon,"Palo Alto, CA",1.0,332000,Male,0,0,CA
+Data Scientist,Intuit,"Mountain View, CA",2.0,194000,Female,0,0,CA
+Data Scientist,Petuum,"Pittsburgh, PA",1.0,110000,,0,0,PA
+Data Scientist,Amazon,"Seattle, WA",3.0,120000,Male,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",5.0,130000,,0,0,WA
+Data Scientist,Starbucks,"Seattle, WA",2.0,118000,Female,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",4.0,210000,Male,0,0,WA
+Data Scientist,Lyft,"New York, NY",0.0,150000,,0,0,NY
+Data Scientist,Google,"Mountain View, CA",10.0,207000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",5.0,220000,Male,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",1.0,294000,Male,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",1.0,294000,Male,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",1.0,294000,Male,0,0,WA
+Data Scientist,Red Hat,"Raleigh, NC",1.0,99000,Male,0,0,NC
+Data Scientist,Uber,"Seattle, WA",1.0,250000,,0,0,WA
+Data Scientist,Amazon,"Palo Alto, CA",4.0,185000,Male,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",2.0,190000,Female,0,0,CA
+Data Scientist,Oracle,"Reston, VA",4.0,152000,Male,0,0,VA
+Data Scientist,Facebook,"Menlo Park, CA",0.0,225000,Male,0,0,CA
+Data Scientist,Nike,"Portland, OR",7.0,155000,Male,0,0,OR
+Data Scientist,Microsoft,"Redmond, WA",5.0,225000,,0,0,WA
+Data Scientist,Intel,"Hillsboro, OR",2.0,140000,Male,0,0,OR
+Data Scientist,Facebook,"Seattle, WA",15.0,395000,Male,0,0,WA
+Data Scientist,LinkedIn,"Sunnyvale, CA",1.0,242000,Female,0,0,CA
+Data Scientist,Apple,"Sunnyvale, CA",5.0,350000,Male,0,0,CA
+Data Scientist,JPMorgan Chase,"Wilmington, DE",0.0,70000,Male,0,0,DE
+Data Scientist,Siriusxm,"New York, NY",5.0,120000,Female,0,0,NY
+Data Scientist,Apple,"Cupertino, CA",4.0,150000,Female,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",10.0,427000,Male,0,0,WA
+Data Scientist,Oath,"New York, NY",2.0,140000,,0,0,NY
+Data Scientist,Amazon,"Seattle, WA",3.0,204000,Female,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",5.0,175000,Male,0,0,WA
+Data Scientist,Uber,"San Francisco, CA",4.0,310000,Male,0,0,CA
+Data Scientist,Fractal Analytics,"New York, NY",5.0,130000,Male,0,0,NY
+Data Scientist,Amazon,"Seattle, WA",3.0,250000,,0,0,WA
+Data Scientist,Facebook,"Menlo Park, CA",9.0,195000,Male,0,0,CA
+Data Scientist,Schlumberger,"Houston, TX",0.0,103000,,0,0,TX
+Data Scientist,Salesforce,"San Francisco, CA",7.0,345000,Female,0,0,CA
+Data Scientist,Citi,"New York, NY",10.0,190000,,0,0,NY
+Data Scientist,Facebook,"Menlo Park, CA",4.0,206000,Male,0,0,CA
+Data Scientist,illumina,"San Diego, CA",0.0,150000,Male,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",1.0,300000,Male,0,0,WA
+Data Scientist,LinkedIn,"San Francisco, CA",3.0,250000,Male,0,0,CA
+Data Scientist,Facebook,"San Francisco, CA",6.0,220000,Male,0,0,CA
+Data Scientist,Amazon,"San Francisco, CA",7.0,274000,,0,0,CA
+Data Scientist,AT&T,"New York, NY",3.0,165000,Male,0,0,NY
+Data Scientist,Microsoft,"Redmond, WA",3.0,178000,Male,0,0,WA
+Data Scientist,Uber,"San Francisco, CA",1.0,255000,Male,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",1.0,220000,Female,0,0,CA
+Data Scientist,LinkedIn,"San Francisco, CA",4.0,330000,Female,0,0,CA
+Data Scientist,Salesforce,"San Francisco, CA",7.0,278000,Other,0,0,CA
+Data Scientist,Microsoft,"Bellevue, WA",5.0,216000,,0,0,WA
+Data Scientist,LinkedIn,"Sunnyvale, CA",3.0,200000,Male,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",1.0,300000,,0,0,CA
+Data Scientist,Google,"Redwood City, CA",1.0,220000,Male,0,0,CA
+Data Scientist,Microsoft,"Seattle, WA",10.0,222000,Male,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",4.0,270000,Male,0,0,WA
+Data Scientist,Google,"Seattle, WA",3.0,230000,Male,0,0,WA
+Data Scientist,Amazon,"Pittsburgh, PA",5.0,197000,Male,0,0,PA
+Data Scientist,Oracle,"Denver, CO",4.0,119000,,0,0,CO
+Data Scientist,Facebook,"Menlo Park, CA",1.0,190000,Male,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",12.0,350000,Male,0,0,CA
+Data Scientist,Amazon,"New York, NY",4.0,204000,Male,0,0,NY
+Data Scientist,Google,"Sunnyvale, CA",10.0,248000,Male,0,0,CA
+Data Scientist,Netflix,"Los Gatos, CA",0.0,368000,Male,0,0,CA
+Data Scientist,Amazon,"San Francisco, CA",1.0,144000,Male,0,0,CA
+Data Scientist,Amazon,"New York, NY",3.0,228000,Male,0,0,NY
+Data Scientist,HBO,"New York, NY",2.0,108000,Male,0,0,NY
+Data Scientist,Twitch,"San Francisco, CA",8.0,297000,Male,0,0,CA
+Data Scientist,Amazon,"New York, NY",4.0,181000,Male,0,0,NY
+Data Scientist,JPMorgan Chase,"New York, NY",1.0,100000,Male,0,0,NY
+Data Scientist,Facebook,"Menlo Park, CA",4.0,210000,Male,0,0,CA
+Data Scientist,Amazon,"Pittsburgh, PA",5.0,197000,Male,0,0,PA
+Data Scientist,Cloudera,"Walnut Creek, CA",5.0,230000,Male,0,0,CA
+Data Scientist,Google,"Mountain View, CA",10.0,265000,Male,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",3.0,190000,Male,0,0,CA
+Data Scientist,Amazon,"San Francisco, CA",5.0,265000,,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",0.0,199000,Male,0,0,WA
+Data Scientist,Microsoft,"Bellevue, WA",2.0,173000,Male,0,0,WA
+Data Scientist,Facebook,"Menlo Park, CA",0.0,189000,Male,0,0,CA
+Data Scientist,Goldman Sachs,"New York, NY",12.0,210000,Male,0,0,NY
+Data Scientist,Groupon,"Chicago, IL",5.0,136000,Male,0,0,IL
+Data Scientist,Google,"San Francisco, CA",6.0,430000,Male,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",0.0,199000,Male,0,0,WA
+Data Scientist,JPMorgan Chase,"New York, NY",1.0,150000,Male,0,0,NY
+Data Scientist,Microsoft,"Redmond, WA",8.0,152000,Male,0,0,WA
+Data Scientist,Facebook,"Menlo Park, CA",10.0,340000,Male,0,0,CA
+Data Scientist,GE Digital,"San Francisco, CA",10.0,270000,Male,0,0,CA
+Data Scientist,Pluralsight,"Farmington, UT",3.0,177000,Male,0,0,UT
+Data Scientist,Broadcom,"San Diego, CA",3.0,163000,Male,0,0,CA
+Data Scientist,Apple,"Cupertino, CA",4.0,212000,Female,0,0,CA
+Data Scientist,Google,"Mountain View, CA",12.0,257000,Male,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",10.0,185000,Male,0,0,WA
+Data Scientist,Tesla,"Fremont, CA",1.0,185000,Male,0,0,CA
+Data Scientist,Apple,"Cupertino, CA",5.0,214000,Female,0,0,CA
+Data Scientist,Google,"Mountain View, CA",0.0,195000,Male,0,0,CA
+Data Scientist,Electronic Arts,"Redwood City, CA",2.0,160000,Male,0,0,CA
+Data Scientist,Walmart Labs,"Sunnyvale, CA",2.0,245000,Male,0,0,CA
+Data Scientist,Amazon,"Pittsburgh, PA",3.0,210000,Male,0,0,PA
+Data Scientist,Netflix,"San Francisco, CA",8.0,380000,Male,0,0,CA
+Data Scientist,Nerdwallet,"San Francisco, CA",2.0,136000,Male,0,0,CA
+Data Scientist,Huawei,"Santa Clara, CA",6.0,400000,,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",15.0,350000,,0,0,WA
+Data Scientist,Grab,"Seattle, WA",3.0,224000,,0,0,WA
+Data Scientist,Lyft,"San Francisco, CA",4.0,280000,Male,0,0,CA
+Data Scientist,Procter & Gamble,"Cincinnati, OH",5.0,137000,Male,0,0,OH
+Data Scientist,Microsoft,"Redmond, WA",7.0,285000,Female,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",4.0,165000,Female,0,0,WA
+Data Scientist,Zillow,"Seattle, WA",5.0,200000,Male,0,0,WA
+Data Scientist,AMAZON,"Seattle, WA",0.0,70000,,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",3.0,232000,Male,0,0,WA
+Data Scientist,Intuit,"Chicago, IL",20.0,125000,Male,0,0,IL
+Data Scientist,Amazon,"Seattle, WA",4.0,180000,Male,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",6.0,185000,Male,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",5.0,160000,,0,0,WA
+Data Scientist,Charter Communications,"Denver, CO",6.0,176000,,0,0,CO
+Data Scientist,Capital One,"Plano, TX",0.0,110000,Male,0,0,TX
+Data Scientist,Microsoft,"Redmond, WA",5.0,250000,Male,0,0,WA
+Data Scientist,Facebook,"New York, NY",8.0,280000,Male,0,0,NY
+Data Scientist,Capital One,"Dallas, TX",2.0,95000,,0,0,TX
+Data Scientist,Microsoft,"Redmond, WA",3.0,120000,,0,0,WA
+Data Scientist,Spotify,"New York, NY",1.0,140000,Male,0,0,NY
+Data Scientist,IBM,"San Jose, CA",2.0,157000,Male,0,0,CA
+Data Scientist,Guidewire,"San Francisco, CA",3.0,135000,Male,0,0,CA
+Data Scientist,LinkedIn,"San Francisco, CA",5.0,240000,Male,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",5.0,260000,,0,0,WA
+Data Scientist,American Express,"New York, NY",2.0,130000,,0,0,NY
+Data Scientist,Intel,"Phoenix, AZ",6.0,193000,Male,0,0,AZ
+Data Scientist,Wells Fargo,"San Francisco, CA",0.0,180000,Male,0,0,CA
+Data Scientist,Genentech,"South San Francisco, CA",2.0,180000,,0,0,CA
+Data Scientist,Target,"Minneapolis, MN",0.0,138000,Male,0,0,MN
+Data Scientist,IQVIA,"Philadelphia, PA",4.0,115000,Male,0,0,PA
+Data Scientist,Honeywell,"Atlanta, GA",7.0,110000,Male,0,0,GA
+Data Scientist,Uber,"San Francisco, CA",2.0,177000,Female,0,0,CA
+Data Scientist,Cruise,"San Francisco, CA",1.0,210000,Male,0,0,CA
+Data Scientist,Netflix,"Los Angeles, CA",15.0,525000,Male,0,0,CA
+Data Scientist,Google,"Sunnyvale, CA",5.0,270000,Male,0,0,CA
+Data Scientist,Microsoft,"Bellevue, WA",4.0,162000,,0,0,WA
+Data Scientist,Zillow,"New York, NY",3.0,144000,Male,0,0,NY
+Data Scientist,IBM,"San Jose, CA",5.0,130000,Male,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",12.0,387000,,0,0,CA
+Data Scientist,Quora,"Mountain View, CA",2.0,210000,Female,0,0,CA
+Data Scientist,Instacart,"San Francisco, CA",5.0,360000,Female,0,0,CA
+Data Scientist,Instacart,"San Francisco, CA",6.0,242000,Male,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",3.0,265000,Male,0,0,CA
+Data Scientist,Amazon,"San Francisco, CA",2.0,300000,Male,0,0,CA
+Data Scientist,Everquote,"Boston, MA",2.0,90000,,0,0,MA
+Data Scientist,Kohl's,"Milpitas, CA",7.0,240000,,0,0,CA
+Data Scientist,Amazon,"New York, NY",6.0,168000,Female,0,0,NY
+Data Scientist,Intuit,"Mountain View, CA",4.0,318000,,0,0,CA
+Data Scientist,T-Mobile,"Bellevue, WA",4.0,190000,Male,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",7.0,310000,,0,0,WA
+Data Scientist,Microsoft,"Seattle, WA",13.0,250000,,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",5.0,228000,Male,0,0,WA
+Data Scientist,Integral Ad Science,"New York, NY",0.0,110000,Male,0,0,NY
+Data Scientist,Goldman Sachs,"Jersey City, NJ",12.0,210000,Male,0,0,NJ
+Data Scientist,Amazon,"New York, NY",5.0,170000,,0,0,NY
+Data Scientist,MSFT,"Seattle, WA",2.0,290000,,0,0,WA
+Data Scientist,Microsoft,"Seattle, WA",2.0,290000,,0,0,WA
+Data Scientist,SAP,"Newtown Square, PA",13.0,190000,Female,0,0,PA
+Data Scientist,LinkedIn,"Sunnyvale, CA",7.0,270000,Male,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",2.0,180000,,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",1.0,294000,Male,0,0,WA
+Data Scientist,SAP,"Palo Alto, CA",3.0,120000,Male,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",10.0,192000,Female,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",6.0,288000,Female,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",8.0,220000,Male,0,0,WA
+Data Scientist,Adobe,"San Jose, CA",1.0,213000,Male,0,0,CA
+Data Scientist,Microsoft,"Sunnyvale, CA",7.0,171000,,0,0,CA
+Data Scientist,Microsoft,"Seattle, WA",6.0,186000,Male,0,0,WA
+Data Scientist,Amazon,"Palo Alto, CA",7.0,250000,Male,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",1.0,146000,Male,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",2.0,155000,Male,0,0,WA
+Data Scientist,AT&T,"Plano, TX",0.0,100000,,0,0,TX
+Data Scientist,PlayStation,"San Mateo, CA",9.0,260000,Male,0,0,CA
+Data Scientist,Expedia Group,"Seattle, WA",12.0,149000,Female,0,0,WA
+Data Scientist,Dropbox,"San Francisco, CA",5.0,190000,,0,0,CA
+Data Scientist,Grab,"Bellevue, WA",3.0,226000,Male,0,0,WA
+Data Scientist,Facebook,"Menlo Park, CA",3.0,240000,Male,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",5.0,190000,Male,0,0,WA
+Data Scientist,Microsoft,"Seattle, WA",6.0,266000,Female,0,0,WA
+Data Scientist,Wayfair,"Boston, MA",1.0,150000,,0,0,MA
+Data Scientist,Spotify,"New York, NY",8.0,315000,Male,0,0,NY
+Data Scientist,Amazon Web Services,"Seattle, WA",4.0,300000,Male,0,0,WA
+Data Scientist,Microsoft,"Seattle, WA",4.0,213000,Male,0,0,WA
+Data Scientist,Walmart Labs,"Sunnyvale, CA",0.0,188000,Male,0,0,CA
+Data Scientist,target,"Sunnyvale, CA",7.0,200000,Male,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",8.0,185000,Male,0,0,WA
+Data Scientist,Electronic Arts,"Redwood City, CA",5.0,160000,,0,0,CA
+Data Scientist,Reddit,"San Francisco, CA",3.0,142000,Female,0,0,CA
+Data Scientist,Bank of America Merrill Lynch,"New York, NY",4.0,110000,Male,0,0,NY
+Data Scientist,Uber,"New York, NY",2.0,268000,Female,0,0,NY
+Data Scientist,Apple,"Cupertino, CA",4.0,258000,Female,0,0,CA
+Data Scientist,Netflix,"Los Angeles, CA",4.0,450000,Male,0,0,CA
+Data Scientist,Google,"Sunnyvale, CA",0.0,189000,,0,0,CA
+Data Scientist,American express,"New York, NY",3.0,155000,Male,0,0,NY
+Data Scientist,Symantec,"Mountain View, CA",2.0,212000,Female,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",0.0,165000,Male,0,0,WA
+Data Scientist,Autodesk,"San Francisco, CA",1.0,149000,Male,0,0,CA
+Data Scientist,Microsoft,"Seattle, WA",7.0,147000,Male,0,0,WA
+Data Scientist,american airlines,"Fort Worth, TX",6.0,92000,,0,0,TX
+Data Scientist,Facebook,"Menlo Park, CA",0.0,202000,Female,0,0,CA
+Data Scientist,Nielsen,"Tampa, FL",2.0,65000,,0,0,FL
+Data Scientist,Fifth Third Bank,"Cincinnati, OH",5.0,147000,Male,0,0,OH
+Data Scientist,Microsoft,"Redmond, WA",0.0,240000,Male,0,0,WA
+Data Scientist,Microsoft,"Seattle, WA",8.0,304000,Male,0,0,WA
+Data Scientist,Microsoft,"Seattle, WA",0.0,232000,Male,0,0,WA
+Data Scientist,Boeing,"Seattle, WA",15.0,170000,,0,0,WA
+Data Scientist,Microsoft,"Berkeley, CA",3.0,309000,Male,0,0,CA
+Data Scientist,Google,"Mountain View, CA",13.0,273000,Male,0,0,CA
+Data Scientist,Microsoft,"San Jose, CA",15.0,269000,Male,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",1.0,144000,Male,0,0,CA
+Data Scientist,Amazon,"Palo Alto, CA",3.0,225000,Male,0,0,CA
+Data Scientist,Microsoft,"Sunnyvale, CA",0.0,280000,,0,0,CA
+Data Scientist,Twitter,"San Francisco, CA",2.0,232000,Male,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",8.0,208000,Male,0,0,WA
+Data Scientist,Apple,"Cupertino, CA",8.0,340000,Male,0,0,CA
+Data Scientist,eBay,"San Francisco, CA",6.0,263000,Male,0,0,CA
+Data Scientist,Microsoft,"Seattle, WA",10.0,170000,,0,0,WA
+Data Scientist,Shutterstock,"New York, NY",2.0,159000,,0,0,NY
+Data Scientist,Apple,"Cupertino, CA",4.0,290000,Male,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",5.0,253000,Male,0,0,CA
+Data Scientist,IBM,"San Jose, CA",2.0,156000,Male,0,0,CA
+Data Scientist,ADP,"Norfolk, VA",2.0,72000,Male,0,0,VA
+Data Scientist,General Motors,"Warren, MI",5.0,158000,Male,0,0,MI
+Data Scientist,Walmart Labs,"Bentonville, AR",3.0,117000,,0,0,AR
+Data Scientist,Capital One,"New York, NY",15.0,222000,Male,0,0,NY
+Data Scientist,Uber,"San Francisco, CA",2.0,154000,Female,0,0,CA
+Data Scientist,Target,"Sunnyvale, CA",4.0,250000,,0,0,CA
+Data Scientist,Amazon,"Palo Alto, CA",10.0,257000,Female,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",2.0,223000,Male,0,0,WA
+Data Scientist,Apple,"Cupertino, CA",5.0,306000,Male,0,0,CA
+Data Scientist,Aetna,"Phoenix, AZ",6.0,98000,,0,0,AZ
+Data Scientist,Microsoft,"Redmond, WA",14.0,262000,Male,0,0,WA
+Data Scientist,LinkedIn,"Sunnyvale, CA",3.0,210000,Female,0,0,CA
+Data Scientist,Cisco,"Ann Arbor, MI",3.0,164000,Male,0,0,MI
+Data Scientist,IBM,"San Jose, CA",3.0,158000,Male,0,0,CA
+Data Scientist,Microsoft,"Bellevue, WA",0.0,180000,Female,0,0,WA
+Data Scientist,Airbnb,"Seattle, WA",11.0,440000,Male,0,0,WA
+Data Scientist,Facebook,"Menlo Park, CA",5.0,274000,Female,0,0,CA
+Data Scientist,Walmart Labs,"Sunnyvale, CA",8.0,280000,Male,0,0,CA
+Data Scientist,Google,"Sunnyvale, CA",0.0,207000,Male,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",2.0,247000,Female,0,0,WA
+Data Scientist,Apple,"Cupertino, CA",6.0,505000,,0,0,CA
+Data Scientist,Microsoft,"Bellevue, WA",1.0,212000,Female,0,0,WA
+Data Scientist,Johnson and Johnson,"Raritan, NJ",19.0,300000,Male,1,0,NJ
+Data Scientist,Amazon,"Seattle, WA",1.0,168000,Male,1,0,WA
+Data Scientist,Iterable,"San Francisco, CA",0.0,150000,Male,1,0,CA
+Data Scientist,Lyft,"San Francisco, CA",3.0,230000,Male,0,0,CA
+Data Scientist,Walmart Labs,"Bentonville, AR",10.0,265000,Male,1,0,AR
+Data Scientist,Facebook,"New York, NY",8.0,253000,Male,0,0,NY
+Data Scientist,Facebook,"New York, NY",8.0,253000,Male,0,0,NY
+Data Scientist,Goldman Sachs,"Illinois City, IL",8.0,510000,Other,0,0,IL
+Data Scientist,Amazon,"Seattle, WA",3.0,150000,Female,1,0,WA
+Data Scientist,LinkedIn,"San Francisco, CA",4.0,256000,Male,0,0,CA
+Data Scientist,Facebook,"Washington, DC",10.0,210000,Male,0,0,DC
+Data Scientist,Zillow,"Seattle, WA",3.0,191000,Male,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",0.0,149000,Male,0,0,WA
+Data Scientist,Zillow,"Seattle, WA",2.0,180000,Female,0,0,WA
+Data Scientist,Epic Systems,"Madison, WI",2.0,85000,Male,1,0,WI
+Data Scientist,Cerner,"Kansas City, MO",3.0,100000,Male,0,0,MO
+Data Scientist,Microsoft,"Redmond, WA",0.0,262000,Male,1,0,WA
+Data Scientist,Uber,"San Francisco, CA",8.0,450000,Male,0,0,CA
+Data Scientist,Blink Health,"New York, NY",2.0,160000,,1,0,NY
+Data Scientist,Netflix,"Los Gatos, CA",6.0,465000,Male,1,0,CA
+Data Scientist,LinkedIn,"Sunnyvale, CA",4.0,260000,Male,1,0,CA
+Data Scientist,Microsoft,"Sunnyvale, CA",0.0,225000,Male,1,0,CA
+Data Scientist,Groupon,"Santa Clara, CA",8.0,230000,Male,1,0,CA
+Data Scientist,IBM,"Durham, NC",1.0,111000,Male,0,0,NC
+Data Scientist,Workday,"Pleasanton, CA",2.0,122000,Male,0,0,CA
+Data Scientist,Hulu,"Los Angeles, CA",6.0,170000,,0,0,CA
+Data Scientist,PwC,"Washington, DC",3.0,90000,Male,1,0,DC
+Data Scientist,Facebook,"Menlo Park, CA",8.0,245000,Male,1,0,CA
+Data Scientist,Bank of America Merrill Lynch,"Boston, MA",5.0,135000,Female,1,0,MA
+Data Scientist,Amazon,"Sunnyvale, CA",6.0,295000,Female,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",25.0,230000,Male,0,0,WA
+Data Scientist,Microsoft,"Bellevue, WA",0.0,213000,Female,1,0,WA
+Data Scientist,American Express,"New York, NY",3.0,147000,Male,0,0,NY
+Data Scientist,Capital One,"New York, NY",3.0,138000,Male,1,0,NY
+Data Scientist,Accenture,"Arlington, VA",8.0,165000,Male,1,0,VA
+Data Scientist,Deloitte,"Washington, DC",4.0,104000,Female,0,0,DC
+Data Scientist,Stripe,"San Francisco, CA",3.0,246000,,1,0,CA
+Data Scientist,GE Digital,"San Ramon, CA",4.0,142000,Male,0,0,CA
+Data Scientist,Disney,"New York, NY",8.0,205000,,0,0,NY
+Data Scientist,Facebook,"Menlo Park, CA",0.0,177000,Male,1,0,CA
+Data Scientist,Liberty Mutual,"Seattle, WA",7.0,184000,Male,1,0,WA
+Data Scientist,Facebook,"Menlo Park, CA",2.0,211000,,1,0,CA
+Data Scientist,Snap,"Los Angeles, CA",0.0,187000,Male,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",0.0,203000,Female,0,0,CA
+Data Scientist,JP Morgan,"New York, NY",17.0,400000,Male,1,0,NY
+Data Scientist,Facebook,"Menlo Park, CA",15.0,570000,,0,0,CA
+Data Scientist,Spotify,"New York, NY",3.0,160000,Male,0,0,NY
+Data Scientist,Stripe,"San Francisco, CA",4.0,250000,Female,1,0,CA
+Data Scientist,Microsoft,"Redmond, WA",1.0,144000,Male,0,0,WA
+Data Scientist,SAP,"Bellevue, WA",5.0,165000,Male,0,0,WA
+Data Scientist,Here Technologies,"Seattle, WA",8.0,225000,Male,1,0,WA
+Data Scientist,Uber,"San Francisco, CA",6.0,180000,Male,1,0,CA
+Data Scientist,Genentech,"South San Francisco, CA",6.0,190000,Male,1,0,CA
+Data Scientist,Microsoft,"Seattle, WA",6.0,170000,Female,1,0,WA
+Data Scientist,Intuit,"Mountain View, CA",7.0,300000,Male,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",16.0,360000,,0,0,CA
+Data Scientist,Acorns,"Irvine, CA",1.0,125000,Male,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",5.0,180000,Male,1,0,WA
+Data Scientist,Twitter,"San Francisco, CA",3.0,232000,Female,1,0,CA
+Data Scientist,Netflix,"Los Angeles, CA",2.0,420000,Female,0,0,CA
+Data Scientist,Feedzai,"Atlanta, GA",6.0,165000,Male,0,0,GA
+Data Scientist,Netflix,"Los Gatos, CA",9.0,525000,Male,0,0,CA
+Data Scientist,Facebook,"San Francisco, CA",11.0,450000,Male,1,0,CA
+Data Scientist,Wayfair,"Boston, MA",0.0,110000,Male,0,0,MA
+Data Scientist,Apple,"Cupertino, CA",10.0,230000,Male,0,0,CA
+Data Scientist,Cisco,"San Francisco, CA",5.0,280000,Male,0,0,CA
+Data Scientist,Netflix,"Los Angeles, CA",7.0,700000,Male,0,0,CA
+Data Scientist,LivePerson,"Boston, MA",3.0,556000,Male,1,0,MA
+Data Scientist,Uber,"San Francisco, CA",3.0,253000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",9.0,500000,Female,0,0,WA
+Data Scientist,Apple,"Cupertino, CA",11.0,350000,Male,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",12.0,340000,Male,0,0,WA
+Data Scientist,LinkedIn,"San Francisco, CA",4.0,270000,Male,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",10.0,366000,Male,1,0,CA
+Data Scientist,Oracle,"Broomfield, CO",5.0,163000,Male,1,0,CO
+Data Scientist,Airbnb,"San Francisco, CA",9.0,580000,Male,1,0,CA
+Data Scientist,Facebook,"Seattle, WA",10.0,230000,Male,1,0,WA
+Data Scientist,Atlassian,"Mountain View, CA",4.0,230000,Female,1,0,CA
+Data Scientist,Microsoft,"Bellevue, WA",0.0,173000,Female,0,0,WA
+Data Scientist,3m,"Saint Paul, MN",0.0,86000,Male,1,0,MN
+Data Scientist,Stitch Fix,"San Francisco, CA",1.0,235000,Male,0,0,CA
+Data Scientist,Apple,"Cupertino, CA",0.0,208000,Male,0,0,CA
+Data Scientist,Dell Technologies,"Austin, TX",1.0,113000,Male,1,0,TX
+Data Scientist,Capital One,"New York, NY",1.0,148000,Male,1,0,NY
+Data Scientist,Microsoft,"Redmond, WA",3.0,203000,Female,0,0,WA
+Data Scientist,PayPal,"Chicago, IL",5.0,190000,Male,1,0,IL
+Data Scientist,Intuit,"Mountain View, CA",5.0,215000,Male,1,0,CA
+Data Scientist,Visa,"Foster City, CA",1.0,139000,Male,1,0,CA
+Data Scientist,Amobee,"San Francisco, CA",4.0,220000,Male,0,0,CA
+Data Scientist,JPMorgan Chase,"New York, NY",3.0,140000,,1,0,NY
+Data Scientist,Microsoft,"Redmond, WA",15.0,281000,,0,0,WA
+Data Scientist,Square,"San Francisco, CA",1.0,200000,Male,1,0,CA
+Data Scientist,Walmart Labs,"Sunnyvale, CA",4.0,370000,Female,0,0,CA
+Data Scientist,Moody's Analytics,"San Francisco, CA",1.0,135000,,0,0,CA
+Data Scientist,Apple,"Cupertino, CA",10.0,231000,Female,1,0,CA
+Data Scientist,Apple,"Cupertino, CA",6.0,210000,,1,0,CA
+Data Scientist,Amazon,"Seattle, WA",12.0,215000,,0,0,WA
+Data Scientist,Uber,"San Francisco, CA",5.0,235000,Female,1,0,CA
+Data Scientist,Amazon,"Seattle, WA",2.0,123000,Female,0,0,WA
+Data Scientist,IBM,"Atlanta, GA",3.0,140000,,0,0,GA
+Data Scientist,Microsoft,"Seattle, WA",2.0,215000,Male,1,0,WA
+Data Scientist,Aptiv,"Boston, MA",12.0,220000,Male,0,0,MA
+Data Scientist,Amazon,"New York, NY",4.0,270000,Male,0,0,NY
+Data Scientist,Uber,"San Francisco, CA",2.0,149000,Male,1,0,CA
+Data Scientist,McKinsey,"Chicago, IL",0.0,100000,Male,0,0,IL
+Data Scientist,Dropbox,"San Francisco, CA",2.0,158000,Male,1,0,CA
+Data Scientist,Wayfair,"Boston, MA",4.0,156000,Male,1,0,MA
+Data Scientist,Google,"New York, NY",10.0,365000,Male,0,0,NY
+Data Scientist,Amazon,"Seattle, WA",7.0,215000,Male,1,0,WA
+Data Scientist,Spotify,"New York, NY",5.0,221000,Male,1,0,NY
+Data Scientist,Workday,"San Francisco, CA",5.0,318000,Female,0,0,CA
+Data Scientist,Dell Technologies,"Round Rock, TX",0.0,136000,Male,1,0,TX
+Data Scientist,Microsoft,"Seattle, WA",2.0,187000,Male,0,0,WA
+Data Scientist,Uber,"Palo Alto, CA",20.0,464000,Male,1,0,CA
+Data Scientist,Pinterest,"San Francisco, CA",8.0,350000,Male,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",2.0,194000,Male,1,0,WA
+Data Scientist,Google,"Seattle, WA",7.0,210000,Male,0,0,WA
+Data Scientist,Facebook,"San Francisco, CA",5.0,231000,,0,0,CA
+Data Scientist,Ibm,"Raleigh, NC",13.0,151000,,1,0,NC
+Data Scientist,Amazon,"Seattle, WA",10.0,540000,Male,0,0,WA
+Data Scientist,Intel,"Santa Clara, CA",20.0,390000,Male,0,0,CA
+Data Scientist,Expedia,"Seattle, WA",0.0,143000,Female,1,0,WA
+Data Scientist,Booz Allen Hamilton,"Washington, DC",6.0,130000,,0,0,DC
+Data Scientist,Microsoft,"Boston, MA",10.0,265000,,0,0,MA
+Data Scientist,WeWork,"New York, NY",3.0,270000,Male,0,0,NY
+Data Scientist,LinkedIn,"Sunnyvale, CA",5.0,260000,Male,1,0,CA
+Data Scientist,Twitter,"San Francisco, CA",2.0,192000,Male,0,0,CA
+Data Scientist,Capital One,"Arlington, VA",5.0,194000,Male,1,0,VA
+Data Scientist,Adobe,"San Jose, CA",13.0,350000,Male,0,0,CA
+Data Scientist,Facebook,"New York, NY",2.0,205000,Male,1,0,NY
+Data Scientist,State Street,"Boston, MA",2.0,60000,Male,0,0,MA
+Data Scientist,paypal,"San Jose, CA",15.0,420000,Male,0,0,CA
+Data Scientist,PayPal,"San Jose, CA",4.0,205000,Female,1,0,CA
+Data Scientist,Zillow,"Seattle, WA",3.0,185000,Female,1,0,WA
+Data Scientist,Amazon,"Boston, MA",3.0,210000,Male,0,0,MA
+Data Scientist,Elastic,"Washington, DC",10.0,247000,Male,0,0,DC
+Data Scientist,Google,"Seattle, WA",12.0,346000,Male,0,0,WA
+Data Scientist,DoorDash,"San Francisco, CA",13.0,412000,Male,1,0,CA
+Data Scientist,Amazon,"New York, NY",2.0,236000,Male,1,0,NY
+Data Scientist,Uber,"San Francisco, CA",0.0,210000,Male,0,0,CA
+Data Scientist,Mckesson,"Phoenix, AZ",3.0,120000,Male,0,0,AZ
+Data Scientist,Rapid7,"San Francisco, CA",10.0,250000,Male,1,0,CA
+Data Scientist,Facebook,"San Francisco, CA",6.0,324000,Male,0,0,CA
+Data Scientist,JPMorgan Chase,"New York, NY",1.0,135000,Male,0,0,NY
+Data Scientist,IQVIA,"Plymouth Meeting, PA",0.0,140000,Male,0,0,PA
+Data Scientist,Apple,"Cupertino, CA",10.0,300000,Female,1,0,CA
+Data Scientist,Feedzai,"Atlanta, GA",4.0,145000,Male,1,0,GA
+Data Scientist,Spotify,"New York, NY",5.0,173000,Female,0,0,NY
+Data Scientist,Microsoft,"Cambridge, MA",2.0,141000,Female,1,0,MA
+Data Scientist,Google,"Sunnyvale, CA",0.0,175000,Male,0,0,CA
+Data Scientist,JPMorgan Chase,"New York, NY",4.0,190000,Male,0,0,NY
+Data Scientist,Amazon,"New York, NY",2.0,228000,Male,0,0,NY
+Data Scientist,JPMorgan Chase,"Jersey City, NJ",20.0,160000,,0,0,NJ
+Data Scientist,UBS,"New York, NY",5.0,170000,Male,0,0,NY
+Data Scientist,SoFi,"San Francisco, CA",5.0,260000,Female,0,0,CA
+Data Scientist,Genentech,"South San Francisco, CA",8.0,180000,Male,1,0,CA
+Data Scientist,Microsoft,"Sunnyvale, CA",0.0,211000,Female,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",5.0,250000,Male,1,0,CA
+Data Scientist,Intuit,"Dallas, TX",18.0,315000,Male,1,0,TX
+Data Scientist,Yahoo,"Sunnyvale, CA",11.0,179000,,0,0,CA
+Data Scientist,Lyft,"San Francisco, CA",4.0,256000,Male,1,0,CA
+Data Scientist,Amazon,"Seattle, WA",0.0,185000,,1,0,WA
+Data Scientist,Airbnb,"San Francisco, CA",6.0,405000,Male,0,0,CA
+Data Scientist,Genentech,"South San Francisco, CA",7.0,200000,Male,1,0,CA
+Data Scientist,Microsoft,"Seattle, WA",2.0,155000,Female,1,0,WA
+Data Scientist,Cisco,"San Jose, CA",12.0,145000,Male,0,0,CA
+Data Scientist,Twitter,"San Francisco, CA",1.0,168000,Male,0,0,CA
+Data Scientist,Microsoft,"Seattle, WA",8.0,221000,Male,0,0,WA
+Data Scientist,McKinsey,"Brazil, IN",2.0,36000,Male,0,0,IN
+Data Scientist,Capital One,"New York, NY",2.0,130000,Male,1,0,NY
+Data Scientist,Amazon,"Seattle, WA",3.0,175000,,1,0,WA
+Data Scientist,Oracle,"Broomfield, CO",7.0,156000,,1,0,CO
+Data Scientist,Capital One,"Washington, DC",10.0,280000,,1,0,DC
+Data Scientist,Google,"San Francisco, CA",1.0,175000,Male,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",0.0,205000,Female,0,0,WA
+Data Scientist,Lyft,"San Francisco, CA",3.0,302000,Male,0,0,CA
+Data Scientist,LinkedIn,"Mountain View, CA",8.0,203000,Female,1,0,CA
+Data Scientist,Nike,"Portland, OR",5.0,180000,Male,1,0,OR
+Data Scientist,Google,"Mountain View, CA",10.0,460000,Male,0,0,CA
+Data Scientist,Google,"San Francisco, CA",9.0,282000,Male,1,0,CA
+Data Scientist,Microsoft,"New York, NY",2.0,200000,Male,1,0,NY
+Data Scientist,Visa,"Foster City, CA",9.0,185000,Male,1,0,CA
+Data Scientist,Microsoft,"Redmond, WA",0.0,191000,Male,1,0,WA
+Data Scientist,KPMG,"Irvine, CA",1.0,100000,,1,0,CA
+Data Scientist,Instacart,"San Francisco, CA",5.0,240000,Male,1,0,CA
+Data Scientist,Amazon,"San Francisco, CA",17.0,380000,Male,0,0,CA
+Data Scientist,Facebook,"New York, NY",8.0,260000,Male,0,0,NY
+Data Scientist,Amazon,"Seattle, WA",8.0,200000,Male,1,0,WA
+Data Scientist,Facebook,"Menlo Park, CA",11.0,315000,Male,0,0,CA
+Data Scientist,Schlumberger,"Houston, TX",3.0,150000,,1,0,TX
+Data Scientist,Twitter,"San Francisco, CA",5.0,197000,Male,0,0,CA
+Data Scientist,Apple,"Cupertino, CA",6.0,252000,Female,1,0,CA
+Data Scientist,Amazon,"Seattle, WA",6.0,250000,Female,1,0,WA
+Data Scientist,Goldman Sachs,"New York, NY",3.0,300000,Male,0,0,NY
+Data Scientist,Twitter,"San Francisco, CA",4.0,279000,Male,1,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",0.0,157000,Female,1,0,CA
+Data Scientist,Microsoft,"Redmond, WA",2.0,142000,Male,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",3.0,162000,Female,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",1.0,162000,,1,0,WA
+Data Scientist,Netflix,"Los Gatos, CA",2.0,467000,Male,0,0,CA
+Data Scientist,Startup,"Los Angeles, CA",7.0,200000,,0,0,CA
+Data Scientist,Microsoft,"Cambridge, MA",15.0,132000,Female,1,0,MA
+Data Scientist,IBM,"Armonk, NY",0.0,120000,Female,1,0,NY
+Data Scientist,Facebook,"San Francisco, CA",5.0,295000,Male,0,0,CA
+Data Scientist,Intel,"Chandler, AZ",4.0,143000,Male,1,0,AZ
+Data Scientist,Facebook,"Menlo Park, CA",10.0,221000,Female,1,0,CA
+Data Scientist,Amazon,"San Francisco, CA",10.0,275000,Female,0,0,CA
+Data Scientist,Expedia,"Seattle, WA",4.0,220000,Male,0,0,WA
+Data Scientist,Uber,"San Francisco, CA",2.0,330000,,0,0,CA
+Data Scientist,Walmart Labs,"Sunnyvale, CA",5.0,330000,Male,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",2.0,180000,Male,1,0,WA
+Data Scientist,Two Sigma,"New York, NY",0.0,330000,,0,0,NY
+Data Scientist,Mastercard,"San Francisco, CA",6.0,220000,Male,0,0,CA
+Data Scientist,Stitch Fix,"San Francisco, CA",2.0,325000,Male,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",5.0,270000,Male,1,0,CA
+Data Scientist,Airbnb,"San Francisco, CA",5.0,295000,,0,0,CA
+Data Scientist,Liberty Mutual,"Boston, MA",5.0,110000,,0,0,MA
+Data Scientist,Feedzai,"Atlanta, GA",6.0,140000,Male,0,0,GA
+Data Scientist,IBM,"San Jose, CA",3.0,179000,Male,0,0,CA
+Data Scientist,Macy's,"New York, NY",2.0,157000,Male,0,0,NY
+Data Scientist,Microsoft,"Redmond, WA",10.0,220000,Female,1,0,WA
+Data Scientist,Zillow,"San Francisco, CA",8.0,275000,Male,0,0,CA
+Data Scientist,Facebook,"New York, NY",3.0,185000,,0,0,NY
+Data Scientist,Netflix,"Los Gatos, CA",6.0,400000,Other,1,0,CA
+Data Scientist,Nvidia,"Santa Clara, CA",2.0,140000,Male,1,0,CA
+Data Scientist,Zillow,"Seattle, WA",9.0,165000,Male,1,0,WA
+Data Scientist,Twitter,"Boulder, CO",4.0,266000,Male,1,0,CO
+Data Scientist,Apple,"Cupertino, CA",5.0,252000,Female,1,0,CA
+Data Scientist,Microsoft,"Seattle, WA",11.0,245000,,1,0,WA
+Data Scientist,Amazon,"Seattle, WA",0.0,154000,Male,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",8.0,320000,Male,0,0,WA
+Data Scientist,Wayfair,"Boston, MA",4.0,207000,Male,1,0,MA
+Data Scientist,Deloitte,"Washington, DC",26.0,144000,Male,1,0,DC
+Data Scientist,Walmart,"San Bruno, CA",3.0,189000,Male,1,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",3.0,200000,Other,1,0,CA
+Data Scientist,Lyft,"San Francisco, CA",4.0,450000,Male,0,0,CA
+Data Scientist,Capital One,"New York, NY",10.0,191000,Female,0,0,NY
+Data Scientist,Lyft,"San Francisco, CA",5.0,400000,,0,0,CA
+Data Scientist,Amazon,"Palo Alto, CA",4.0,191000,Male,1,0,CA
+Data Scientist,Airbnb,"San Francisco, CA",4.0,296000,Female,0,0,CA
+Data Scientist,Humana,"Boston, MA",0.0,140000,Male,0,0,MA
+Data Scientist,Amazon,"Seattle, WA",3.0,300000,,0,0,WA
+Data Scientist,Uber,"Palo Alto, CA",12.0,451000,Male,1,0,CA
+Data Scientist,Chan Zuckerberg Initiative,"Redwood City, CA",5.0,321000,,0,0,CA
+Data Scientist,Citibank,"San Francisco, CA",7.0,200000,Male,1,0,CA
+Data Scientist,Uber,"San Francisco, CA",7.0,332000,Male,1,0,CA
+Data Scientist,PayPal,"San Jose, CA",2.0,170000,,1,0,CA
+Data Scientist,Kaiser Permanente,"San Diego, CA",2.0,175000,Male,0,0,CA
+Data Scientist,WeWork,"New York, NY",4.0,192000,Male,1,0,NY
+Data Scientist,Facebook,"San Francisco, CA",7.0,325000,Male,1,0,CA
+Data Scientist,Convoy,"Seattle, WA",15.0,190000,Female,1,0,WA
+Data Scientist,Microsoft,"Sunnyvale, CA",0.0,211000,,0,0,CA
+Data Scientist,JPMorgan Chase,"New York, NY",2.0,128000,Male,1,0,NY
+Data Scientist,Target,"Minneapolis, MN",1.0,150000,,0,0,MN
+Data Scientist,Bird,"Los Angeles, CA",4.0,165000,Male,0,0,CA
+Data Scientist,AWS,"New York, NY",2.0,230000,Male,0,0,NY
+Data Scientist,Capital One,"Washington, DC",3.0,141000,Male,0,0,DC
+Data Scientist,Amazon,"Seattle, WA",6.0,158000,Male,1,0,WA
+Data Scientist,Lyft,"San Francisco, CA",12.0,730000,Male,0,0,CA
+Data Scientist,Booz Allen Hamilton,"Washington, DC",5.0,110000,Male,0,0,DC
+Data Scientist,Amazon,"Seattle, WA",2.0,167000,Male,1,0,WA
+Data Scientist,Lyft,"New York, NY",0.0,300000,Male,0,0,NY
+Data Scientist,eBay,"Bellevue, WA",6.0,230000,Male,1,0,WA
+Data Scientist,Amazon,"New York, NY",5.0,370000,Other,0,0,NY
+Data Scientist,ICF,"Fairfax, VA",1.0,75000,Male,1,0,VA
+Data Scientist,Postmates,"San Francisco, CA",2.0,280000,Male,1,0,CA
+Data Scientist,Microsoft,"Redmond, WA",2.0,190000,Male,0,0,WA
+Data Scientist,Accenture,"Boston, MA",7.0,160000,Male,1,0,MA
+Data Scientist,Delta Air Lines,"Atlanta, GA",4.0,155000,Male,0,0,GA
+Data Scientist,Apple,"Redmond, WA",7.0,645000,Male,1,0,WA
+Data Scientist,Nordstrom,"Seattle, WA",6.0,170000,,1,0,WA
+Data Scientist,Walmart Labs,"Bentonville, AR",11.0,263000,Male,1,0,AR
+Data Scientist,Thumbtack,"San Francisco, CA",1.0,125000,Other,0,0,CA
+Data Scientist,Dell Technologies,"Austin, TX",2.0,134000,Male,1,0,TX
+Data Scientist,Adobe,"Emeryville, CA",4.0,250000,Male,1,0,CA
+Data Scientist,intel,"Portland, OR",5.0,300000,,0,0,OR
+Data Scientist,Zulily,"Seattle, WA",4.0,206000,,0,0,WA
+Data Scientist,Airbnb,"San Francisco, CA",2.0,213000,Male,0,0,CA
+Data Scientist,Microsoft,"Atlanta, GA",0.0,172000,Male,0,0,GA
+Data Scientist,Nike,"Portland, OR",5.0,245000,Male,0,0,OR
+Data Scientist,Microsoft,"San Juan Bautista, CA",16.0,156000,Male,1,0,CA
+Data Scientist,Microsoft,"San Juan Bautista, CA",16.0,156000,Male,1,0,CA
+Data Scientist,Morgan Stanley,"New York, NY",4.0,190000,,0,0,NY
+Data Scientist,Uber,"San Francisco, CA",2.0,215000,Male,1,0,CA
+Data Scientist,Amazon,"Charlotte, NC",2.0,222000,,0,0,NC
+Data Scientist,Salesforce,"San Francisco, CA",2.0,236000,Male,1,0,CA
+Data Scientist,Aetna,"New York, NY",5.0,180000,Other,0,0,NY
+Data Scientist,Uber,"Los Angeles, CA",3.0,169000,Male,0,0,CA
+Data Scientist,Capital One,"Washington, DC",1.0,140000,Male,0,0,DC
+Data Scientist,PayPal,"San Jose, CA",3.0,146000,,1,0,CA
+Data Scientist,Allstate,"Redwood City, CA",7.0,140000,,0,0,CA
+Data Scientist,Snap,"Santa Monica, CA",2.0,380000,Male,1,0,CA
+Data Scientist,Visa,"Foster City, CA",3.0,175000,Male,1,0,CA
+Data Scientist,Opendoor,"San Francisco, CA",7.0,230000,,1,0,CA
+Data Scientist,Microsoft,"Redmond, WA",5.0,195000,Male,1,0,WA
+Data Scientist,Uber,"San Francisco, CA",8.0,311000,Female,1,0,CA
+Data Scientist,IHS Markit,"Naperville, IL",0.0,75000,Male,1,0,IL
+Data Scientist,Intuit,"Sunnyvale, CA",10.0,300000,Female,0,0,CA
+Data Scientist,Walmart Labs,"Bentonville, AR",6.0,131000,Male,1,0,AR
+Data Scientist,IBM,"Chicago, IL",0.0,98000,Male,0,0,IL
+Data Scientist,Amazon,"New York, NY",3.0,220000,Female,1,0,NY
+Data Scientist,Amazon,"Seattle, WA",2.0,167000,Male,1,0,WA
+Data Scientist,Facebook,"Menlo Park, CA",2.0,225000,Female,1,0,CA
+Data Scientist,Salesforce,"Cambridge, MA",6.0,350000,Male,0,0,MA
+Data Scientist,Numerator,"Chicago, IL",4.0,136000,Male,0,0,IL
+Data Scientist,Travelers,"Hartford, CT",0.0,108000,Male,1,0,CT
+Data Scientist,Booz Allen Hamilton,"Washington, DC",4.0,115000,Female,1,0,DC
+Data Scientist,Amazon,"New York, NY",3.0,228000,Male,0,0,NY
+Data Scientist,Uber,"San Francisco, CA",1.0,162000,Male,0,0,CA
+Data Scientist,Netflix,"Los Gatos, CA",0.0,375000,Male,0,0,CA
+Data Scientist,Schlumberger,"Houston, TX",8.0,160000,Female,1,0,TX
+Data Scientist,KPMG,"Irvine, CA",2.0,90000,Male,1,0,CA
+Data Scientist,Amazon,"New York, NY",2.0,262000,Male,1,0,NY
+Data Scientist,Atlassian,"San Francisco, CA",10.0,340000,,0,0,CA
+Data Scientist,Red Hat,"Raleigh, NC",2.0,110000,Male,0,0,NC
+Data Scientist,Facebook,"San Francisco, CA",3.0,170000,Female,1,0,CA
+Data Scientist,Intel,"Hillsboro, OR",7.0,173000,Male,0,0,OR
+Data Scientist,PayPal,"San Jose, CA",7.0,220000,Female,1,0,CA
+Data Scientist,Wells Fargo,"Charlotte, NC",5.0,180000,Male,0,0,NC
+Data Scientist,Intuit,"San Diego, CA",3.0,213000,Female,0,0,CA
+Data Scientist,Intuitive,"Sunnyvale, CA",1.0,153000,Male,0,0,CA
+Data Scientist,Wells Fargo,"San Francisco, CA",0.0,165000,Female,0,0,CA
+Data Scientist,Nextdoor,"San Francisco, CA",6.0,320000,Male,0,0,CA
+Data Scientist,Google,"San Francisco, CA",4.0,220000,,0,0,CA
+Data Scientist,Zillow,"Seattle, WA",2.0,177000,Male,1,0,WA
+Data Scientist,Google,"Atlanta, GA",2.0,120000,Male,1,0,GA
+Data Scientist,Google,"Atlanta, GA",0.0,100000,Male,1,0,GA
+Data Scientist,Google,"Mountain View, CA",3.0,270000,,0,0,CA
+Data Scientist,Workday,"Boulder, CO",5.0,244000,Male,1,0,CO
+Data Scientist,Netflix,"San Francisco, CA",5.0,450000,Other,0,0,CA
+Data Scientist,Red Hat,"Raleigh, NC",2.0,100000,Male,1,0,NC
+Data Scientist,NVIDIA,"Santa Clara, CA",2.0,175000,Male,1,0,CA
+Data Scientist,Microsoft,"Sunnyvale, CA",7.0,550000,Male,0,0,CA
+Data Scientist,Atlassian,"San Francisco, CA",4.0,237000,Male,1,0,CA
+Data Scientist,Boeing,"Seattle, WA",4.0,142000,Female,1,0,WA
+Data Scientist,JPMorgan Chase,"New York, NY",1.0,150000,,1,0,NY
+Data Scientist,Intuit,"Mountain View, CA",5.0,190000,Female,1,0,CA
+Data Scientist,Facebook,"San Francisco, CA",10.0,330000,Male,1,0,CA
+Data Scientist,Amazon,"Palo Alto, CA",7.0,314000,Male,1,0,CA
+Data Scientist,Amadeus,"Gainesville, FL",2.0,105000,Male,0,0,FL
+Data Scientist,Microsoft,"Redmond, WA",3.0,150000,Male,1,0,WA
+Data Scientist,capital one,"Fairfax, VA",3.0,140000,,1,0,VA
+Data Scientist,Booz Allen Hamilton,"Alexandria, VA",4.0,98000,Male,0,0,VA
+Data Scientist,Apple,"Cupertino, CA",5.0,270000,Male,0,0,CA
+Data Scientist,Shutterstock,"New York, NY",1.0,125000,Male,0,0,NY
+Data Scientist,Capital One,"New York, NY",4.0,150000,Male,1,0,NY
+Data Scientist,JP Morgan Chase,"New York, NY",3.0,160000,Male,1,0,NY
+Data Scientist,Airbnb,"Miami, FL",6.0,318000,Male,0,0,FL
+Data Scientist,Amazon,"Palo Alto, CA",4.0,216000,Male,0,0,CA
+Data Scientist,Microsoft,"Seattle, WA",5.0,170000,Male,1,0,WA
+Data Scientist,Workday,"Pleasanton, CA",3.0,184000,Male,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",1.0,191000,Male,0,0,WA
+Data Scientist,Adobe,"San Francisco, CA",4.0,200000,Female,0,0,CA
+Data Scientist,Google,"Sunnyvale, CA",4.0,270000,Male,0,0,CA
+Data Scientist,Bird,"Santa Monica, CA",4.0,165000,Male,0,0,CA
+Data Scientist,Amazon,"New York, NY",3.0,191000,Male,1,0,NY
+Data Scientist,Amobee,"San Francisco, CA",7.0,222000,Male,0,0,CA
+Data Scientist,Capital One,"Richmond, VA",2.0,134000,Male,0,0,VA
+Data Scientist,Apple,"Cupertino, CA",2.0,144000,Male,1,0,CA
+Data Scientist,Amazon,"Seattle, WA",2.0,140000,,0,0,WA
+Data Scientist,Oracle,"Seattle, WA",5.0,335000,Male,1,0,WA
+Data Scientist,Amazon,"Seattle, WA",2.0,210000,Male,0,0,WA
+Data Scientist,IBM,"Armonk, NY",13.0,270000,Male,0,0,NY
+Data Scientist,SAP,"Chicago, IL",2.0,127000,Male,1,0,IL
+Data Scientist,Booz Allen Hamilton,"Arlington, VA",2.0,128000,Male,0,0,VA
+Data Scientist,PayPal,"San Jose, CA",10.0,230000,Male,1,0,CA
+Data Scientist,Uber,"San Francisco, CA",16.0,471000,Male,0,0,CA
+Data Scientist,IBM,"San Francisco, CA",3.0,131000,Female,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",4.0,328000,Male,1,0,CA
+Data Scientist,PayPal,"San Jose, CA",1.0,153000,Male,1,0,CA
+Data Scientist,Amazon,"Seattle, WA",5.0,230000,Female,1,0,WA
+Data Scientist,Accenture,"San Francisco, CA",4.0,150000,Female,1,0,CA
+Data Scientist,Adobe,"San Francisco, CA",4.0,168000,,0,0,CA
+Data Scientist,T-Mobile,"Bellevue, WA",2.0,80000,Male,0,0,WA
+Data Scientist,Feedzai,"Atlanta, GA",6.0,142000,Male,1,0,GA
+Data Scientist,Google,"Sunnyvale, CA",0.0,213000,Male,1,0,CA
+Data Scientist,Walmart Labs,"Sunnyvale, CA",1.0,175000,Male,1,0,CA
+Data Scientist,Microsoft,"Redmond, WA",1.0,184000,Male,1,0,WA
+Data Scientist,Verizon,"Orlando, FL",6.0,116000,Male,1,0,FL
+Data Scientist,MITRE,"Ann Arbor, MI",23.0,170000,Male,1,0,MI
+Data Scientist,Siemens,"Atlanta, GA",3.0,78000,Male,1,0,GA
+Data Scientist,Facebook,"Seattle, WA",12.0,300000,,0,0,WA
+Data Scientist,Google,"Seattle, WA",8.0,320000,,0,0,WA
+Data Scientist,linkedin,"Sunnyvale, CA",3.0,160000,Male,1,0,CA
+Data Scientist,Amazon,"Palo Alto, CA",4.0,210000,,1,0,CA
+Data Scientist,Amazon,"Seattle, WA",4.0,250000,Male,1,0,WA
+Data Scientist,Apple,"Cupertino, CA",6.0,385000,Male,1,0,CA
+Data Scientist,Apple,"Cupertino, CA",7.0,382000,,0,0,CA
+Data Scientist,Twitter,"San Francisco, CA",1.0,180000,Female,0,0,CA
+Data Scientist,Facebook,"San Francisco, CA",2.0,200000,Female,1,0,CA
+Data Scientist,Amazon,"Seattle, WA",5.0,176000,Female,1,0,WA
+Data Scientist,Amazon,"Seattle, WA",10.0,160000,,1,0,WA
+Data Scientist,Twitter,"San Francisco, CA",4.0,280000,Male,0,0,CA
+Data Scientist,Bosch,"Sunnyvale, CA",3.0,180000,Male,0,0,CA
+Data Scientist,Google,"San Francisco, CA",7.0,350000,Female,0,0,CA
+Data Scientist,Amazon,"New York, NY",4.0,220000,,0,0,NY
+Data Scientist,Google,"Mountain View, CA",11.0,284000,Male,1,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",5.0,235000,Female,0,0,CA
+Data Scientist,JPMorgan Chase,"New York, NY",1.0,135000,Male,0,0,NY
+Data Scientist,Microsoft,"Seattle, WA",7.0,247000,,0,0,WA
+Data Scientist,Poshmark,"Redwood City, CA",4.0,125000,Male,1,0,CA
+Data Scientist,Booz Allen Hamilton,"Washington, DC",5.0,160000,Male,1,0,DC
+Data Scientist,Deloitte,"Boston, MA",2.0,127000,Male,1,0,MA
+Data Scientist,Facebook,"Fremont, CA",11.0,300000,Male,1,0,CA
+Data Scientist,Expedia,"Seattle, WA",2.0,300000,Male,0,0,WA
+Data Scientist,PayPal,"San Jose, CA",6.0,232000,,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",5.0,256000,Male,0,0,CA
+Data Scientist,Goldman sachs,"New York, NY",5.0,110000,Male,1,0,NY
+Data Scientist,Apple,"Cupertino, CA",1.0,220000,Male,1,0,CA
+Data Scientist,Wish,"San Francisco, CA",3.0,165000,Male,0,0,CA
+Data Scientist,MITRE,"Washington, DC",2.0,109000,Female,0,0,DC
+Data Scientist,Google,"Sunnyvale, CA",10.0,246000,Female,0,0,CA
+Data Scientist,Capital One,"New York, NY",3.0,194000,Female,0,0,NY
+Data Scientist,Facebook,"San Jose, CA",20.0,300000,Male,1,0,CA
+Data Scientist,ExxonMobil,"Houston, TX",1.0,106000,Male,0,0,TX
+Data Scientist,Amazon,"Seattle, WA",10.0,212000,Male,1,0,WA
+Data Scientist,Yahoo,"Sunnyvale, CA",4.0,180000,Male,1,0,CA
+Data Scientist,Boeing,"Seattle, WA",10.0,143000,,1,0,WA
+Data Scientist,GoDaddy,"Arizona City, AZ",2.0,150000,Male,1,0,AZ
+Data Scientist,Microsoft,"Berkeley, CA",5.0,390000,Male,1,0,CA
+Data Scientist,Zillow,"Seattle, WA",4.0,222000,Male,0,0,WA
+Data Scientist,Salesforce,"Bellevue, WA",4.0,150000,Male,1,0,WA
+Data Scientist,Intuit,"Mountain View, CA",6.0,238000,Male,1,0,CA
+Data Scientist,Apple,"Los Angeles, CA",20.0,480000,Male,1,0,CA
+Data Scientist,Cruise,"San Francisco, CA",9.0,310000,Male,1,0,CA
+Data Scientist,Target,"Minneapolis, MN",4.0,102000,Male,1,0,MN
+Data Scientist,Apple,"San Jose, CA",10.0,175000,Male,1,0,CA
+Data Scientist,Johnson and Johnson,"Titusville, NJ",0.0,140000,Male,0,0,NJ
+Data Scientist,Microsoft,"Seattle, WA",5.0,151000,Female,0,0,WA
+Data Scientist,Amazon,"San Diego, CA",5.0,250000,,0,0,CA
+Data Scientist,Google,"San Francisco, CA",3.0,170000,Male,0,1,CA
+Data Scientist,Facebook,"Menlo Park, CA",0.0,205000,Female,0,0,CA
+Data Scientist,Microsoft,"Bellevue, WA",4.0,220000,Male,0,0,WA
+Data Scientist,PayPal,"San Jose, CA",2.0,216000,Male,1,0,CA
+Data Scientist,Walmart Labs,"San Francisco, CA",10.0,223000,,0,0,CA
+Data Scientist,Amazon,"Cambridge, MA",25.0,185000,Male,0,1,MA
+Data Scientist,AT&T,"Dallas, TX",0.0,98000,Male,0,1,TX
+Data Scientist,Facebook,"Seattle, WA",2.0,297000,,0,0,WA
+Data Scientist,Intel,"Hillsboro, OR",1.0,147000,Male,0,0,OR
+Data Scientist,Expedia,"Seattle, WA",1.0,131000,Female,0,0,WA
+Data Scientist,Apple,"Sunnyvale, CA",2.0,197000,Female,1,0,CA
+Data Scientist,PayPal,"San Jose, CA",13.0,297000,Female,1,0,CA
+Data Scientist,Amazon,"Seattle, WA",3.0,140000,,1,0,WA
+Data Scientist,GoDaddy,"Redmond, WA",5.0,152000,Male,1,0,WA
+Data Scientist,Apple,"Cupertino, CA",6.0,246000,Male,0,1,CA
+Data Scientist,Qualtrics,"Seattle, WA",8.0,220000,Male,0,0,WA
+Data Scientist,Facebook,"New York, NY",0.0,156000,Male,1,0,NY
+Data Scientist,Amazon,"Sunnyvale, CA",4.0,185000,Male,1,0,CA
+Data Scientist,Google,"Mountain View, CA",12.0,489000,,0,0,CA
+Data Scientist,Capital One,"Richmond, VA",0.0,102000,Male,1,0,VA
+Data Scientist,Apple,"Cupertino, CA",17.0,400000,Male,1,0,CA
+Data Scientist,capgemini,"Italy, TX",16.0,40000,Male,1,0,TX
+Data Scientist,Swiss Re,"New York, NY",1.0,105000,Male,1,0,NY
+Data Scientist,Google,"Mountain View, CA",9.0,240000,Male,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",4.0,160000,,0,0,CA
+Data Scientist,Amazon,"New York, NY",4.0,220000,,0,0,NY
+Data Scientist,Oracle,"Denver, CO",1.0,134000,,0,0,CO
+Data Scientist,Asana,"San Francisco, CA",4.0,170000,Male,0,0,CA
+Data Scientist,eBay,"San Jose, CA",4.0,220000,,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",0.0,210000,,0,0,CA
+Data Scientist,Zalando,"Berlin Center, OH",3.0,74000,,0,0,OH
+Data Scientist,JPMorgan Chase,"New York, NY",5.0,169000,,0,1,NY
+Data Scientist,Dropbox,"San Francisco, CA",3.0,147000,Female,1,0,CA
+Data Scientist,Nielsen,"Tampa, FL",1.0,78000,Female,0,1,FL
+Data Scientist,PwC,"New York, NY",3.0,120000,,0,0,NY
+Data Scientist,IBM,"New York, NY",3.0,130000,Male,1,0,NY
+Data Scientist,IBM,"Cleveland, OH",9.0,200000,,0,0,OH
+Data Scientist,Google,"Austin, TX",15.0,289000,Male,0,0,TX
+Data Scientist,Wayfair,"Boston, MA",1.0,140000,Male,0,0,MA
+Data Scientist,Wells Fargo,"San Francisco, CA",10.0,185000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",1.0,165000,Male,0,0,WA
+Data Scientist,Capgemini,"Los Angeles, CA",0.0,97000,,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",15.0,321000,,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",3.0,208000,,0,0,CA
+Data Scientist,Apple,"Sunnyvale, CA",7.0,220000,Female,0,0,CA
+Data Scientist,Ebay,"New York, NY",5.0,188000,,0,0,NY
+Data Scientist,JUUL Labs,"San Francisco, CA",4.0,160000,Female,1,0,CA
+Data Scientist,Nextdoor,"San Francisco, CA",1.0,203000,Male,1,0,CA
+Data Scientist,Aetna,"Boston, MA",5.0,180000,,0,0,MA
+Data Scientist,Facebook,"Menlo Park, CA",0.0,177000,Male,1,0,CA
+Data Scientist,Stripe,"San Francisco, CA",4.0,385000,,0,0,CA
+Data Scientist,Palo Alto Networks,"Santa Clara, CA",0.0,204000,,0,0,CA
+Data Scientist,Oracle,"Redwood City, CA",2.0,117000,Male,0,1,CA
+Data Scientist,Ernst and Young,"San Francisco, CA",2.0,104000,Male,0,1,CA
+Data Scientist,Microsoft,"Sunnyvale, CA",2.0,238000,,0,0,CA
+Data Scientist,Morgan Stanley,"New York, NY",2.0,123000,Female,1,0,NY
+Data Scientist,GoDaddy,"Arizona City, AZ",5.0,150000,Male,1,0,AZ
+Data Scientist,Ebay,"Campbell, CA",15.0,290000,,0,0,CA
+Data Scientist,Intuit,"San Diego, CA",4.0,140000,Male,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",3.0,210000,,0,0,CA
+Data Scientist,Intuit,"San Diego, CA",1.0,168000,Male,1,0,CA
+Data Scientist,Square,"San Francisco, CA",7.0,310000,,0,0,CA
+Data Scientist,T-Mobile,"Seattle, WA",4.0,195000,Male,0,0,WA
+Data Scientist,Genentech,"South San Francisco, CA",3.0,196000,,0,0,CA
+Data Scientist,Zillow,"San Francisco, CA",4.0,270000,,0,0,CA
+Data Scientist,Amazon,"San Francisco, CA",5.0,253000,Male,0,1,CA
+Data Scientist,Apple,"Cupertino, CA",0.0,200000,Female,1,0,CA
+Data Scientist,ON Semiconductor,"Phoenix, AZ",3.0,77000,,0,0,AZ
+Data Scientist,eBay,"San Jose, CA",12.0,346000,Other,1,0,CA
+Data Scientist,Google,"Sunnyvale, CA",2.0,130000,,0,0,CA
+Data Scientist,Boeing,"Seattle, WA",1.0,85000,Female,0,1,WA
+Data Scientist,Amazon,"San Francisco, CA",5.0,325000,Male,1,0,CA
+Data Scientist,Nike,"Beaverton, OR",25.0,200000,,0,0,OR
+Data Scientist,Playstation,"San Mateo, CA",8.0,215000,,0,0,CA
+Data Scientist,Kaiser Permanente,"San Diego, CA",2.0,175000,Male,0,0,CA
+Data Scientist,Lowe's,"Charlotte, NC",10.0,250000,,0,0,NC
+Data Scientist,Facebook,"Menlo Park, CA",3.0,212000,,0,0,CA
+Data Scientist,Walmart,"San Bruno, CA",10.0,300000,,0,0,CA
+Data Scientist,Workday,"Pleasanton, CA",3.0,194000,Male,0,1,CA
+Data Scientist,Aetna,"San Francisco, CA",4.0,176000,,0,0,CA
+Data Scientist,Apple,"Cupertino, CA",2.0,215000,Female,0,0,CA
+Data Scientist,Walmart Labs,"Bentonville, AR",3.0,125000,Male,1,0,AR
+Data Scientist,Amazon,"Palo Alto, CA",13.0,340000,Male,1,0,CA
+Data Scientist,Apple,"Cupertino, CA",15.0,292000,Male,0,0,CA
+Data Scientist,Netflix,"Los Gatos, CA",3.0,400000,Male,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",3.0,162000,,0,0,WA
+Data Scientist,Adobe,"San Jose, CA",1.0,260000,,1,0,CA
+Data Scientist,Microsoft,"Seattle, WA",1.0,150000,,0,0,WA
+Data Scientist,Bird,"Santa Monica, CA",4.0,180000,,0,0,CA
+Data Scientist,Ford,"Detroit, MI",1.0,115000,,0,0,MI
+Data Scientist,Netflix,"Los Angeles, CA",15.0,473000,Male,0,1,CA
+Data Scientist,Capital One,"Plano, TX",3.0,155000,,0,0,TX
+Data Scientist,Deloitte,"Washington, DC",4.0,93000,Male,0,1,DC
+Data Scientist,IBM,"Sunnyvale, CA",6.0,154000,,1,0,CA
+Data Scientist,Google,"Mountain View, CA",9.0,277000,Male,0,0,CA
+Data Scientist,Aetna,"New York, NY",10.0,260000,Male,0,0,NY
+Data Scientist,Startup,"San Diego, CA",12.0,250000,,0,0,CA
+Data Scientist,State Farm,"Atlanta, GA",1.0,106000,,0,0,GA
+Data Scientist,PayPal,"San Jose, CA",3.0,182000,,0,0,CA
+Data Scientist,Airbnb,"San Francisco, CA",2.0,210000,Female,1,0,CA
+Data Scientist,Morgan Stanley,"New York, NY",4.0,350000,,0,0,NY
+Data Scientist,PayPal,"San Jose, CA",5.0,280000,,0,0,CA
+Data Scientist,Salesforce,"San Francisco, CA",1.0,245000,,0,0,CA
+Data Scientist,Apple,"Cupertino, CA",4.0,407000,Male,0,0,CA
+Data Scientist,PwC,"Dallas, TX",0.0,69000,Male,0,1,TX
+Data Scientist,Micron,"Boise, ID",3.0,110000,,0,0,ID
+Data Scientist,Amazon,"Seattle, WA",12.0,212000,,0,0,WA
+Data Scientist,Wish,"San Francisco, CA",5.0,212000,Male,1,0,CA
+Data Scientist,Microsoft,"Redmond, WA",3.0,171000,Female,0,0,WA
+Data Scientist,Apple,"Cupertino, CA",8.0,330000,Male,1,0,CA
+Data Scientist,IBM,"Columbia, MO",2.0,60000,,0,1,MO
+Data Scientist,Bny Mellon,"New York, NY",1.0,100000,Female,1,0,NY
+Data Scientist,Amazon,"Seattle, WA",7.0,280000,,0,0,WA
+Data Scientist,IQVIA,"Bridgewater, NJ",5.0,135000,Male,1,0,NJ
+Data Scientist,IBM,"Denver, CO",4.0,110000,,0,0,CO
+Data Scientist,Spotify,"New York, NY",5.0,245000,Male,1,0,NY
+Data Scientist,Facebook,"Menlo Park, CA",3.0,228000,Male,0,1,CA
+Data Scientist,Uber,"San Francisco, CA",9.0,386000,,0,0,CA
+Data Scientist,Microsoft,"Seattle, WA",7.0,212000,,0,0,WA
+Data Scientist,Zalando,"Berlin Center, OH",4.0,86000,,0,0,OH
+Data Scientist,Facebook,"Menlo Park, CA",1.0,167000,Male,0,1,CA
+Data Scientist,LinkedIn,"Sunnyvale, CA",3.0,199000,,0,0,CA
+Data Scientist,Synchrony,"Stamford, CT",15.0,240000,Male,1,0,CT
+Data Scientist,McKinsey,"Waltham, MA",2.0,150000,,0,0,MA
+Data Scientist,Tesla,"Palo Alto, CA",3.0,205000,Male,0,0,CA
+Data Scientist,IBM,"Columbus, OH",4.0,105000,Male,0,1,OH
+Data Scientist,Tinder,"Los Angeles, CA",2.0,175000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",6.0,400000,,0,0,WA
+Data Scientist,Credit Suisse,"New York, NY",0.0,100000,,0,0,NY
+Data Scientist,Chevron,"San Francisco, CA",5.0,150000,,0,0,CA
+Data Scientist,Google,"Seattle, WA",8.0,210000,,0,0,WA
+Data Scientist,WeWork,"New York, NY",8.0,220000,,0,0,NY
+Data Scientist,SquareSpace,"New York, NY",6.0,178000,Male,0,1,NY
+Data Scientist,Intel,"Arizona City, AZ",2.0,78000,,0,0,AZ
+Data Scientist,Slalom,"Dallas, TX",9.0,165000,Male,0,1,TX
+Data Scientist,Nvidia,"Santa Clara, CA",7.0,354000,Male,1,0,CA
+Data Scientist,Amazon,"Seattle, WA",5.0,153000,Male,1,0,WA
+Data Scientist,Google,"San Francisco, CA",1.0,195000,Male,0,0,CA
+Data Scientist,Microsoft,"Seattle, WA",15.0,257000,Male,0,1,WA
+Data Scientist,Microsoft,"Seattle, WA",10.0,320000,,0,0,WA
+Data Scientist,Morgan Stanley,"New York, NY",16.0,250000,,0,0,NY
+Data Scientist,Lyft,"San Francisco, CA",0.0,200000,Male,0,1,CA
+Data Scientist,Microsoft,"Redmond, WA",11.0,207000,,0,0,WA
+Data Scientist,Google,"Sunnyvale, CA",7.0,208000,Male,0,1,CA
+Data Scientist,IBM,"San Jose, CA",5.0,140000,Male,1,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",5.0,217000,,0,0,CA
+Data Scientist,Asana,"San Francisco, CA",0.0,192000,Male,0,1,CA
+Data Scientist,Microsoft,"Redmond, WA",10.0,205000,,0,0,WA
+Data Scientist,C3.ai,"Redwood City, CA",2.0,175000,Male,1,0,CA
+Data Scientist,Accenture,"Washington, DC",12.0,160000,Male,1,0,DC
+Data Scientist,Hulu,"Seattle, WA",10.0,222000,Male,0,0,WA
+Data Scientist,The Home Depot,"Atlanta, GA",4.0,160000,Male,0,0,GA
+Data Scientist,Adobe,"San Francisco, CA",4.0,210000,Female,0,1,CA
+Data Scientist,Amazon,"Antioch, TN",1.0,126000,Male,0,1,TN
+Data Scientist,Facebook,"Seattle, WA",6.0,310000,Male,1,0,WA
+Data Scientist,Microsoft,"Redmond, WA",10.0,209000,,0,0,WA
+Data Scientist,IBM,"San Francisco, CA",15.0,260000,,0,0,CA
+Data Scientist,wish,"San Francisco, CA",8.0,300000,Male,1,0,CA
+Data Scientist,Amazon,"Seattle, WA",5.0,260000,,0,0,WA
+Data Scientist,Airbnb,"San Francisco, CA",6.0,300000,,0,0,CA
+Data Scientist,Cisco,"San Francisco, CA",15.0,325000,Male,0,0,CA
+Data Scientist,Citi,"New York, NY",20.0,125000,,1,0,NY
+Data Scientist,Uber,"San Francisco, CA",3.0,217000,Male,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",2.0,209000,Male,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",5.0,209000,Male,1,0,WA
+Data Scientist,Lyft,"Seattle, WA",4.0,387000,,0,0,WA
+Data Scientist,PNC,"Cleveland, OH",2.0,97000,Male,0,1,OH
+Data Scientist,Microsoft,"Redmond, WA",15.0,248000,Male,1,0,WA
+Data Scientist,LinkedIn,"San Francisco, CA",8.0,276000,Male,0,0,CA
+Data Scientist,Clover Health,"San Francisco, CA",5.0,220000,,0,0,CA
+Data Scientist,Netflix,"Los Gatos, CA",10.0,410000,,0,0,CA
+Data Scientist,Sophos,"Portland, OR",7.0,165000,Female,0,1,OR
+Data Scientist,IBM,"San Jose, CA",3.0,156000,Male,1,0,CA
+Data Scientist,Amazon,"Seattle, WA",7.0,300000,Male,1,0,WA
+Data Scientist,Instacart,"San Francisco, CA",6.0,305000,Female,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",5.0,170000,Female,1,0,WA
+Data Scientist,Microsoft,"Seattle, WA",8.0,234000,Male,0,0,WA
+Data Scientist,Microsoft,"Bellevue, WA",0.0,201000,,0,0,WA
+Data Scientist,Microsoft,"Bellevue, WA",3.0,194000,Male,1,0,WA
+Data Scientist,Wayfair,"Boston, MA",4.0,180000,Male,0,0,MA
+Data Scientist,Microsoft,"Redmond, WA",16.0,400000,,0,0,WA
+Data Scientist,Spotify,"New York, NY",3.0,167000,,0,0,NY
+Data Scientist,Garmin,"Kansas City, KS",23.0,255000,Male,1,0,KS
+Data Scientist,Apple,"Sunnyvale, CA",2.0,350000,Male,0,0,CA
+Data Scientist,Better.com,"New York, NY",2.0,200000,,0,0,NY
+Data Scientist,Zillow,"Seattle, WA",7.0,260000,,0,0,WA
+Data Scientist,DoorDash,"San Francisco, CA",5.0,245000,Female,0,1,CA
+Data Scientist,LinkedIn,"San Francisco, CA",8.0,190000,,0,0,CA
+Data Scientist,Allstate,"Chicago, IL",3.0,75000,Female,0,1,IL
+Data Scientist,Metlife,"New York, NY",15.0,194000,,1,0,NY
+Data Scientist,Charter Communications,"Charlotte, NC",9.0,105000,Male,1,0,NC
+Data Scientist,IQVIA,"Bridgewater, NJ",5.0,134000,Male,1,0,NJ
+Data Scientist,Facebook,"Seattle, WA",1.0,220000,,0,0,WA
+Data Scientist,IBM,"Armonk, NY",5.0,145000,Male,1,0,NY
+Data Scientist,Facebook,"Austin, TX",3.0,170000,Male,1,0,TX
+Data Scientist,Samsung,"San Jose, CA",6.0,280000,,0,0,CA
+Data Scientist,Merck,"Philadelphia, PA",0.0,81000,Male,0,1,PA
+Data Scientist,Indeed,"Austin, TX",4.0,138000,Male,1,0,TX
+Data Scientist,Roche,"Santa Clara, CA",5.0,193000,Female,0,0,CA
+Data Scientist,Apple,"Sunnyvale, CA",0.0,228000,Male,0,0,CA
+Data Scientist,Morgan Stanley,"New York, NY",9.0,205000,,0,0,NY
+Data Scientist,Spotify,"New York, NY",6.0,188000,Female,1,0,NY
+Data Scientist,Microsoft,"Redmond, WA",9.0,320000,,1,0,WA
+Data Scientist,Lockheed Martin,"Shelton, CT",1.0,103000,Male,0,1,CT
+Data Scientist,Intel,"Hillsboro, OR",9.0,200000,,0,0,OR
+Data Scientist,Microsoft,"Bellevue, WA",5.0,194000,Male,0,0,WA
+Data Scientist,Travelers,"Hartford, CT",5.0,110000,,0,0,CT
+Data Scientist,Deloitte,"Chicago, IL",5.0,122000,Male,1,0,IL
+Data Scientist,Microsoft,"Redmond, WA",3.0,227000,Female,0,1,WA
+Data Scientist,Microsoft,"Redmond, WA",5.0,168000,Male,1,0,WA
+Data Scientist,Microsoft,"Bellevue, WA",0.0,229000,,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",8.0,250000,Male,1,0,WA
+Data Scientist,ebay,"Bellevue, WA",2.0,195000,,0,0,WA
+Data Scientist,Ernst & Young,"San Jose, CA",2.0,100000,Female,1,0,CA
+Data Scientist,Amazon,"Seattle, WA",0.0,154000,,0,0,WA
+Data Scientist,Facebook,"San Francisco, CA",5.0,236000,Male,0,1,CA
+Data Scientist,Ticketmaster,"Los Angeles, CA",3.0,152000,Male,1,0,CA
+Data Scientist,Deloitte,"San Francisco, CA",1.0,200000,,0,0,CA
+Data Scientist,Apple,"Cupertino, CA",4.0,240000,,0,0,CA
+Data Scientist,Wells Fargo,"Portland, OR",22.0,270000,,0,1,OR
+Data Scientist,PwC,"New York, NY",5.0,88000,,0,0,NY
+Data Scientist,CVS Health,"Woonsocket, RI",2.0,92000,,0,0,RI
+Data Scientist,LinkedIn,"San Francisco, CA",1.0,270000,,0,0,CA
+Data Scientist,Wayfair,"Boston, MA",1.0,150000,Female,0,0,MA
+Data Scientist,Amazon,"Seattle, WA",1.0,225000,Male,1,0,WA
+Data Scientist,LinkedIn,"San Francisco, CA",5.0,217000,,0,0,CA
+Data Scientist,Zillow,"Seattle, WA",5.0,309000,,0,0,WA
+Data Scientist,Experian,"Indianapolis, IN",2.0,90000,Female,1,0,IN
+Data Scientist,Amazon,"Seattle, WA",13.0,710000,,0,0,WA
+Data Scientist,Epam,"San Jose, CA",3.0,96000,,0,0,CA
+Data Scientist,LinkedIn,"Sunnyvale, CA",0.0,233000,,0,0,CA
+Data Scientist,SAP,"Newtown Square, PA",5.0,95000,Male,1,0,PA
+Data Scientist,Lyft,"San Francisco, CA",5.0,463000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",7.0,240000,,0,0,WA
+Data Scientist,Intuit,"Mountain View, CA",6.0,198000,Male,1,0,CA
+Data Scientist,Nvidia,"Santa Clara, CA",2.0,200000,,0,0,CA
+Data Scientist,Humana,"Boston, MA",2.0,146000,Male,1,0,MA
+Data Scientist,Twitter,"San Francisco, CA",4.0,330000,,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",5.0,220000,Male,1,0,CA
+Data Scientist,IBM,"Armonk, NY",2.0,144000,Male,1,0,NY
+Data Scientist,IBM,"New York, NY",0.0,110000,Female,1,0,NY
+Data Scientist,Lyft,"San Francisco, CA",0.0,200000,Male,0,1,CA
+Data Scientist,Capital One,"Washington, DC",3.0,136000,,0,0,DC
+Data Scientist,Point72,"New York, NY",1.0,170000,,0,0,NY
+Data Scientist,Swiss Re,"New York, NY",3.0,110000,Female,1,0,NY
+Data Scientist,Booz Allen Hamilton,"Fairfax, VA",3.0,90000,Female,0,1,VA
+Data Scientist,SoFi,"San Francisco, CA",1.0,164000,,1,0,CA
+Data Scientist,Google,"Irvine, CA",20.0,274000,Male,0,0,CA
+Data Scientist,Microsoft,"Seattle, WA",2.0,156000,Male,0,0,WA
+Data Scientist,Pinterest,"San Francisco, CA",8.0,385000,,0,0,CA
+Data Scientist,H-E-B,"San Antonio, TX",3.0,115000,Male,1,0,TX
+Data Scientist,DoorDash,"San Francisco, CA",3.0,216000,,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",4.0,290000,Female,0,1,CA
+Data Scientist,Robinhood,"Menlo Park, CA",2.0,243000,Male,1,0,CA
+Data Scientist,Apple,"Cupertino, CA",12.0,232000,Male,1,0,CA
+Data Scientist,Adobe,"San Jose, CA",0.0,182000,Female,0,1,CA
+Data Scientist,Square,"San Francisco, CA",5.0,323000,Male,0,0,CA
+Data Scientist,Mapbox,"San Francisco, CA",6.0,150000,Female,1,0,CA
+Data Scientist,eBay,"New York, NY",4.0,237000,Male,1,0,NY
+Data Scientist,Adobe,"San Jose, CA",5.0,520000,Male,0,0,CA
+Data Scientist,Apple,"Cupertino, CA",3.0,324000,Male,1,0,CA
+Data Scientist,Amazon,"Seattle, WA",1.0,155000,,0,0,WA
+Data Scientist,Pinterest,"San Francisco, CA",0.0,270000,Male,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",3.0,127000,,0,0,WA
+Data Scientist,Brex,"San Francisco, CA",7.0,330000,,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",2.0,159000,Male,1,0,WA
+Data Scientist,Apple Inc.,"Cupertino, CA",5.0,300000,,0,0,CA
+Data Scientist,Reddit,"San Francisco, CA",5.0,170000,,0,0,CA
+Data Scientist,Red Hat,"Raleigh, NC",4.0,112000,,0,0,NC
+Data Scientist,Zillow,"Seattle, WA",4.0,185000,,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",4.0,150000,,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",20.0,600000,,0,0,WA
+Data Scientist,Walmart,"Bentonville, AR",12.0,265000,,0,0,AR
+Data Scientist,Wells Fargo,"Sacramento, CA",3.0,170000,,0,0,CA
+Data Scientist,Tesla,"Palo Alto, CA",0.0,195000,,0,0,CA
+Data Scientist,Visa,"Foster City, CA",10.0,270000,,0,0,CA
+Data Scientist,Excella,"Washington, DC",10.0,157000,Female,1,0,DC
+Data Scientist,ServiceNow,"Kirkland, WA",7.0,326000,Male,0,0,WA
+Data Scientist,Facebook,"Menlo Park, CA",2.0,190000,Female,1,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",2.0,180000,,0,0,CA
+Data Scientist,LinkedIn,"Sunnyvale, CA",8.0,250000,,0,0,CA
+Data Scientist,Lockheed Martin,"Dallas, TX",5.0,129000,Male,1,0,TX
+Data Scientist,ABB,"Raleigh, NC",5.0,120000,Male,1,0,NC
+Data Scientist,AT&T,"Atlanta, GA",10.0,166000,,0,0,GA
+Data Scientist,Google,"San Francisco, CA",6.0,220000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",0.0,206000,Male,1,0,WA
+Data Scientist,Wells Fargo,"Charlotte, NC",1.0,154000,,0,0,NC
+Data Scientist,Comscore,"Reston, VA",8.0,155000,,0,0,VA
+Data Scientist,Facebook,"Menlo Park, CA",3.0,220000,Male,1,0,CA
+Data Scientist,Genentech,"San Francisco, CA",5.0,189000,Female,0,0,CA
+Data Scientist,Liberty Mutual,"Boston, MA",4.0,150000,,0,0,MA
+Data Scientist,Nike,"Portland, OR",5.0,250000,,0,0,OR
+Data Scientist,Apple,"San Francisco, CA",10.0,232000,Male,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",1.0,210000,,0,0,CA
+Data Scientist,Airbnb,"San Francisco, CA",2.0,229000,Female,0,0,CA
+Data Scientist,Roblox,"San Francisco, CA",12.0,490000,,0,0,CA
+Data Scientist,Zillow,"Seattle, WA",5.0,272000,Male,0,1,WA
+Data Scientist,Apple,"Cupertino, CA",5.0,358000,,0,0,CA
+Data Scientist,Google,"San Francisco, CA",5.0,180000,,0,0,CA
+Data Scientist,Google,"San Francisco, CA",5.0,220000,Male,1,0,CA
+Data Scientist,Facebook,"San Francisco, CA",10.0,338000,,0,0,CA
+Data Scientist,eBay,"San Jose, CA",1.0,181000,Female,1,0,CA
+Data Scientist,BlackRock,"New York, NY",2.0,120000,,0,0,NY
+Data Scientist,Anonymous,"Washington, DC",1.0,90000,,0,0,DC
+Data Scientist,McKinsey,"New York, NY",6.0,200000,,0,0,NY
+Data Scientist,Microsoft,"Bellevue, WA",2.0,182000,Male,0,1,WA
+Data Scientist,Amazon,"Seattle, WA",6.0,210000,,1,0,WA
+Data Scientist,Citi,"New York, NY",3.0,140000,,1,0,NY
+Data Scientist,Microsoft,"Redmond, WA",4.0,230000,Male,1,0,WA
+Data Scientist,airbnb,"San Francisco, CA",3.0,243000,,0,0,CA
+Data Scientist,Dell Technologies,"Austin, TX",12.0,173000,Male,1,0,TX
+Data Scientist,McKesson,"Louisville, KY",14.0,85000,Male,0,1,KY
+Data Scientist,Starbucks,"Seattle, WA",5.0,186000,,0,0,WA
+Data Scientist,State Farm,"Bloomington, IL",0.0,87000,,1,0,IL
+Data Scientist,ExxonMobil,"Spring, TX",0.0,106000,Male,1,0,TX
+Data Scientist,Qualtrics,"Provo, UT",1.0,70000,Male,0,1,UT
+Data Scientist,Tesla,"Fremont, CA",0.0,175000,Female,1,0,CA
+Data Scientist,Apple,"Cupertino, CA",13.0,381000,,0,0,CA
+Data Scientist,Airbnb,"San Francisco, CA",7.0,223000,Female,1,0,CA
+Data Scientist,IBM,"Austin, TX",0.0,95000,,0,0,TX
+Data Scientist,DoorDash,"San Francisco, CA",1.0,162000,Male,0,1,CA
+Data Scientist,Wayfair,"Boston, MA",2.0,168000,Male,0,0,MA
+Data Scientist,Tesla,"Fremont, CA",2.0,210000,Male,1,0,CA
+Data Scientist,Facebook,"San Francisco, CA",3.0,221000,Male,0,0,CA
+Data Scientist,Amazon,"Los Angeles, CA",2.0,220000,Male,0,0,CA
+Data Scientist,Avanade,"Chicago, IL",5.0,102000,Female,0,1,IL
+Data Scientist,Facebook,"Seattle, WA",8.0,250000,,0,0,WA
+Data Scientist,Intuit,"Mountain View, CA",9.0,267000,,0,0,CA
+Data Scientist,Twitter,"San Francisco, CA",4.0,330000,,0,0,CA
+Data Scientist,Turo,"San Francisco, CA",2.0,150000,Male,1,0,CA
+Data Scientist,Microsoft,"Redmond, WA",4.0,159000,Female,1,0,WA
+Data Scientist,Apple,"Cupertino, CA",9.0,350000,Male,1,0,CA
+Data Scientist,DocuSign,"Seattle, WA",0.0,142000,Male,1,0,WA
+Data Scientist,Alibaba,"New York, NY",3.0,135000,,0,0,NY
+Data Scientist,Salesforce,"San Francisco, CA",12.0,800000,,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",2.0,190000,,0,0,CA
+Data Scientist,Juniper Networks,"Cupertino, CA",5.0,235000,,0,0,CA
+Data Scientist,Stitch Fix,"San Francisco, CA",3.0,525000,Male,0,1,CA
+Data Scientist,State Farm,"Bloomington, IL",1.0,81000,Female,0,1,IL
+Data Scientist,Facebook,"Menlo Park, CA",2.0,186000,,0,0,CA
+Data Scientist,Nike,"Beaverton, OR",3.0,150000,Male,1,0,OR
+Data Scientist,BuzzFeed,"New York, NY",5.0,150000,Male,1,0,NY
+Data Scientist,Facebook,"Menlo Park, CA",2.0,164000,Female,0,1,CA
+Data Scientist,Amazon,"Seattle, WA",6.0,240000,Male,1,0,WA
+Data Scientist,ExxonMobil,"Houston, TX",3.0,167000,Male,0,0,TX
+Data Scientist,IBM,"New York, NY",0.0,135000,Female,1,0,NY
+Data Scientist,Microsoft,"Redmond, WA",1.0,185000,Male,0,1,WA
+Data Scientist,Amazon,"Seattle, WA",4.0,180000,,1,0,WA
+Data Scientist,Mastercard,"Arlington, VA",2.0,103000,Male,0,1,VA
+Data Scientist,TripAdvisor,"Needham, MA",9.0,250000,Male,1,0,MA
+Data Scientist,Mastercard,"New York, NY",1.0,110000,,0,0,NY
+Data Scientist,Netflix,"Los Gatos, CA",10.0,400000,Female,1,0,CA
+Data Scientist,Walmart Labs,"Sunnyvale, CA",2.0,188000,Female,1,0,CA
+Data Scientist,Microsoft,"Redmond, WA",7.0,290000,,0,0,WA
+Data Scientist,Facebook,"Seattle, WA",7.0,220000,Male,0,1,WA
+Data Scientist,Zillow,"Seattle, WA",3.0,101000,Female,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",10.0,213000,Male,0,1,WA
+Data Scientist,BuzzFeed,"New York, NY",4.0,161000,Male,0,1,NY
+Data Scientist,Mitchell International,"San Diego, CA",10.0,135000,,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",15.0,292000,Male,0,0,WA
+Data Scientist,LinkedIn,"Sunnyvale, CA",2.0,190000,,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",2.0,180000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",5.0,270000,Male,1,0,WA
+Data Scientist,Oscar Health,"New York, NY",4.0,135000,Other,1,0,NY
+Data Scientist,Quest diagnostics,"Los Angeles, CA",8.0,110000,,0,0,CA
+Data Scientist,PayPal,"San Jose, CA",6.0,181000,,0,0,CA
+Data Scientist,Bill.com,"Houston, TX",0.0,110000,Male,0,1,TX
+Data Scientist,JP Morgan Chase,"New York, NY",0.0,132000,Male,1,0,NY
+Data Scientist,Facebook,"Menlo Park, CA",4.0,235000,Male,1,0,CA
+Data Scientist,Facebook,"Seattle, WA",4.0,198000,Male,0,0,WA
+Data Scientist,Apple,"San Francisco, CA",2.0,198000,Male,1,0,CA
+Data Scientist,Barclays,"New York, NY",15.0,250000,,0,0,NY
+Data Scientist,Facebook,"San Francisco, CA",7.0,225000,Male,0,1,CA
+Data Scientist,Apple,"Cupertino, CA",5.0,185000,,0,0,CA
+Data Scientist,Apple,"Cupertino, CA",4.0,320000,,0,0,CA
+Data Scientist,Microsoft,"Oakland, CA",4.0,350000,Male,1,0,CA
+Data Scientist,Iterable,"San Francisco, CA",1.0,165000,Male,1,0,CA
+Data Scientist,Amazon,"Seattle, WA",4.0,240000,,0,0,WA
+Data Scientist,Citi,"New York, NY",8.0,170000,Female,0,1,NY
+Data Scientist,Amazon,"Seattle, WA",10.0,215000,Male,0,1,WA
+Data Scientist,Google,"Kirkland, WA",5.0,203000,,0,0,WA
+Data Scientist,Apple,"Cupertino, CA",3.0,250000,,0,0,CA
+Data Scientist,Cisco,"San Jose, CA",14.0,390000,Male,0,0,CA
+Data Scientist,Facebook,"San Francisco, CA",8.0,308000,Male,1,0,CA
+Data Scientist,Grubhub,"Raleigh, NC",8.0,207000,,0,0,NC
+Data Scientist,Adobe,"San Jose, CA",2.0,222000,Male,0,1,CA
+Data Scientist,Accenture,"Chicago, IL",5.0,150000,Male,0,1,IL
+Data Scientist,Moveworks,"Mountain View, CA",2.0,130000,Male,1,0,CA
+Data Scientist,Lyft,"New York, NY",5.0,345000,Male,1,0,NY
+Data Scientist,BCG,"Boston, MA",6.0,200000,,0,0,MA
+Data Scientist,Snap,"Santa Monica, CA",7.0,728000,,0,0,CA
+Data Scientist,cvs health,"Chicago, IL",7.0,143000,Male,1,0,IL
+Data Scientist,Facebook,"Menlo Park, CA",4.0,236000,Male,0,1,CA
+Data Scientist,DataRobot,"New York, NY",8.0,270000,,0,0,NY
+Data Scientist,SAP,"Chicago, IL",30.0,380000,Male,1,0,IL
+Data Scientist,Other,"Seattle, WA",4.0,175000,Female,1,0,WA
+Data Scientist,Netflix,"Los Angeles, CA",8.0,700000,,0,0,CA
+Data Scientist,ubs,"New York, NY",3.0,110000,,0,0,NY
+Data Scientist,Humana,"Boston, MA",5.0,135000,Female,0,0,MA
+Data Scientist,Comcast,"Philadelphia, PA",13.0,408000,,0,0,PA
+Data Scientist,Booz Allen Hamilton,"Philadelphia, PA",3.0,95000,,0,0,PA
+Data Scientist,Pinterest,"New York, NY",4.0,125000,Other,0,1,NY
+Data Scientist,Walmart Labs,"Bentonville, AR",12.0,325000,Male,0,1,AR
+Data Scientist,Amazon,"Seattle, WA",3.0,115000,,0,0,WA
+Data Scientist,c3.ai,"Redwood City, CA",1.0,161000,Male,1,0,CA
+Data Scientist,Samsung,"Mountain View, CA",1.0,165000,Male,1,0,CA
+Data Scientist,ByteDance,"Mountain View, CA",1.0,194000,Male,1,0,CA
+Data Scientist,Booz Allen Hamilton,"Washington, DC",0.0,102000,Female,0,1,DC
+Data Scientist,Facebook,"Seattle, WA",10.0,565000,,0,0,WA
+Data Scientist,Google,"Mountain View, CA",2.0,250000,,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",0.0,128000,Female,1,0,CA
+Data Scientist,Morgan Stanley,"New York, NY",7.0,453000,Male,0,0,NY
+Data Scientist,american family insurance,"Chicago, IL",5.0,152000,,0,0,IL
+Data Scientist,Waymo,"Mountain View, CA",0.0,250000,Female,0,0,CA
+Data Scientist,Intuit,"Mountain View, CA",6.0,250000,Female,1,0,CA
+Data Scientist,Instacart,"San Francisco, CA",6.0,385000,Male,1,0,CA
+Data Scientist,Amazon,"Seattle, WA",0.0,215000,Male,0,0,WA
+Data Scientist,Facebook,"Menlo Park, CA",1.0,210000,Male,0,0,CA
+Data Scientist,Deloitte Advisory,"San Francisco, CA",6.0,106000,Female,1,0,CA
+Data Scientist,Facebook,"San Francisco, CA",0.0,165000,,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",4.0,228000,Female,1,0,CA
+Data Scientist,Booz Allen Hamilton,"Arlington, VA",0.0,81000,Female,1,0,VA
+Data Scientist,Facebook,"Menlo Park, CA",0.0,145000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",10.0,250000,,0,1,WA
+Data Scientist,Stitch Fix,"San Francisco, CA",4.0,250000,,0,0,CA
+Data Scientist,Netflix,"Los Angeles, CA",3.0,450000,,0,0,CA
+Data Scientist,PayPal,"Los Angeles, CA",2.0,116000,,0,0,CA
+Data Scientist,The Hartford,"Hartford, CT",2.0,110000,,0,0,CT
+Data Scientist,Deloitte,"Washington, DC",4.0,141000,,0,0,DC
+Data Scientist,LinkedIn,"Sunnyvale, CA",3.0,257000,,0,0,CA
+Data Scientist,KPMG,"Washington, DC",2.0,63000,,0,0,DC
+Data Scientist,Deloitte,"Arlington, VA",6.0,96000,Male,1,0,VA
+Data Scientist,amazon,"Seattle, WA",5.0,150000,,0,0,WA
+Data Scientist,Capital One,"McLean, TX",4.0,125000,,0,0,TX
+Data Scientist,Amazon,"Los Angeles, CA",4.0,217000,Female,1,0,CA
+Data Scientist,Amazon,"Seattle, WA",7.0,180000,,0,0,WA
+Data Scientist,Roche,"Santa Clara, CA",4.0,180000,,0,0,CA
+Data Scientist,Verily Life Sciences,"Sunnyvale, CA",8.0,220000,Female,0,1,CA
+Data Scientist,Apple,"Austin, TX",5.0,150000,Female,0,1,TX
+Data Scientist,Genentech,"South San Francisco, CA",2.0,183000,Other,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",7.0,182000,Male,0,1,WA
+Data Scientist,Robinhood,"Menlo Park, CA",0.0,251000,,0,0,CA
+Data Scientist,Snap,"New York, NY",6.0,408000,Female,1,0,NY
+Data Scientist,Google,"New York, NY",3.0,250000,,0,0,NY
+Data Scientist,Disney,"Bristol, CT",3.0,109000,,0,0,CT
+Data Scientist,Snap,"Los Angeles, CA",10.0,300000,,0,0,CA
+Data Scientist,Apple,"Austin, TX",6.0,160000,,0,0,TX
+Data Scientist,KPMG,"Dallas, TX",2.0,115000,Male,1,0,TX
+Data Scientist,Walmart Labs,"Sunnyvale, CA",7.0,195000,Female,1,0,CA
+Data Scientist,Google,"Sunnyvale, CA",2.0,291000,Male,0,0,CA
+Data Scientist,Netflix,"Los Gatos, CA",4.0,400000,Male,0,0,CA
+Data Scientist,Airbnb,"San Francisco, CA",5.0,445000,Male,1,0,CA
+Data Scientist,Lyft,"San Francisco, CA",4.0,410000,,0,0,CA
+Data Scientist,Walmart Labs,"Sunnyvale, CA",3.0,210000,,1,0,CA
+Data Scientist,BlackBerry,"Portland, OR",13.0,260000,Male,0,0,OR
+Data Scientist,Apple,"Cupertino, CA",5.0,268000,Female,0,0,CA
+Data Scientist,Twitter,"Boulder, CO",17.0,290000,Male,1,0,CO
+Data Scientist,Twitter,"San Francisco, CA",9.0,300000,Female,1,0,CA
+Data Scientist,Cisco,"San Francisco, CA",15.0,270000,Male,0,0,CA
+Data Scientist,Airbnb,"Seattle, WA",12.0,690000,Male,1,0,WA
+Data Scientist,Deloitte,"New York, NY",3.0,157000,Male,1,0,NY
+Data Scientist,Stitch Fix,"San Francisco, CA",8.0,425000,,0,0,CA
+Data Scientist,Microsoft,"New York, NY",5.0,280000,Female,0,1,NY
+Data Scientist,Square,"San Francisco, CA",4.0,200000,,0,0,CA
+Data Scientist,ServiceNow,"Santa Clara, CA",2.0,223000,Female,1,0,CA
+Data Scientist,Convoy,"Seattle, WA",7.0,169000,Male,1,0,WA
+Data Scientist,Credit Karma,"San Francisco, CA",2.0,183000,,0,0,CA
+Data Scientist,Verizon,"Sunnyvale, CA",13.0,180000,,0,0,CA
+Data Scientist,Lyft,"San Francisco, CA",10.0,355000,,1,0,CA
+Data Scientist,DoorDash,"San Francisco, CA",4.0,240000,,1,0,CA
+Data Scientist,Uber,"San Francisco, CA",10.0,310000,Male,0,1,CA
+Data Scientist,INTEL corporation,"Portland, OR",10.0,230000,,0,0,OR
+Data Scientist,Pandora,"Oakland, CA",11.0,310000,,0,0,CA
+Data Scientist,Cockroach Labs,"New York, NY",1.0,205000,,0,0,NY
+Data Scientist,BlackRock,"New York, NY",4.0,160000,Male,1,0,NY
+Data Scientist,Apple,"Cupertino, CA",4.0,264000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",15.0,535000,,0,0,WA
+Data Scientist,Google,"Sunnyvale, CA",5.0,345000,Male,0,0,CA
+Data Scientist,Thumbtack,"San Francisco, CA",10.0,249000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",10.0,255000,Male,0,1,WA
+Data Scientist,Starbucks,"Seattle, WA",1.0,115000,Male,0,1,WA
+Data Scientist,Nike,"Portland, OR",3.0,184000,Male,0,0,OR
+Data Scientist,Barclays,"New York, NY",3.0,140000,,0,0,NY
+Data Scientist,Wish,"San Francisco, CA",2.0,205000,Female,1,0,CA
+Data Scientist,Google,"Mountain View, CA",7.0,236000,Male,0,1,CA
+Data Scientist,JPMorgan Chase,"Plano, TX",6.0,115000,Male,1,0,TX
+Data Scientist,Booz Allen Hamilton,"Arlington, VA",1.0,90000,Male,0,1,VA
+Data Scientist,Johnson,"San Diego, CA",0.0,140000,Female,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",5.0,220000,,0,0,CA
+Data Scientist,Adobe,"San Francisco, CA",2.0,262000,Male,1,0,CA
+Data Scientist,IBM,"New York, NY",3.0,135000,Male,0,1,NY
+Data Scientist,amazon,"Seattle, WA",5.0,300000,,0,0,WA
+Data Scientist,BCG,"New York, NY",4.0,140000,,0,0,NY
+Data Scientist,Google,"Mountain View, CA",2.0,319000,,0,0,CA
+Data Scientist,microsoft,"Seattle, WA",7.0,176000,Female,0,1,WA
+Data Scientist,Facebook,"Seattle, WA",4.0,294000,,0,0,WA
+Data Scientist,Northrop Grumman,"Los Angeles, CA",15.0,195000,,0,0,CA
+Data Scientist,Allstate,"Chicago, IL",6.0,152000,Male,0,0,IL
+Data Scientist,Facebook,"San Francisco, CA",4.0,185000,Female,1,0,CA
+Data Scientist,Facebook,"Seattle, WA",17.0,300000,Male,0,1,WA
+Data Scientist,Google,"Mountain View, CA",8.0,264000,Female,1,0,CA
+Data Scientist,LinkedIn,"Mountain View, CA",8.0,261000,Male,0,0,CA
+Data Scientist,Google,"Mountain View, CA",12.0,262000,Male,0,1,CA
+Data Scientist,Facebook,"New York, NY",4.0,225000,Male,1,0,NY
+Data Scientist,Glassdoor,"San Francisco, CA",2.0,150000,,0,0,CA
+Data Scientist,Glassdoor,"Mill Valley, CA",7.0,209000,Male,0,0,CA
+Data Scientist,JPMorgan Chase,"Wilmington, DE",5.0,170000,Female,0,0,DE
+Data Scientist,Ford Motor,"Dearborn, MI",6.0,110000,,0,0,MI
+Data Scientist,Capital Group,"Los Angeles, CA",2.0,130000,Female,1,0,CA
+Data Scientist,Walmart Labs,"Sunnyvale, CA",2.0,215000,Female,1,0,CA
+Data Scientist,Apple,"Cupertino, CA",2.0,185000,Female,1,0,CA
+Data Scientist,GEICO,"Washington, DC",1.0,93000,,1,0,DC
+Data Scientist,AppDynamics,"San Francisco, CA",20.0,220000,Female,0,0,CA
+Data Scientist,IBM,"Los Angeles, CA",3.0,191000,Male,1,0,CA
+Data Scientist,Google,"Redwood City, CA",5.0,308000,Male,0,0,CA
+Data Scientist,Southwest Airlines,"Dallas, TX",3.0,100000,Male,0,1,TX
+Data Scientist,Robinhood,"Menlo Park, CA",5.0,375000,,0,0,CA
+Data Scientist,Capital One,"Washington, DC",2.0,120000,,0,0,DC
+Data Scientist,Microsoft,"Seattle, WA",0.0,240000,Male,0,0,WA
+Data Scientist,T-Mobile,"Bellevue, WA",5.0,188000,Male,1,0,WA
+Data Scientist,Ernst and Young,"New York, NY",1.0,93000,Male,1,0,NY
+Data Scientist,Microsoft,"Seattle, WA",0.0,136000,Male,0,0,WA
+Data Scientist,Facebook,"New York, NY",2.0,233000,Male,0,1,NY
+Data Scientist,Google,"New York, NY",3.0,282000,Male,0,0,NY
+Data Scientist,Dell Technologies,"Austin, TX",3.0,118000,,0,0,TX
+Data Scientist,Allstate,"Northbrook, IL",8.0,148000,,0,0,IL
+Data Scientist,Facebook,"Menlo Park, CA",8.0,495000,Male,0,0,CA
+Data Scientist,Citibank,"Atlanta, GA",11.0,209000,Female,1,0,GA
+Data Scientist,Google,"Mountain View, CA",0.0,235000,,0,0,CA
+Data Scientist,Boston Consulting Group,"Boston, MA",8.0,274000,Male,1,0,MA
+Data Scientist,Allstate,"Northbrook, IL",8.0,138000,Male,0,0,IL
+Data Scientist,CVS Health,"New York, NY",4.0,150000,,0,0,NY
+Data Scientist,JPMorgan Chase,"New York, NY",5.0,285000,,0,0,NY
+Data Scientist,Shopify,"Tampa, FL",6.0,207000,,0,0,FL
+Data Scientist,Walmart Labs,"San Francisco, CA",2.0,220000,,0,0,CA
+Data Scientist,Google,"Redwood City, CA",3.0,283000,Male,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",1.0,183000,,0,0,WA
+Data Scientist,realtor.com,"Santa Clara, CA",4.0,157000,Female,0,1,CA
+Data Scientist,Apple,"Austin, TX",3.0,263000,Male,0,0,TX
+Data Scientist,Convoy,"Seattle, WA",11.0,215000,,0,0,WA
+Data Scientist,Goldman Sachs,"New York, NY",4.0,340000,Male,0,0,NY
+Data Scientist,Facebook,"New York, NY",6.0,200000,Male,1,0,NY
+Data Scientist,Google,"Reston, VA",5.0,216000,Male,1,0,VA
+Data Scientist,Capital One,"Fairfax, VA",2.0,110000,Male,1,0,VA
+Data Scientist,Deloitte,"Arlington, VA",8.0,100000,,0,0,VA
+Data Scientist,Square,"San Francisco, CA",4.0,168000,,0,0,CA
+Data Scientist,Target,"Minneapolis, MN",7.0,105000,Female,1,0,MN
+Data Scientist,Goldman Sachs,"New York, NY",3.0,171000,Female,0,1,NY
+Data Scientist,Goldman Sachs,"New York, NY",6.0,216000,,0,0,NY
+Data Scientist,Facebook,"Menlo Park, CA",6.0,230000,,0,0,CA
+Data Scientist,Wipro,"San Francisco, CA",5.0,150000,,0,0,CA
+Data Scientist,Lyft,"San Francisco, CA",2.0,323000,Male,0,0,CA
+Data Scientist,Point72,"New York, NY",1.0,105000,Male,1,0,NY
+Data Scientist,Microsoft,"Redmond, WA",2.0,173000,Female,1,0,WA
+Data Scientist,Carvana,"Phoenix, AZ",6.0,95000,Male,0,1,AZ
+Data Scientist,Twitter,"San Francisco, CA",5.0,300000,Male,0,0,CA
+Data Scientist,Facebook,"Seattle, WA",5.0,280000,,0,0,WA
+Data Scientist,Adobe,"San Jose, CA",1.0,294000,Male,1,0,CA
+Data Scientist,Microsoft,"Seattle, WA",5.0,163000,Male,0,1,WA
+Data Scientist,JPMorgan Chase,"New York, NY",21.0,313000,Male,0,0,NY
+Data Scientist,Uber,"Seattle, WA",7.0,517000,Male,1,0,WA
+Data Scientist,Booz Allen Hamilton,"Washington, DC",12.0,172000,Male,1,0,DC
+Data Scientist,Five Rings,"New York, NY",1.0,330000,,0,0,NY
+Data Scientist,Microsoft,"Redmond, WA",12.0,513000,,0,0,WA
+Data Scientist,Facebook,"Seattle, WA",4.0,214000,Male,1,0,WA
+Data Scientist,Amazon,"Palo Alto, CA",1.0,278000,Male,0,0,CA
+Data Scientist,Amazon,"San Francisco, CA",20.0,583000,,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",3.0,201000,Male,0,1,CA
+Data Scientist,Slalom,"Atlanta, GA",6.0,136000,Male,1,0,GA
+Data Scientist,Wish,"San Francisco, CA",6.0,300000,,0,0,CA
+Data Scientist,Salesforce,"Bellevue, WA",5.0,178000,,0,0,WA
+Data Scientist,Thermo Fisher Scientific,"San Diego, CA",4.0,126000,,0,0,CA
+Data Scientist,Apple,"Austin, TX",6.0,227000,,0,0,TX
+Data Scientist,Amazon,"Arlington, VA",12.0,205000,Male,0,1,VA
+Data Scientist,Boeing,"Seattle, WA",14.0,85000,Male,1,0,WA
+Data Scientist,Zynga,"Austin, TX",2.0,140000,Male,1,0,TX
+Data Scientist,Booz Allen Hamilton,"Arlington, VA",3.0,75000,Male,0,1,VA
+Data Scientist,Liberty Mutual,"Boston, MA",7.0,204000,Male,0,0,MA
+Data Scientist,JPMorgan Chase,"New York, NY",3.0,137000,Male,1,0,NY
+Data Scientist,Intel,"Chandler, AZ",6.0,111000,Male,1,0,AZ
+Data Scientist,Airtable,"San Francisco, CA",7.0,275000,,0,0,CA
+Data Scientist,Zillow,"Seattle, WA",5.0,305000,Male,0,1,WA
+Data Scientist,Apple,"San Francisco, CA",9.0,152000,Female,1,0,CA
+Data Scientist,Expedia,"Seattle, WA",2.0,182000,Female,0,0,WA
+Data Scientist,Visa,"Foster City, CA",2.0,142000,,0,0,CA
+Data Scientist,Walmart Labs,"Sunnyvale, CA",3.0,290000,,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",3.0,166000,,0,0,WA
+Data Scientist,Perspecta,"Basking Ridge, NJ",1.0,150000,Male,0,0,NJ
+Data Scientist,Twitter,"San Francisco, CA",5.0,336000,,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",5.0,260000,,0,0,CA
+Data Scientist,Amazon,"San Francisco, CA",11.0,360000,,0,0,CA
+Data Scientist,JPMorgan Chase,"New York, NY",3.0,149000,Male,1,0,NY
+Data Scientist,IBM,"Charleston, SC",11.0,174000,Male,1,0,SC
+Data Scientist,Microsoft,"Redmond, WA",0.0,202000,Male,0,0,WA
+Data Scientist,Netflix,"Los Angeles, CA",10.0,600000,Male,0,0,CA
+Data Scientist,GE Digital,"San Ramon, CA",5.0,162000,,0,0,CA
+Data Scientist,Tiktok,"Seattle, WA",11.0,270000,,0,0,WA
+Data Scientist,Google,"Seattle, WA",8.0,455000,Male,0,1,WA
+Data Scientist,Robinhood,"Menlo Park, CA",4.0,550000,Male,0,0,CA
+Data Scientist,McAfee,"San Jose, CA",4.0,216000,Male,0,1,CA
+Data Scientist,eBay,"Austin, TX",1.0,122000,,0,0,TX
+Data Scientist,Seagate,"Longmont, CO",3.0,96000,Male,1,0,CO
+Data Scientist,Other,"Washington, DC",2.0,120000,,0,0,DC
+Data Scientist,eBay,"San Jose, CA",2.0,176000,Male,1,0,CA
+Data Scientist,Capital One,"Richmond, VA",10.0,172000,Male,0,1,VA
+Data Scientist,LinkedIn,"San Francisco, CA",5.0,236000,Male,0,1,CA
+Data Scientist,capsule,"San Francisco, CA",1.0,100000,,0,0,CA
+Data Scientist,Cisco,"San Jose, CA",11.0,177000,Male,1,0,CA
+Data Scientist,Wayfair,"Boston, MA",5.0,404000,Male,0,0,MA
+Data Scientist,Booz Allen Hamilton,"Washington, DC",5.0,128000,Female,1,0,DC
+Data Scientist,Apple,"Cupertino, CA",9.0,213000,Female,1,0,CA
+Data Scientist,Walmart Labs,"Sunnyvale, CA",9.0,185000,Female,0,0,CA
+Data Scientist,Beyond Limits,"Glendale, CA",1.0,80000,Male,1,0,CA
+Data Scientist,Facebook,"Seattle, WA",8.0,215000,Male,0,1,WA
+Data Scientist,Bank of America,"Charlotte, NC",1.0,15000,,0,0,NC
+Data Scientist,Kroger,"Chicago, IL",5.0,118000,Female,1,0,IL
+Data Scientist,Microsoft,"Bellevue, WA",11.0,510000,Male,1,0,WA
+Data Scientist,Nike,"Portland, OR",2.0,118000,Female,0,1,OR
+Data Scientist,Facebook,"Menlo Park, CA",2.0,327000,Male,0,0,CA
+Data Scientist,Twitter,"Austin, TX",2.0,176000,,0,0,TX
+Data Scientist,IBM,"New York, NY",10.0,156000,Female,1,0,NY
+Data Scientist,Microsoft,"Bellevue, WA",11.0,225000,Male,0,0,WA
+Data Scientist,Booz Allen Hamilton,"Washington, DC",4.0,95000,,0,0,DC
+Data Scientist,Jp morgan chase,"Jersey City, NJ",6.0,210000,,0,0,NJ
+Data Scientist,AMazon,"Washington, DC",20.0,266000,,0,0,DC
+Data Scientist,Nielsen,"Columbia, MD",3.0,83000,Male,0,1,MD
+Data Scientist,IBM,"Traverse City, MI",9.0,197000,Male,1,0,MI
+Data Scientist,KAYAK,"Cambridge, MA",4.0,150000,Female,0,1,MA
+Data Scientist,Booz Allen Hamilton,"Washington, DC",5.0,125000,Female,1,0,DC
+Data Scientist,Ford,"Dearborn, MI",5.0,120000,,0,0,MI
+Data Scientist,Lyft,"San Francisco, CA",8.0,500000,Male,0,1,CA
+Data Scientist,Uber,"Seattle, WA",6.0,518000,Male,1,0,WA
+Data Scientist,Facebook,"San Francisco, CA",5.0,211000,Female,1,0,CA
+Data Scientist,Grammarly,"San Francisco, CA",3.0,195000,Male,0,0,CA
+Data Scientist,Microsoft,"Seattle, WA",9.0,283000,Female,0,0,WA
+Data Scientist,Amazon,"San Francisco, CA",10.0,414000,Female,0,0,CA
+Data Scientist,Facebook,"San Francisco, CA",3.0,305000,Female,1,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",1.0,235000,Male,0,0,CA
+Data Scientist,Pinterest,"San Francisco, CA",5.0,450000,,0,0,CA
+Data Scientist,Visa,"San Francisco, CA",8.0,260000,,0,0,CA
+Data Scientist,Walmart,"San Bruno, CA",5.0,188000,,0,0,CA
+Data Scientist,Intel,"Phoenix, AZ",3.0,78000,Male,1,0,AZ
+Data Scientist,Fractal Analytics,"New York, NY",2.0,92000,Male,1,0,NY
+Data Scientist,American Family Insurance,"Madison, WI",6.0,165000,Male,0,0,WI
+Data Scientist,Aetna,"New York, NY",1.0,128000,,0,0,NY
+Data Scientist,Amazon,"Cambridge, MA",2.0,237000,Male,0,0,MA
+Data Scientist,JPMorgan Chase,"Wilmington, DE",7.0,190000,,0,0,DE
+Data Scientist,Wells Fargo,"Charlotte, NC",2.0,191000,,0,0,NC
+Data Scientist,Google,"San Francisco, CA",0.0,388000,Male,0,0,CA
+Data Scientist,Grammarly,"San Francisco, CA",0.0,195000,Male,0,0,CA
+Data Scientist,Charles Schwab,"Phoenix, AZ",5.0,180000,,1,0,AZ
+Data Scientist,Addepar,"New York, NY",2.0,121000,Male,0,0,NY
+Data Scientist,Facebook,"Menlo Park, CA",9.0,296000,Male,1,0,CA
+Data Scientist,Aetna,"Wellesley, MA",4.0,140000,Male,1,0,MA
+Data Scientist,InVision,"Denver, CO",3.0,100000,,0,0,CO
+Data Scientist,Capital One,"Plano, TX",4.0,148000,Male,1,0,TX
+Data Scientist,Microsoft,"Redmond, WA",7.0,182000,Male,0,0,WA
+Data Scientist,Google,"Mountain View, CA",7.0,205000,Female,0,0,CA
+Data Scientist,Apple,"Cupertino, CA",7.0,450000,,0,0,CA
+Data Scientist,Zappos,"Las Vegas, NV",3.0,130000,Male,0,1,NV
+Data Scientist,Acorns,"Irvine, CA",1.0,115000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",1.0,180000,Other,0,0,WA
+Data Scientist,Facebook,"Menlo Park, CA",5.0,297000,Male,0,0,CA
+Data Scientist,Google,"Mountain View, CA",0.0,199000,Male,0,0,CA
+Data Scientist,Wayfair,"Boston, MA",2.0,185000,Male,0,0,MA
+Data Scientist,UBS,"New York, NY",4.0,170000,Male,1,0,NY
+Data Scientist,Fidelity Investments,"Jersey City, NJ",8.0,189000,Male,1,0,NJ
+Data Scientist,Amazon,"Dallas, TX",8.0,215000,,0,0,TX
+Data Scientist,Facebook,"Austin, TX",3.0,257000,Male,0,0,TX
+Data Scientist,Uber,"San Francisco, CA",2.0,372000,Male,1,0,CA
+Data Scientist,Uber,"San Francisco, CA",4.0,251000,Male,0,1,CA
+Data Scientist,Apple,"San Jose, CA",1.0,166000,,0,0,CA
+Data Scientist,7-Eleven,"Dallas, TX",3.0,95000,,1,0,TX
+Data Scientist,Airbnb,"San Francisco, CA",2.0,254000,Female,1,0,CA
+Data Scientist,Northrop Grumman,"Huntsville, AL",13.0,187000,Male,0,0,AL
+Data Scientist,Facebook,"New York, NY",4.0,291000,Male,0,1,NY
+Data Scientist,Facebook,"Menlo Park, CA",0.0,242000,Female,0,0,CA
+Data Scientist,Capital One,"Chicago, IL",3.0,144000,Male,1,0,IL
+Data Scientist,Stitch Fix,"San Francisco, CA",10.0,577000,Male,0,1,CA
+Data Scientist,IBM,"New York, NY",6.0,160000,Female,1,0,NY
+Data Scientist,Uber,"San Francisco, CA",5.0,415000,Male,0,0,CA
+Data Scientist,Facebook,"New York, NY",2.0,297000,Female,0,1,NY
+Data Scientist,AT&T,"New York, NY",2.0,185000,Male,0,0,NY
+Data Scientist,Oracle,"Austin, TX",5.0,205000,,1,0,TX
+Data Scientist,QuantumBlack,"Chicago, IL",7.0,313000,Male,1,0,IL
+Data Scientist,Zillow,"Seattle, WA",2.0,159000,Female,0,1,WA
+Data Scientist,Twitter,"San Francisco, CA",6.0,386000,Male,0,0,CA
+Data Scientist,Genentech,"South San Francisco, CA",8.0,236000,Female,1,0,CA
+Data Scientist,JPMorgan Chase,"New York, NY",8.0,253000,Male,0,0,NY
+Data Scientist,Facebook,"Austin, TX",3.0,142000,Male,1,0,TX
+Data Scientist,Lyft,"San Francisco, CA",4.0,260000,,0,0,CA
+Data Scientist,Aetna,"New York, NY",2.0,142000,,0,0,NY
+Data Scientist,Lyft,"San Francisco, CA",5.0,310000,Male,1,0,CA
+Data Scientist,Barclays,"Wilmington, DE",3.0,130000,Male,1,0,DE
+Data Scientist,Bank of America,"Charlotte, NC",5.0,147000,Male,0,0,NC
+Data Scientist,Roche,"South San Francisco, CA",1.0,128000,Female,1,0,CA
+Data Scientist,Microsoft,"San Francisco, CA",6.0,273000,Male,1,0,CA
+Data Scientist,Dolby Laboratories,"Sunnyvale, CA",0.0,162000,Male,1,0,CA
+Data Scientist,Micron Technology,"Manassas, VA",1.0,160000,Male,0,0,VA
+Data Scientist,Uber,"San Francisco, CA",2.0,311000,Female,0,0,CA
+Data Scientist,Grubhub,"Chicago, IL",2.0,150000,Female,1,0,IL
+Data Scientist,Asana,"San Francisco, CA",7.0,350000,,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",1.0,230000,Male,0,0,CA
+Data Scientist,Nordstrom,"Seattle, WA",3.0,150000,Male,1,0,WA
+Data Scientist,Facebook,"Seattle, WA",2.0,210000,Male,0,1,WA
+Data Scientist,Genentech,"South San Francisco, CA",7.0,260000,Male,1,0,CA
+Data Scientist,Verizon,"Basking Ridge, NJ",14.0,538000,Male,0,0,NJ
+Data Scientist,Intel,"Hillsboro, OR",5.0,188000,,0,0,OR
+Data Scientist,Walmart,"Bentonville, AR",5.0,120000,Male,1,0,AR
+Data Scientist,Intel,"Hillsboro, OR",5.0,174000,Male,0,1,OR
+Data Scientist,CVS Health,"Chicago, IL",1.0,100000,Male,0,0,IL
+Data Scientist,Amazon,"Seattle, WA",5.0,163000,Male,1,0,WA
+Data Scientist,PayPal,"San Jose, CA",3.0,190000,Male,1,0,CA
+Data Scientist,Visa,"Foster City, CA",1.0,173000,Female,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",0.0,203000,Female,1,0,WA
+Data Scientist,Amazon,"Seattle, WA",6.0,205000,Male,0,1,WA
+Data Scientist,Uber,"San Francisco, CA",6.0,327000,,0,0,CA
+Data Scientist,IBM,"Rochester, MN",2.0,73000,Male,0,1,MN
+Data Scientist,IBM,"Austin, TX",2.0,115000,Male,0,1,TX
+Data Scientist,LinkedIn,"Sunnyvale, CA",5.0,344000,Female,0,0,CA
+Data Scientist,DoorDash,"San Francisco, CA",5.0,315000,Male,0,1,CA
+Data Scientist,PayPal,"San Jose, CA",6.0,310000,Male,1,0,CA
+Data Scientist,Lam Research,"San Francisco, CA",7.0,217000,Male,0,0,CA
+Data Scientist,GE Aviation,"Cincinnati, OH",15.0,152000,Male,1,0,OH
+Data Scientist,Oscar,"New York, NY",3.0,225000,Male,1,0,NY
+Data Scientist,Epsilon,"Chicago, IL",2.0,150000,Male,1,0,IL
+Data Scientist,Facebook,"Menlo Park, CA",5.0,375000,Male,0,0,CA
+Data Scientist,Facebook,"New York, NY",7.0,420000,Male,1,0,NY
+Data Scientist,IBM,"New York, NY",1.0,125000,Female,0,1,NY
+Data Scientist,Dropbox,"San Francisco, CA",15.0,650000,Male,1,0,CA
+Data Scientist,Microsoft,"Redmond, WA",10.0,170000,,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",5.0,193000,Male,1,0,WA
+Data Scientist,Hulu,"Santa Monica, CA",8.0,162000,Female,1,0,CA
+Data Scientist,Accenture,"Boston, MA",2.0,54000,Male,0,0,MA
+Data Scientist,Johnson & Johnson,"La Jolla, CA",20.0,300000,,0,0,CA
+Data Scientist,Intel,"Portland, OR",4.0,184000,,0,0,OR
+Data Scientist,3M,"Saint Paul, MN",2.0,100000,Male,1,0,MN
+Data Scientist,Turo,"San Francisco, CA",3.0,230000,Male,1,0,CA
+Data Scientist,Goldman Sachs,"New York, NY",2.0,150000,Male,0,1,NY
+Data Scientist,Facebook,"New York, NY",5.0,265000,,0,0,NY
+Data Scientist,Capital One,"New York, NY",16.0,198000,Male,0,0,NY
+Data Scientist,LinkedIn,"Mountain View, CA",5.0,257000,Female,1,0,CA
+Data Scientist,Stitch Fix,"San Francisco, CA",6.0,520000,Female,1,0,CA
+Data Scientist,Boeing,"Seattle, WA",0.0,109000,,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",5.0,363000,Male,1,0,WA
+Data Scientist,Booz Allen Hamilton,"Richmond, VA",15.0,133000,,0,0,VA
+Data Scientist,Everquote,"Boston, MA",4.0,161000,,0,0,MA
+Data Scientist,Shutterstock,"New York, NY",7.0,195000,Female,1,0,NY
+Data Scientist,Amazon,"Seattle, WA",4.0,337000,Female,1,0,WA
+Data Scientist,Amazon,"Seattle, WA",8.0,156000,Male,1,0,WA
+Data Scientist,Microsoft,"Seattle, WA",7.0,345000,Female,0,0,WA
+Data Scientist,JPMorgan Chase,"Dallas, TX",4.0,150000,Male,1,0,TX
+Data Scientist,Intel,"Hillsboro, OR",5.0,107000,Male,0,1,OR
+Data Scientist,Facebook,"Menlo Park, CA",10.0,740000,Male,0,0,CA
+Data Scientist,Nike,"Boston, MA",3.0,213000,Male,1,0,MA
+Data Scientist,Zoom,"San Jose, CA",3.0,400000,Male,1,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",4.0,310000,Female,1,0,CA
+Data Scientist,Chime,"San Francisco, CA",4.0,222000,Male,0,1,CA
+Data Scientist,Facebook,"Menlo Park, CA",8.0,234000,Male,1,0,CA
+Data Scientist,Uber,"Seattle, WA",5.0,187000,,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",1.0,166000,Male,1,0,WA
+Data Scientist,Expedia,"Austin, TX",0.0,136000,,0,0,TX
+Data Scientist,Amazon,"Seattle, WA",0.0,173000,,0,0,WA
+Data Scientist,Dell Technologies,"Austin, TX",4.0,142000,Male,1,0,TX
+Data Scientist,Oracle,"Austin, TX",6.0,210000,Female,1,0,TX
+Data Scientist,Walmart,"Hoboken, NJ",0.0,157000,Male,1,0,NJ
+Data Scientist,Amazon,"Seattle, WA",4.0,214000,Male,0,1,WA
+Data Scientist,Capgemini,"San Antonio, TX",25.0,400000,Male,0,0,TX
+Data Scientist,Verily Life Sciences,"South San Francisco, CA",0.0,210000,Male,0,0,CA
+Data Scientist,Pinterest,"San Francisco, CA",2.0,190000,,0,0,CA
+Data Scientist,Amazon,"Cambridge, MA",8.0,230000,Female,1,0,MA
+Data Scientist,Marvell,"Santa Clara, CA",1.0,115000,,0,0,CA
+Data Scientist,Booz Allen Hamilton,"Washington, DC",5.0,113000,Male,0,1,DC
+Data Scientist,Deloitte,"New York, NY",3.0,108000,Male,1,0,NY
+Data Scientist,Wells Fargo,"Charlotte, NC",2.0,179000,Male,0,0,NC
+Data Scientist,eBay,"San Jose, CA",2.0,205000,Male,1,0,CA
+Data Scientist,eBay,"San Jose, CA",2.0,205000,Male,1,0,CA
+Data Scientist,Shipt,"Birmingham, AL",6.0,153000,Male,1,0,AL
+Data Scientist,Abbott,"Irvine, CA",5.0,200000,,0,0,CA
+Data Scientist,MassMutual,"Boston, MA",3.0,129000,,0,0,MA
+Data Scientist,Amazon,"Seattle, WA",1.0,232000,Male,0,0,WA
+Data Scientist,Kroger,"Chicago, IL",0.0,85000,,0,0,IL
+Data Scientist,Snap,"Santa Monica, CA",6.0,374000,,0,0,CA
+Data Scientist,Facebook,"New York, NY",14.0,315000,Male,1,0,NY
+Data Scientist,HCL Technologies,"New York, NY",2.0,87000,Female,0,1,NY
+Data Scientist,PNC,"Pittsburgh, PA",0.0,95000,Male,0,0,PA
+Data Scientist,Northrop Grumman,"Baltimore, MD",5.0,98000,,0,0,MD
+Data Scientist,Amazon,"Seattle, WA",2.0,250000,,0,0,WA
+Data Scientist,Atlassian,"San Francisco, CA",7.0,320000,Male,1,0,CA
+Data Scientist,Quicken Loans,"Detroit, MI",3.0,120000,Male,1,0,MI
+Data Scientist,Netflix,"Los Gatos, CA",6.0,420000,Female,1,0,CA
+Data Scientist,Sophos,"Portland, OR",7.0,165000,Female,0,1,OR
+Data Scientist,Capital One,"Vienna, VA",2.0,126000,Male,1,0,VA
+Data Scientist,Amazon,"Seattle, WA",4.0,231000,Male,1,0,WA
+Data Scientist,Genentech,"San Francisco, CA",10.0,192000,,0,0,CA
+Data Scientist,Amazon,"San Francisco, CA",5.0,249000,Female,0,1,CA
+Data Scientist,Facebook,"Seattle, WA",4.0,300000,Male,0,0,WA
+Data Scientist,Comcast,"Philadelphia, PA",1.0,80000,Male,1,0,PA
+Data Scientist,Microsoft,"Redmond, WA",5.0,210000,,0,0,WA
+Data Scientist,Lyft,"Worcester, MA",5.0,375000,Male,0,0,MA
+Data Scientist,Wipro Limited,"Irving, TX",8.0,115000,,0,0,TX
+Data Scientist,LinkedIn,"Sunnyvale, CA",0.0,138000,,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",4.0,420000,,0,0,CA
+Data Scientist,Philips,"Pittsburgh, PA",10.0,150000,Male,0,0,PA
+Data Scientist,Macy's,"New York, NY",5.0,106000,Male,1,0,NY
+Data Scientist,Autodesk,"San Francisco, CA",6.0,174000,,0,0,CA
+Data Scientist,Dropbox,"San Francisco, CA",5.0,154000,,0,0,CA
+Data Scientist,Microsoft,"Denver, CO",2.0,180000,Male,1,0,CO
+Data Scientist,Goldman Sachs,"New York, NY",11.0,500000,Male,1,0,NY
+Data Scientist,Robinhood,"New York, NY",3.0,284000,Male,0,1,NY
+Data Scientist,LinkedIn,"Mountain View, CA",7.0,300000,,0,0,CA
+Data Scientist,Bank of America,"Raleigh, NC",6.0,156000,Male,1,0,NC
+Data Scientist,Southwest Airlines,"Dallas, TX",3.0,105000,Male,0,1,TX
+Data Scientist,USAA,"Phoenix, AZ",10.0,125000,Female,1,0,AZ
+Data Scientist,Credit Karma,"Oakland, CA",9.0,520000,Male,1,0,CA
+Data Scientist,Lowe's,"Charlotte, NC",0.0,140000,Female,0,0,NC
+Data Scientist,JP Morgan Chase,"Chicago, IL",2.0,84000,Male,1,0,IL
+Data Scientist,eBay,"Seattle, WA",2.0,190000,Female,1,0,WA
+Data Scientist,Adobe,"San Jose, CA",8.0,272000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",2.0,198000,,0,0,WA
+Data Scientist,Facebook,"Seattle, WA",10.0,295000,Male,0,0,WA
+Data Scientist,Oracle,"Redwood City, CA",1.0,205000,,0,1,CA
+Data Scientist,Google,"Mountain View, CA",0.0,266000,Male,0,0,CA
+Data Scientist,Walmart,"Dallas, TX",5.0,105000,Male,1,0,TX
+Data Scientist,Capital Group,"Los Angeles, CA",2.0,220000,,0,0,CA
+Data Scientist,Facebook,"San Francisco, CA",7.0,367000,Male,1,0,CA
+Data Scientist,Microsoft,"Redmond, WA",5.0,245000,,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",7.0,323000,,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",7.0,283000,,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",5.0,198000,,0,0,WA
+Data Scientist,Square,"San Francisco, CA",4.0,235000,Female,1,0,CA
+Data Scientist,PwC,"Ireland, IN",3.0,38000,,1,0,IN
+Data Scientist,SAS Software,"Cary, NC",6.0,146000,,0,0,NC
+Data Scientist,Instacart,"San Francisco, CA",2.0,312000,,0,1,CA
+Data Scientist,Fidelity Investments,"Boston, MA",10.0,400000,,0,0,MA
+Data Scientist,Walmart,"Bentonville, AR",2.0,148000,Male,1,0,AR
+Data Scientist,Equifax,"Alpharetta, GA",3.0,110000,Male,1,0,GA
+Data Scientist,Microsoft,"Seattle, WA",11.0,262000,,0,0,WA
+Data Scientist,Snap,"Los Angeles, CA",0.0,385000,Male,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",15.0,234000,Male,1,0,WA
+Data Scientist,Amazon,"Seattle, WA",2.0,228000,Male,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",5.0,212000,,1,0,WA
+Data Scientist,Walmart Labs,"San Bruno, CA",2.0,180000,,0,0,CA
+Data Scientist,Bloomberg,"New York, NY",0.0,196000,Male,1,0,NY
+Data Scientist,Amazon,"New York, NY",2.0,245000,,0,0,NY
+Data Scientist,Netflix,"Los Angeles, CA",6.0,630000,Male,0,0,CA
+Data Scientist,eBay,"San Jose, CA",8.0,215000,Male,1,0,CA
+Data Scientist,eBay,"Bellevue, WA",4.0,205000,Male,0,0,WA
+Data Scientist,Facebook,"Austin, TX",3.0,189000,,0,0,TX
+Data Scientist,Wells Fargo,"San Francisco, CA",2.0,185000,Female,0,0,CA
+Data Scientist,HPE,"San Jose, CA",5.0,255000,Male,1,0,CA
+Data Scientist,Uber,"San Francisco, CA",4.0,280000,,0,0,CA
+Data Scientist,Pinterest,"San Francisco, CA",2.0,400000,Male,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",8.0,330000,Male,0,0,WA
+Data Scientist,ByteDance,"Los Angeles, CA",5.0,200000,,1,0,CA
+Data Scientist,Liberty Mutual,"Seattle, WA",5.0,163000,,0,0,WA
+Data Scientist,Intuit,"Mountain View, CA",8.0,248000,,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",3.0,194000,Male,0,0,WA
+Data Scientist,Amazon,"Santa Monica, CA",1.0,274000,Male,0,0,CA
+Data Scientist,Apple,"Cupertino, CA",11.0,400000,,0,0,CA
+Data Scientist,Ford Motor,"Dearborn, MI",5.0,112000,,0,0,MI
+Data Scientist,Facebook,"Menlo Park, CA",3.0,217000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",5.0,201000,Male,1,0,WA
+Data Scientist,Amazon,"Seattle, WA",5.0,214000,,1,0,WA
+Data Scientist,Grubhub,"Chicago, IL",3.0,170000,Female,1,0,IL
+Data Scientist,JPMorgan Chase,"Columbus, OH",6.0,128000,Male,1,0,OH
+Data Scientist,Intel,"Hillsboro, OR",8.0,236000,Male,0,0,OR
+Data Scientist,Asana,"San Francisco, CA",3.0,592000,,0,0,CA
+Data Scientist,Google,"Mountain View, CA",9.0,336000,Male,0,1,CA
+Data Scientist,Optum,"Minneapolis, MN",13.0,130000,Male,0,1,MN
+Data Scientist,Ford Motor,"Dearborn, MI",16.0,154000,Male,1,0,MI
+Data Scientist,ViacomCBS,"New York, NY",4.0,102000,,0,0,NY
+Data Scientist,Amazon,"Seattle, WA",1.0,317000,,0,0,WA
+Data Scientist,LinkedIn,"Sunnyvale, CA",3.0,201000,Female,1,0,CA
+Data Scientist,Microsoft,"Seattle, WA",13.0,209000,Male,0,1,WA
+Data Scientist,Target,"Sunnyvale, CA",5.0,245000,,0,0,CA
+Data Scientist,Amazon,"New York, NY",4.0,339000,,0,0,NY
+Data Scientist,McKinsey,"San Francisco, CA",4.0,135000,Male,0,1,CA
+Data Scientist,Opendoor,"San Francisco, CA",3.0,350000,,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",8.0,185000,Female,0,1,CA
+Data Scientist,Facebook,"Seattle, WA",0.0,165000,,0,0,WA
+Data Scientist,Snap,"Los Angeles, CA",0.0,385000,Male,0,0,CA
+Data Scientist,Facebook,"Seattle, WA",9.0,370000,,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",5.0,152000,Male,1,0,WA
+Data Scientist,Square,"San Francisco, CA",1.0,190000,Male,0,1,CA
+Data Scientist,Two Sigma,"Houston, TX",4.0,120000,,0,0,TX
+Data Scientist,Microsoft,"Seattle, WA",3.0,248000,Male,0,0,WA
+Data Scientist,Facebook,"Menlo Park, CA",7.0,360000,,0,0,CA
+Data Scientist,Walmart,"Dallas, TX",1.0,139000,Male,1,0,TX
+Data Scientist,CVS Health,"New York, NY",5.0,143000,,0,0,NY
+Data Scientist,Stitch Fix,"San Francisco, CA",16.0,580000,Male,0,0,CA
+Data Scientist,Carrier,"Boston, MA",2.0,74000,,0,0,MA
+Data Scientist,FICO,"San Diego, CA",2.0,169000,,0,0,CA
+Data Scientist,Genentech,"South San Francisco, CA",5.0,350000,,0,0,CA
+Data Scientist,Amazon,"Atlanta, GA",7.0,225000,Male,1,0,GA
+Data Scientist,Stitch Fix,"San Francisco, CA",5.0,240000,,0,0,CA
+Data Scientist,Walmart Labs,"Sunnyvale, CA",6.0,160000,,0,0,CA
+Data Scientist,Google,"Mountain View, CA",2.0,252000,Male,0,0,CA
+Data Scientist,MUFG,"San Francisco, CA",15.0,300000,Male,1,0,CA
+Data Scientist,Capital One,"Washington, DC",5.0,134000,Female,1,0,DC
+Data Scientist,Amazon,"Seattle, WA",10.0,190000,,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",10.0,400000,,0,0,WA
+Data Scientist,IBM,"Austin, TX",3.0,134000,Female,0,1,TX
+Data Scientist,Amazon,"Arlington, VA",4.0,160000,Male,0,0,VA
+Data Scientist,Amazon,"San Francisco, CA",7.0,340000,,0,0,CA
+Data Scientist,Facebook,"Mountain View, CA",10.0,445000,Male,1,0,CA
+Data Scientist,Lenovo,"Raleigh, NC",7.0,112000,Male,1,0,NC
+Data Scientist,Kohl's,"Milpitas, CA",5.0,220000,,0,0,CA
+Data Scientist,Goldman Sachs,"New York, NY",6.0,195000,Male,1,0,NY
+Data Scientist,Nielsen,"New York, NY",5.0,122000,Male,1,0,NY
+Data Scientist,GE Aviation,"Boston, MA",6.0,99000,,0,0,MA
+Data Scientist,Stitch Fix,"San Francisco, CA",5.0,325000,,0,0,CA
+Data Scientist,Bayer,"Berkeley, CA",6.0,205000,Male,0,0,CA
+Data Scientist,Cisco,"San Francisco, CA",11.0,116000,Female,1,0,CA
+Data Scientist,Indeed,"San Francisco, CA",8.0,257000,,0,0,CA
+Data Scientist,IBM,"Washington, DC",7.0,135000,Male,1,0,DC
+Data Scientist,roche,"San Francisco, CA",5.0,200000,,0,0,CA
+Data Scientist,Uber,"San Francisco, CA",2.0,182000,Male,1,0,CA
+Data Scientist,Liberty Mutual,"Boston, MA",4.0,150000,Male,0,1,MA
+Data Scientist,Amazon,"New York, NY",7.0,266000,Male,1,0,NY
+Data Scientist,Ernst and Young,"San Francisco, CA",3.0,146000,Male,0,1,CA
+Data Scientist,Aetna,"New York, NY",3.0,150000,Female,1,0,NY
+Data Scientist,Visa,"Foster City, CA",2.0,142000,Female,1,0,CA
+Data Scientist,Uber,"San Francisco, CA",1.0,245000,Male,0,0,CA
+Data Scientist,IBM,"New York, NY",2.0,140000,Male,1,0,NY
+Data Scientist,Turo,"San Francisco, CA",3.0,120000,Male,1,0,CA
+Data Scientist,IBM,"Armonk, NY",3.0,123000,Female,1,0,NY
+Data Scientist,Intel,"Hillsboro, OR",11.0,239000,Male,0,0,OR
+Data Scientist,Facebook,"San Francisco, CA",10.0,300000,,0,0,CA
+Data Scientist,hitachi,"Santa Clara, CA",2.0,152000,,0,0,CA
+Data Scientist,AT&T,"Los Angeles, CA",5.0,185000,Male,0,0,CA
+Data Scientist,Squarespace,"New York, NY",6.0,143000,Female,0,1,NY
+Data Scientist,Amazon,"Seattle, WA",3.0,154000,Female,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",3.0,238000,,1,0,WA
+Data Scientist,Genentech,"San Francisco, CA",2.0,274000,,0,0,CA
+Data Scientist,Genentech,"San Francisco, CA",3.0,275000,,0,0,CA
+Data Scientist,Google,"Mountain View, CA",12.0,570000,,0,0,CA
+Data Scientist,Discover Financial Services,"Chicago Heights, IL",5.0,145000,Male,1,0,IL
+Data Scientist,Chime,"San Francisco, CA",3.0,130000,,0,0,CA
+Data Scientist,Shopify,"Charlotte, NC",5.0,200000,,0,0,NC
+Data Scientist,Robinhood,"Menlo Park, CA",4.0,426000,,0,0,CA
+Data Scientist,Square,"New York, NY",3.0,227000,Male,1,0,NY
+Data Scientist,Walmart,"San Bruno, CA",10.0,400000,Male,1,0,CA
+Data Scientist,Cisco,"San Francisco, CA",5.0,200000,Male,1,0,CA
+Data Scientist,Cisco,"San Jose, CA",2.0,90000,Male,0,1,CA
+Data Scientist,Cisco,"San Jose, CA",3.0,115000,Male,0,1,CA
+Data Scientist,Booz Allen Hamilton,"Atlanta, GA",6.0,91000,Female,1,0,GA
+Data Scientist,Walmart Labs,"Sunnyvale, CA",9.0,425000,,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",2.0,278000,Female,1,0,CA
+Data Scientist,Nextdoor,"San Francisco, CA",3.0,250000,,0,0,CA
+Data Scientist,BNP Paribas,"New York, NY",2.0,115000,Male,1,0,NY
+Data Scientist,Spotify,"New York, NY",3.0,138000,Male,0,1,NY
+Data Scientist,Amazon,"San Francisco, CA",6.0,330000,Male,0,0,CA
+Data Scientist,Yahoo,"Sunnyvale, CA",15.0,270000,Female,0,1,CA
+Data Scientist,Grubhub,"New York, NY",4.0,168000,,0,0,NY
+Data Scientist,Edwards Lifesciences,"Menlo Park, CA",5.0,225000,Female,1,0,CA
+Data Scientist,HBO,"Los Angeles, CA",4.0,250000,,0,0,CA
+Data Scientist,Goldman Sachs,"New York, NY",7.0,235000,Female,0,0,NY
+Data Scientist,Workday,"Boulder, CO",5.0,265000,Male,1,0,CO
+Data Scientist,The Climate Corporation,"San Francisco, CA",0.0,160000,Male,1,0,CA
+Data Scientist,Instacart,"San Francisco, CA",16.0,1000000,Other,0,0,CA
+Data Scientist,Slack,"San Francisco, CA",4.0,477000,,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",1.0,157000,Male,1,0,CA
+Data Scientist,Fidelity Investments,"Boston, MA",5.0,181000,,0,0,MA
+Data Scientist,WarnerMedia,"New York, NY",2.0,128000,Male,0,0,NY
+Data Scientist,GoDaddy,"Seattle, WA",11.0,198000,,0,0,WA
+Data Scientist,AT&T,"Palo Alto, CA",10.0,325000,Male,0,0,CA
+Data Scientist,Chime,"San Francisco, CA",5.0,293000,Male,1,0,CA
+Data Scientist,Squarespace,"New York, NY",5.0,165000,Female,0,0,NY
+Data Scientist,Amazon,"San Francisco, CA",2.0,150000,,0,0,CA
+Data Scientist,Oracle,"Austin, TX",5.0,215000,Female,1,0,TX
+Data Scientist,Etsy,"Brooklyn, NY",2.0,185000,Male,1,0,NY
+Data Scientist,Walmart,"Bentonville, AR",11.0,240000,,1,0,AR
+Data Scientist,Facebook,"Seattle, WA",5.0,320000,Male,0,0,WA
+Data Scientist,Capital One,"Plano, TX",1.0,125000,Male,1,0,TX
+Data Scientist,Square,"Seattle, WA",5.0,250000,,0,0,WA
+Data Scientist,Walmart Labs,"Bentonville, AR",12.0,366000,,0,0,AR
+Data Scientist,Oracle,"Denver, CO",4.0,148000,,0,0,CO
+Data Scientist,Citi,"Oklahoma City, OK",0.0,105000,,1,0,OK
+Data Scientist,SAP,"Newport Beach, CA",1.0,146000,Female,1,0,CA
+Data Scientist,Instacart,"San Francisco, CA",4.0,395000,,1,0,CA
+Data Scientist,Amazon,"Seattle, WA",3.0,235000,Female,1,0,WA
+Data Scientist,Deloitte,"Orlando, FL",3.0,97000,Female,1,0,FL
+Data Scientist,Bayer,"New York, NY",1.0,155000,Male,1,0,NY
+Data Scientist,Facebook,"Seattle, WA",5.0,211000,Female,1,0,WA
+Data Scientist,IBM,"Chicago, IL",1.0,101000,Male,0,1,IL
+Data Scientist,illumina,"Foster City, CA",0.0,197000,Female,0,0,CA
+Data Scientist,The Hartford,"Hartford, CT",5.0,131000,Male,1,0,CT
+Data Scientist,Adobe,"San Francisco, CA",7.0,350000,Male,1,0,CA
+Data Scientist,Indeed,"New York, NY",3.0,210000,Female,1,0,NY
+Data Scientist,CVS Health,"Woonsocket, RI",7.0,167000,Male,1,0,RI
+Data Scientist,Dell Technologies,"Austin, TX",3.0,106000,,0,0,TX
+Data Scientist,Walmart Labs,"Sunnyvale, CA",4.0,322000,Female,1,0,CA
+Data Scientist,Lyft,"San Francisco, CA",6.0,680000,,0,0,CA
+Data Scientist,Zappos,"Las Vegas, NV",3.0,119000,Male,1,0,NV
+Data Scientist,Grubhub,"Raleigh, NC",9.0,210000,Male,0,0,NC
+Data Scientist,Amazon,"Seattle, WA",3.0,165000,Male,0,0,WA
+Data Scientist,American Express,"New York, NY",2.0,130000,,0,0,NY
+Data Scientist,Google,"New York, NY",5.0,332000,Male,0,0,NY
+Data Scientist,Discover,"Chicago, IL",4.0,120000,Male,1,0,IL
+Data Scientist,Amazon,"Seattle, WA",5.0,270000,Male,1,0,WA
+Data Scientist,Microsoft,"Redmond, UT",2.0,210000,Male,0,0,UT
+Data Scientist,Southwest Airlines,"Dallas, TX",7.0,108000,Male,0,1,TX
+Data Scientist,BCG,"Boston, MA",0.0,140000,,0,0,MA
+Data Scientist,IBM,"San Jose, CA",2.0,110000,Female,0,1,CA
+Data Scientist,Ernst and Young,"Dallas, TX",6.0,129000,Male,1,0,TX
+Data Scientist,Cisco,"San Jose, CA",6.0,310000,,1,0,CA
+Data Scientist,Deloitte,"Washington, DC",5.0,133000,Male,1,0,DC
+Data Scientist,Amazon,"Seattle, WA",5.0,230000,Male,1,0,WA
+Data Scientist,Boston Consulting Group,"Washington, DC",6.0,156000,,0,0,DC
+Data Scientist,Dell Technologies,"Austin, TX",6.0,200000,,0,0,TX
+Data Scientist,Shopify,"New York, NY",4.0,220000,,1,0,NY
+Data Scientist,SAP,"Newport Beach, CA",1.0,140000,,0,0,CA
+Data Scientist,Salesforce,"New York, NY",5.0,185000,Female,1,0,NY
+Data Scientist,IBM,"Colorado Springs, CO",20.0,163000,,0,0,CO
+Data Scientist,Northrop Grumman,"Huntsville, AL",13.0,156000,Male,0,0,AL
+Data Scientist,Synechron,"Charlotte, NC",3.0,85000,,0,0,NC
+Data Scientist,Prudential Financial,"Sunnyvale, CA",3.0,135000,,1,0,CA
+Data Scientist,S&P Global,"New York, NY",8.0,208000,,0,0,NY
+Data Scientist,Capital One,"Richmond, VA",3.0,135000,Female,1,0,VA
+Data Scientist,Facebook,"Seattle, WA",4.0,167000,,0,0,WA
+Data Scientist,Microsoft,"Boston, MA",10.0,400000,Male,1,0,MA
+Data Scientist,Facebook,"New York, NY",3.0,182000,Male,1,0,NY
+Data Scientist,KPMG,"New York, NY",2.0,95000,Female,0,0,NY
+Data Scientist,Uber,"San Francisco, CA",0.0,192000,Male,1,0,CA
+Data Scientist,Apple,"Cupertino, CA",6.0,304000,,1,0,CA
+Data Scientist,Facebook,"New York, NY",4.0,242000,,0,0,NY
+Data Scientist,Amazon,"Palo Alto, CA",5.0,259000,Male,1,0,CA
+Data Scientist,IBM,"Armonk, NY",2.0,170000,,0,0,NY
+Data Scientist,Facebook,"San Francisco, CA",8.0,464000,,0,0,CA
+Data Scientist,Poshmark,"Redwood City, CA",4.0,170000,Male,1,0,CA
+Data Scientist,Deloitte,"Washington, DC",4.0,137000,Male,1,0,DC
+Data Scientist,Oracle,"Herndon, VA",3.0,120000,Male,0,0,VA
+Data Scientist,Intuit,"Mountain View, CA",4.0,145000,Female,1,0,CA
+Data Scientist,Intuit,"Mountain View, CA",4.0,190000,Male,1,0,CA
+Data Scientist,Google,"Seattle, WA",1.0,110000,,0,0,WA
+Data Scientist,Facebook,"Seattle, WA",16.0,272000,,1,0,WA
+Data Scientist,Verizon Media,"Los Angeles, CA",5.0,160000,,0,0,CA
+Data Scientist,Facebook,"Seattle, WA",2.0,210000,Male,1,0,WA
+Data Scientist,Capital One,"Richmond, VA",10.0,120000,,0,1,VA
+Data Scientist,facebook,"Menlo Park, CA",1.0,226000,,0,0,CA
+Data Scientist,Qualtrics,"Provo, UT",1.0,89000,Male,0,1,UT
+Data Scientist,Citadel,"New York, NY",5.0,400000,,0,0,NY
+Data Scientist,Twitch,"San Francisco, CA",7.0,200000,Male,0,1,CA
+Data Scientist,Apple,"Austin, TX",5.0,174000,,0,0,TX
+Data Scientist,JPMorgan Chase,"New York, NY",34.0,200000,,0,0,NY
+Data Scientist,IBM,"Raleigh, NC",6.0,119000,Male,0,0,NC
+Data Scientist,Apple,"Cupertino, CA",4.0,225000,,0,0,CA
+Data Scientist,PwC,"San Francisco, CA",7.0,276000,Male,0,0,CA
+Data Scientist,PwC,"Charlotte, NC",4.0,90000,Male,1,0,NC
+Data Scientist,Stitch Fix,"San Francisco, CA",5.0,200000,,0,0,CA
+Data Scientist,SquareSpace,"New York, NY",2.0,155000,Female,0,1,NY
+Data Scientist,Walmart Labs,"Sunnyvale, CA",5.0,320000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",6.0,193000,Male,0,0,WA
+Data Scientist,Visa,"San Francisco, CA",3.0,285000,Male,0,0,CA
+Data Scientist,TransUnion,"Chicago, IL",8.0,123000,,1,0,IL
+Data Scientist,Amazon,"Seattle, WA",3.0,431000,,0,0,WA
+Data Scientist,Facebook,"Tulsa, OK",6.0,255000,Male,0,0,OK
+Data Scientist,Amazon,"Atlanta, GA",2.0,204000,,0,0,GA
+Data Scientist,BCG,"Los Angeles, CA",4.0,270000,,0,0,CA
+Data Scientist,Bank of America Merrill Lynch,"New York, NY",2.0,97000,Male,0,0,NY
+Data Scientist,Convoy,"Seattle, WA",4.0,148000,Female,0,1,WA
+Data Scientist,Siemens,"Mississippi State, MS",2.0,70000,Female,1,0,MS
+Data Scientist,Facebook,"Chicago, IL",4.0,165000,Male,0,0,IL
+Data Scientist,Uber,"Sunnyvale, CA",4.0,190000,Female,1,0,CA
+Data Scientist,Deloitte,"Arlington, VA",10.0,170000,,0,0,VA
+Data Scientist,IBM,"New York, NY",5.0,182000,,0,0,NY
+Data Scientist,Western Digital,"Milpitas, CA",5.0,174000,,0,0,CA
+Data Scientist,Magic Leap,"San Francisco, CA",4.0,150000,,0,0,CA
+Data Scientist,Capital One,"Arlington, VA",5.0,157000,,0,0,VA
+Data Scientist,Walmart,"Bentonville, AR",8.0,180000,,0,0,AR
+Data Scientist,JPMorgan Chase,"Columbus, OH",3.0,148000,,0,0,OH
+Data Scientist,IBM,"Armonk, NY",2.0,140000,,0,0,NY
+Data Scientist,Procter & Gamble,"Cincinnati, OH",1.0,120000,,0,0,OH
+Data Scientist,IBM,"Austin, TX",8.0,200000,Male,1,0,TX
+Data Scientist,Apple,"Cupertino, CA",7.0,227000,Female,1,0,CA
+Data Scientist,Vanguard,"Philadelphia, PA",4.0,167000,,0,0,PA
+Data Scientist,Ultimate Software,"Miami, FL",4.0,178000,Male,1,0,FL
+Data Scientist,Disney,"Orlando, FL",6.0,141000,Male,0,0,FL
+Data Scientist,LinkedIn,"Sunnyvale, CA",1.0,186000,,0,0,CA
+Data Scientist,Stripe,"San Francisco, CA",7.0,463000,Male,0,0,CA
+Data Scientist,JPMorgan Chase,"New York, NY",2.0,125000,,0,0,NY
+Data Scientist,ByteDance,"Mountain View, CA",4.0,283000,,0,0,CA
+Data Scientist,Intel,"Portland, OR",4.0,130000,,0,0,OR
+Data Scientist,Amazon,"Seattle, WA",10.0,360000,Male,0,0,WA
+Data Scientist,Microsoft,"Atlanta, GA",15.0,160000,Male,0,1,GA
+Data Scientist,AT&T,"Dallas, TX",3.0,114000,Male,0,1,TX
+Data Scientist,General Motors,"Detroit, MI",3.0,184000,Male,0,0,MI
+Data Scientist,State Farm,"Bloomington, IL",2.0,95000,Female,0,1,IL
+Data Scientist,Optum,"Basking Ridge, NJ",4.0,140000,,0,0,NJ
+Data Scientist,Facebook,"Menlo Park, CA",1.0,270000,Male,0,0,CA
+Data Scientist,Google,"Hawaiian Gardens, CA",2.0,130000,,0,0,CA
+Data Scientist,Capital One,"Fairfax, VA",10.0,286000,,0,0,VA
+Data Scientist,TransUnion,"Boca Raton, FL",2.0,120000,Male,0,0,FL
+Data Scientist,Accenture,"Dublin, NH",0.0,34000,,0,0,NH
+Data Scientist,Facebook,"Menlo Park, CA",8.0,280000,,0,0,CA
+Data Scientist,Liberty Mutual,"Boston, MA",5.0,118000,Female,0,0,MA
+Data Scientist,Fidelity Investments,"Boston, MA",2.0,176000,Female,0,0,MA
+Data Scientist,Walmart Labs,"Sunnyvale, CA",4.0,332000,Male,1,0,CA
+Data Scientist,Spotify,"New York, NY",2.0,150000,,0,0,NY
+Data Scientist,Walmart Labs,"Seattle, WA",2.0,193000,,1,0,WA
+Data Scientist,Fannie Mae,"Washington, DC",5.0,120000,Male,0,1,DC
+Data Scientist,Yahoo,"Sunnyvale, CA",3.0,254000,Male,0,0,CA
+Data Scientist,Adobe,"San Jose, CA",2.0,199000,Male,1,0,CA
+Data Scientist,Oracle,"Denver, CO",2.0,140000,,0,0,CO
+Data Scientist,Ellie Mae,"Pleasanton, CA",2.0,139000,Male,1,0,CA
+Data Scientist,Instacart,"San Francisco, CA",15.0,488000,Male,1,0,CA
+Data Scientist,Microsoft,"Seattle, WA",14.0,290000,,0,0,WA
+Data Scientist,C3.ai,"Redwood City, CA",0.0,186000,Male,1,0,CA
+Data Scientist,Netflix,"Los Gatos, CA",6.0,525000,,0,0,CA
+Data Scientist,Google,"San Francisco, CA",3.0,197000,Male,0,1,CA
+Data Scientist,Apple,"Austin, TX",8.0,228000,Female,1,0,TX
+Data Scientist,Microsoft,"San Francisco, CA",4.0,256000,,0,0,CA
+Data Scientist,McAfee,"San Jose, CA",10.0,241000,Male,0,1,CA
+Data Scientist,eBay,"Seattle, WA",7.0,260000,,0,0,WA
+Data Scientist,Nielsen,"Columbia, MD",3.0,87000,Male,1,0,MD
+Data Scientist,Lyft,"San Francisco, CA",5.0,309000,,0,0,CA
+Data Scientist,Facebook,"Fremont, CA",10.0,226000,Male,1,0,CA
+Data Scientist,Capital One,"Arlington, VA",4.0,170000,Female,0,0,VA
+Data Scientist,Facebook,"Menlo Park, CA",3.0,238000,,0,0,CA
+Data Scientist,Amazon,"Atlanta, GA",5.0,230000,,0,0,GA
+Data Scientist,Facebook,"Seattle, WA",2.0,250000,,1,0,WA
+Data Scientist,CVS Health,"Chicago, IL",1.0,141000,Male,0,0,IL
+Data Scientist,GitHub,"San Francisco, CA",10.0,350000,,0,0,CA
+Data Scientist,Asana,"San Francisco, CA",2.0,205000,,0,0,CA
+Data Scientist,Microsoft,"Redmond, WA",1.0,159000,Male,1,0,WA
+Data Scientist,Raytheon Technologies,"Atlanta, GA",5.0,176000,,0,0,GA
+Data Scientist,DoorDash,"San Francisco, CA",1.0,198000,Male,1,0,CA
+Data Scientist,Chime,"San Francisco, CA",2.0,295000,Male,1,0,CA
+Data Scientist,Flexport,"San Francisco, CA",1.0,144000,Male,0,1,CA
+Data Scientist,Google,"San Francisco, CA",1.0,250000,,0,0,CA
+Data Scientist,Wayfair,"Boston, MA",2.0,168000,Male,0,0,MA
+Data Scientist,Apple,"Cupertino, CA",8.0,225000,Male,0,1,CA
+Data Scientist,Adobe,"San Jose, CA",2.0,195000,Male,1,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",2.0,246000,Male,0,0,CA
+Data Scientist,Allstate,"Dallas, TX",4.0,100000,Female,0,0,TX
+Data Scientist,Liberty Mutual,"Boston, MA",15.0,210000,,0,0,MA
+Data Scientist,Amazon,"Seattle, WA",7.0,192000,,0,0,WA
+Data Scientist,Amazon,"Los Angeles, CA",7.0,172000,Male,1,0,CA
+Data Scientist,Booz Allen Hamilton,"Arlington, VA",5.0,120000,Male,0,1,VA
+Data Scientist,Lockheed Martin,"King of Prussia, PA",14.0,221000,Male,0,0,PA
+Data Scientist,Microsoft,"Seattle, WA",5.0,165000,Male,0,1,WA
+Data Scientist,Microsoft,"Cambridge, MA",1.0,190000,Male,0,0,MA
+Data Scientist,Uber,"San Francisco, CA",2.0,259000,,0,0,CA
+Data Scientist,Point72,"New York, NY",8.0,650000,Male,0,0,NY
+Data Scientist,PwC,"Dallas, TX",0.0,81000,Male,0,1,TX
+Data Scientist,Facebook,"Menlo Park, CA",5.0,300000,Female,1,0,CA
+Data Scientist,Zillow,"Seattle, WA",6.0,233000,Male,0,1,WA
+Data Scientist,PayPal,"San Jose, CA",5.0,250000,,0,0,CA
+Data Scientist,ResMed,"San Diego, CA",5.0,176000,,1,0,CA
+Data Scientist,JPMorgan Chase,"New York, NY",2.0,150000,,0,0,NY
+Data Scientist,Facebook,"Menlo Park, CA",14.0,385000,Female,1,0,CA
+Data Scientist,McKinsey,"Boston, MA",2.0,140000,Male,1,0,MA
+Data Scientist,Twilio,"San Francisco, CA",12.0,415000,Male,1,0,CA
+Data Scientist,Microsoft,"Seattle, WA",3.0,181000,Female,1,0,WA
+Data Scientist,Deloitte,"San Jose, CA",9.0,175000,Male,1,0,CA
+Data Scientist,Accenture,"New York, NY",0.0,112000,Male,0,1,NY
+Data Scientist,Intuit,"San Francisco, CA",14.0,249000,,0,0,CA
+Data Scientist,WarnerMedia,"Los Angeles, CA",1.0,116000,,0,0,CA
+Data Scientist,Prudential Financial,"Newark, NJ",1.0,130000,,0,0,NJ
+Data Scientist,Microsoft,"Redmond, WA",2.0,212000,Female,1,0,WA
+Data Scientist,Stitch Fix,"San Francisco, CA",5.0,578000,,0,0,CA
+Data Scientist,Instacart,"San Francisco, CA",6.0,485000,Male,1,0,CA
+Data Scientist,IBM,"Colorado Springs, CO",20.0,149000,,0,0,CO
+Data Scientist,Indeed,"Seattle, WA",5.0,190000,,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",4.0,180000,Female,1,0,WA
+Data Scientist,IBM,"Atlanta, GA",3.0,130000,Male,0,0,GA
+Data Scientist,Amazon,"Seattle, WA",6.0,260000,Female,1,0,WA
+Data Scientist,Amazon,"Seattle, WA",9.0,213000,Male,1,0,WA
+Data Scientist,Wells Fargo,"Charlotte, NC",0.0,145000,,0,0,NC
+Data Scientist,Nvidia,"Santa Clara, CA",2.0,168000,Male,1,0,CA
+Data Scientist,Deloitte,"Arlington, VA",6.0,110000,,0,0,VA
+Data Scientist,Revolut,"New York, NY",1.0,161000,Male,1,0,NY
+Data Scientist,Intel,"Portland, OR",0.0,183000,Male,0,0,OR
+Data Scientist,Snap,"Los Angeles, CA",5.0,231000,Male,0,1,CA
+Data Scientist,ebay,"San Jose, CA",3.0,227000,,0,0,CA
+Data Scientist,Blackstone,"San Francisco, CA",1.0,140000,Female,0,1,CA
+Data Scientist,Accenture,"Indianapolis, IN",0.0,16000,Male,0,1,IN
+Data Scientist,Allstate,"Chicago, IL",6.0,157000,,0,0,IL
+Data Scientist,Cisco,"New York, NY",4.0,245000,Male,0,0,NY
+Data Scientist,Ernst and Young,"Atlanta, GA",1.0,78000,Male,0,1,GA
+Data Scientist,Netflix,"Los Gatos, CA",3.0,505000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",5.0,246000,Male,0,0,WA
+Data Scientist,Walmart Labs,"Sunnyvale, CA",2.0,243000,Male,0,0,CA
+Data Scientist,Facebook,"San Francisco, CA",7.0,300000,,0,0,CA
+Data Scientist,IBM,"New York, NY",15.0,303000,,0,0,NY
+Data Scientist,CVS Health,"New York, NY",2.0,142000,,0,0,NY
+Data Scientist,JPMorgan Chase,"New York, NY",2.0,85000,Male,0,1,NY
+Data Scientist,BCG Digital Ventures,"New York, NY",0.0,158000,,0,0,NY
+Data Scientist,Capital One,"Vienna, VA",5.0,151000,Male,0,0,VA
+Data Scientist,Optiver,"Chicago, IL",1.0,155000,Male,0,1,IL
+Data Scientist,Cruise,"San Francisco, CA",2.0,345000,,0,0,CA
+Data Scientist,SAP Concur,"Seattle, WA",3.0,149000,,0,0,WA
+Data Scientist,Apple,"Austin, TX",8.0,223000,Male,0,1,TX
+Data Scientist,Walmart,"Dallas, TX",6.0,209000,,0,0,TX
+Data Scientist,FedEx,"Memphis, TN",15.0,145000,Male,1,0,TN
+Data Scientist,Microsoft,"Redmond, WA",0.0,206000,Male,0,0,WA
+Data Scientist,Capital One,"New York, NY",3.0,123000,,0,0,NY
+Data Scientist,Cisco,"Milpitas, CA",4.0,200000,Male,1,0,CA
+Data Scientist,Walmart,"Bentonville, AR",8.0,213000,Female,1,0,AR
+Data Scientist,Amazon,"Seattle, WA",9.0,432000,,0,0,WA
+Data Scientist,Red Hat,"Raleigh, NC",5.0,171000,Male,1,0,NC
+Data Scientist,Google,"San Francisco, CA",2.0,175000,,0,0,CA
+Data Scientist,Aetna,"Chicago, IL",7.0,130000,Female,1,0,IL
+Data Scientist,Capital One,"New York, NY",4.0,139000,Male,1,0,NY
+Data Scientist,PayPal,"New York, NY",2.0,158000,,0,0,NY
+Data Scientist,Ernst and Young,"New York, NY",12.0,290000,Male,1,0,NY
+Data Scientist,Shopify,"Boston, MA",4.0,220000,,1,0,MA
+Data Scientist,FedEx,"Memphis, TN",10.0,99000,Male,1,0,TN
+Data Scientist,Intel,"Portland, OR",3.0,152000,Male,0,0,OR
+Data Scientist,Oracle,"Los Angeles, CA",3.0,205000,,0,0,CA
+Data Scientist,Fidelity Investments,"Boston, MA",8.0,200000,Male,0,0,MA
+Data Scientist,Moveworks,"Austin, TX",4.0,115000,Male,1,1,TX
+Data Scientist,UBS,"New York, NY",5.0,165000,,0,0,NY
+Data Scientist,Microsoft,"Seattle, WA",4.0,200000,,0,0,WA
+Data Scientist,Apple,"Cupertino, CA",3.0,248000,,0,1,CA
+Data Scientist,Facebook,"San Francisco, CA",7.0,357000,Male,1,0,CA
+Data Scientist,Microsoft,"Seattle, WA",2.0,225000,Male,0,0,WA
+Data Scientist,Intel,"Portland, OR",3.0,159000,Male,0,0,OR
+Data Scientist,Booz Allen Hamilton,"Atlanta, GA",6.0,120000,,0,0,GA
+Data Scientist,Snap,"New York, NY",7.0,375000,Female,0,0,NY
+Data Scientist,Vanguard,"Malvern, PA",10.0,230000,,0,0,PA
+Data Scientist,Google,"Mountain View, CA",10.0,225000,Male,1,0,CA
+Data Scientist,Salesforce,"San Francisco, CA",9.0,564000,,0,0,CA
+Data Scientist,Facebook,"New York, NY",2.0,338000,Female,0,1,NY
+Data Scientist,VMware,"Palo Alto, CA",13.0,265000,Female,1,0,CA
+Data Scientist,Wells Fargo,"Charlotte, NC",10.0,196000,Female,1,0,NC
+Data Scientist,Amazon,"Seattle, WA",9.0,400000,,0,0,WA
+Data Scientist,Capital One,"Washington, DC",0.0,91000,,0,0,DC
+Data Scientist,Facebook,"New York, NY",6.0,200000,,0,0,NY
+Data Scientist,Facebook,"New York, NY",10.0,412000,Male,0,1,NY
+Data Scientist,Ibotta,"Denver, CO",4.0,90000,,0,0,CO
+Data Scientist,IBM,"Raleigh, NC",6.0,145000,Male,0,0,NC
+Data Scientist,Citi,"Dallas, TX",4.0,120000,,0,0,TX
+Data Scientist,Workday,"Boulder, CO",6.0,311000,Male,1,0,CO
+Data Scientist,Waymo,"San Francisco, CA",4.0,268000,Male,1,0,CA
+Data Scientist,Uber,"San Francisco, CA",3.0,275000,Male,0,0,CA
+Data Scientist,Twitter,"San Francisco, CA",2.0,225000,,0,0,CA
+Data Scientist,Zillow,"Seattle, WA",10.0,290000,Male,0,0,WA
+Data Scientist,Wayfair,"Boston, MA",6.0,240000,,1,0,MA
+Data Scientist,Micron Technology,"Boise, ID",15.0,115000,Female,1,0,ID
+Data Scientist,FICO,"San Diego, CA",9.0,200000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",5.0,330000,,0,0,WA
+Data Scientist,IBM,"New York, NY",2.0,105000,Male,0,1,NY
+Data Scientist,Shopify,"New York, NY",6.0,185000,Male,1,0,NY
+Data Scientist,Google,"Mountain View, CA",9.0,219000,Male,1,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",9.0,304000,Female,0,1,CA
+Data Scientist,Cisco,"Denver, CO",3.0,160000,Female,1,0,CO
+Data Scientist,Starbucks,"Seattle, WA",3.0,172000,Male,0,0,WA
+Data Scientist,JPMorgan Chase,"Wilmington, DE",5.0,90000,,0,0,DE
+Data Scientist,Optiver,"Chicago, IL",1.0,185000,Male,0,1,IL
+Data Scientist,Workday,"Pleasanton, CA",5.0,220000,Male,0,0,CA
+Data Scientist,Indeed,"Austin, TX",5.0,126000,,1,0,TX
+Data Scientist,DoorDash,"San Francisco, CA",3.0,250000,Male,1,0,CA
+Data Scientist,Walmart Labs,"San Francisco, CA",6.0,209000,Male,1,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",11.0,265000,Male,0,0,CA
+Data Scientist,Capgemini,"New York, NY",5.0,131000,,1,0,NY
+Data Scientist,Athenahealth,"Watertown, MA",3.0,176000,,1,0,MA
+Data Scientist,The Climate Corporation,"Chicago, IL",2.0,130000,,0,0,IL
+Data Scientist,Affirm,"San Francisco, CA",7.0,158000,,0,0,CA
+Data Scientist,Booz Allen Hamilton,"St. Louis, MO",0.0,100000,Male,0,1,MO
+Data Scientist,ADP,"Atlanta, GA",3.0,123000,,0,0,GA
+Data Scientist,Adobe,"San Jose, CA",3.0,283000,,0,0,CA
+Data Scientist,Qualcomm,"San Diego, CA",2.0,197000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",0.0,157000,,0,0,WA
+Data Scientist,Capital One,"Fairfax, VA",4.0,133000,Female,0,0,VA
+Data Scientist,Merck,"San Francisco, CA",4.0,148000,Male,1,0,CA
+Data Scientist,Airbnb,"San Francisco, CA",10.0,395000,,0,0,CA
+Data Scientist,Stitch Fix,"San Diego, CA",9.0,409000,Male,0,0,CA
+Data Scientist,Blue Yonder,"Dallas, TX",7.0,157000,Male,1,0,TX
+Data Scientist,Walmart Labs,"Hoboken, NJ",6.0,337000,Male,1,0,NJ
+Data Scientist,Capital One,"Washington, VA",2.0,105000,Male,1,0,VA
+Data Scientist,Apple,"Cupertino, CA",6.0,265000,Male,1,0,CA
+Data Scientist,IBM,"Seattle, WA",1.0,132000,Male,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",2.0,179000,Male,1,0,WA
+Data Scientist,Nielsen,"Chicago, IL",0.0,132000,Male,0,0,IL
+Data Scientist,Amazon.com,"Seattle, WA",10.0,163000,Male,0,0,WA
+Data Scientist,Prudential Financial,"Newark, NJ",3.0,125000,,0,0,NJ
+Data Scientist,Blink Health,"New York, NY",1.0,98000,,0,1,NY
+Data Scientist,Capital One,"New York, NY",5.0,188000,,0,0,NY
+Data Scientist,Micron Technology,"Boise, ID",5.0,104000,,0,0,ID
+Data Scientist,Spotify,"New York, NY",5.0,215000,Male,1,0,NY
+Data Scientist,Microsoft,"Mountain View, CA",5.0,757000,,0,0,CA
+Data Scientist,Rent the Runway,"New York, NY",3.0,140000,Female,1,0,NY
+Data Scientist,Amazon,"Seattle, WA",5.0,190000,,0,0,WA
+Data Scientist,XPO Logistics,"Ann Arbor, MI",12.0,142000,,0,0,MI
+Data Scientist,Bank of America Merrill Lynch,"New York, NY",0.0,190000,Male,0,0,NY
+Data Scientist,Grubhub,"New York, NY",4.0,172000,Male,1,0,NY
+Data Scientist,Liberty Mutual,"Seattle, WA",9.0,275000,,0,0,WA
+Data Scientist,Microsoft,"Redmond, WA",0.0,162000,Male,1,0,WA
+Data Scientist,Facebook,"Menlo Park, CA",9.0,302000,Female,0,1,CA
+Data Scientist,Nielsen,"Washington, DC",8.0,152000,,0,0,DC
+Data Scientist,Grubhub,"Chicago, IL",5.0,165000,Female,1,0,IL
+Data Scientist,Netflix,"Los Gatos, CA",4.0,400000,Female,1,0,CA
+Data Scientist,The Home Depot,"Atlanta, GA",3.0,130000,Male,1,0,GA
+Data Scientist,Northwestern Mutual,"New York, NY",5.0,165000,,1,0,NY
+Data Scientist,Lockheed Martin,"Philadelphia, PA",0.0,80000,Male,0,1,PA
+Data Scientist,Amazon,"Seattle, WA",3.0,185000,,0,0,WA
+Data Scientist,Intuit,"Mountain View, MO",6.0,283000,Female,0,0,MO
+Data Scientist,Spotify,"New York, NY",4.0,237000,,0,0,NY
+Data Scientist,BCG,"Chicago, IL",2.0,158000,Female,1,0,IL
+Data Scientist,JPMorgan Chase,"Jersey City, NJ",1.0,121000,Male,1,0,NJ
+Data Scientist,Global Payments,"Atlanta, GA",6.0,140000,Male,1,0,GA
+Data Scientist,Intuit,"Mountain View, CA",10.0,470000,Other,1,0,CA
+Data Scientist,Ernst and Young,"Chicago, IL",4.0,120000,Female,1,0,IL
+Data Scientist,Fifth Third Bank,"Cincinnati, OH",4.0,144000,Male,1,0,OH
+Data Scientist,Nike,"Portland, OR",7.0,179000,,0,0,OR
+Data Scientist,Oracle,"Seattle, WA",2.0,153000,Female,1,0,WA
+Data Scientist,Booz Allen Hamilton,"Annapolis Junction, MD",9.0,215000,Male,0,1,MD
+Data Scientist,Amazon,"Seattle, WA",9.0,193000,Male,1,0,WA
+Data Scientist,Discovery,"Seattle, WA",7.0,223000,Male,1,0,WA
+Data Scientist,Amazon,"Seattle, WA",10.0,267000,,0,0,WA
+Data Scientist,Roblox,"San Mateo, CA",5.0,498000,,0,0,CA
+Data Scientist,iCIMS,"Holmdel, NJ",6.0,108000,,0,0,NJ
+Data Scientist,Amazon,"Seattle, WA",8.0,250000,Female,0,1,WA
+Data Scientist,Dolby Laboratories,"Sunnyvale, CA",10.0,300000,,0,0,CA
+Data Scientist,IBM,"San Francisco, CA",4.0,133000,Female,0,1,CA
+Data Scientist,BigCommerce,"San Francisco, CA",16.0,217000,,0,0,CA
+Data Scientist,Amazon,"Boston, MA",3.0,200000,,1,0,MA
+Data Scientist,Microsoft,"Boston, MA",3.0,205000,Male,1,0,MA
+Data Scientist,Bank of America,"New York, NY",5.0,175000,Male,1,0,NY
+Data Scientist,Facebook,"New York, NY",4.0,334000,Male,0,0,NY
+Data Scientist,Amazon,"Seattle, WA",6.0,232000,,0,0,WA
+Data Scientist,Apple,"Cupertino, CA",8.0,227000,Female,1,0,CA
+Data Scientist,Nike,"Beaverton, OR",3.0,146000,Male,1,0,OR
+Data Scientist,ResMed,"San Diego, CA",4.0,152000,Female,0,0,CA
+Data Scientist,Facebook,"Menlo Park, CA",16.0,700000,Male,1,0,CA
+Data Scientist,Microsoft,"Seattle, WA",13.0,230000,,0,0,WA
+Data Scientist,Johnson,"Philadelphia, PA",8.0,145000,,0,0,PA
+Data Scientist,Facebook,"New York, NY",11.0,631000,Male,1,0,NY
+Data Scientist,Netflix,"Los Gatos, CA",5.0,605000,Male,0,0,CA
+Data Scientist,Microsoft,"Seattle, WA",7.0,210000,,0,0,WA
+Data Scientist,Adobe,"San Jose, CA",5.0,250000,Female,1,0,CA
+Data Scientist,IBM,"New City, NY",6.0,145000,Male,0,1,NY
+Data Scientist,Booz Allen Hamilton,"West McLean, VA",0.0,110000,Male,1,0,VA
+Data Scientist,Xandr,"Portland, OR",1.0,120000,Male,1,0,OR
+Data Scientist,Facebook,"Menlo Park, CA",2.0,233000,Male,0,1,CA
+Data Scientist,AT&T,"Atlanta, GA",9.0,175000,,0,0,GA
+Data Scientist,Intuit,"Mountain View, CA",5.0,250000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",6.0,155000,,0,0,WA
+Data Scientist,Medtronic,"New York, NY",2.0,150000,Male,0,0,NY
+Data Scientist,IBM,"San Jose, CA",5.0,165000,Male,0,0,CA
+Data Scientist,American Express,"New York, NY",3.0,155000,Male,0,0,NY
+Data Scientist,Amazon,"Seattle, WA",5.0,230000,Male,0,0,WA
+Data Scientist,Amazon,"Seattle, WA",2.0,140000,Male,0,0,WA
+Data Scientist,Amazon,"Palo Alto, CA",8.0,250000,,0,0,CA
+Data Scientist,Amazon,"Seattle, WA",7.0,185000,,0,0,WA
+Data Scientist,Amazon,"Palo Alto, CA",10.0,260000,Female,0,0,CA
+Data Scientist,Procter & Gamble,"Cincinnati, OH",5.0,135000,Male,0,0,OH
+Data Scientist,Amazon,"Seattle, WA",12.0,740000,,0,0,WA
+Data Scientist,Deloitte,"Chicago, IL",3.0,190000,Male,0,0,IL
+Data Scientist,IBM,"Washington, DC",5.0,155000,Male,0,0,DC
+Data Scientist,ADP,"Roseland, NJ",8.0,185000,Male,0,0,NJ
+Data Scientist,Google,"Kirkland, WA",22.0,685000,Male,0,0,WA
+Data Scientist,Illumina,"San Diego, CA",6.0,175000,,0,0,CA
