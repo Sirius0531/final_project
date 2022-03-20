@@ -1,4 +1,4 @@
-# final_project
+# Team Corpus Christi
 **Topic:**
 Predicting the average salary of jobs in the data industry based on different variables using a linear regression model.
 
