@@ -22,6 +22,5 @@ Upload the cleaned dataset to S3 buket on AWS.
 **Description of the analysis phase of the project**
 Beautiful soup, splinter, pgadmin, jupyter notebook  
 
-Result of analysis
-Recommendation for future analysis
-Anything the team would have done differently
+
+
