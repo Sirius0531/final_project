@@ -28,6 +28,8 @@ How  do different factors, such as location, years of experience, gender, compan
 **Description of the data exploration phase of the project**
 We are using python and pandas to clean the dataset, filtering on data industry specific jobs in the USA.
 Upload the cleaned dataset to S3 buket on AWS.
+![image](https://user-images.githubusercontent.com/92349969/160261413-f58f0815-c402-407f-8edc-00913896e6cb.png)
+
 
 **Description of the analysis phase of the project**
 Machine Learning Model Selection
