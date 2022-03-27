@@ -1,4 +1,4 @@
-# Team Corpus Christi
+# Data Scientist Salary Prediction
 **Topic:**
 Predicting the average salary of jobs in the data industry based on different variables using a linear regression model.
 
