@@ -1,4 +1,4 @@
-# Data Scientist Salary Prediction
+# Data Scientist Salary Analysis
 **Topic:**
 Predicting the average salary of jobs in the data industry based on different variables using a linear regression model. We wanted to see how factors such as company, location and
 experience affect the expected salary.
@@ -43,4 +43,4 @@ Once the data was clean we did visualizations of the data to decide which models
 
 **Recommendation for future analysis**
 
-**Anything the team would have done differently
+**Anything the team would have done differently**
