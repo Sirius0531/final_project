@@ -101,3 +101,15 @@ h1, h2, h3, h4, h5, h6 {
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
+
+body, html {
+    height: 100%;
+}
+
+#bannerimage {
+  width: 100%;
+  background-image: url(https://raw.githubusercontent.com/Sirius0531/final_project/main/Resources/Images/BannerMain.jpg);
+  height: 300px;
+  background-color: purple;
+  background-position: center;
+}
