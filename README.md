@@ -39,7 +39,7 @@ This dataset has 62,000 salary records from top companies. It contains informati
 4.  Once the data was clean we did visualizations of the data, and observe the correlation between each variable and total yearly compensation. 
 [Dashboard](https://public.tableau.com/app/profile/sirius.liao/viz/SalaryAnalysis-Storyboard/DataScientistSalaryAnalysis#1) of our initial visualizations.
 5. Use python and pandas to clean the dataset, filtering on data industry specific jobs in the USA and One-Hotencoder the object columns. 
-6. Upload the cleaned dataset to S3 buket on AWS.
+6. Upload the cleaned dataset to S3 buket on AWS. Using Pyspar to connect AWS and PostgreSQl to store and analysis the data.
 ![image](https://user-images.githubusercontent.com/92349969/160261413-f58f0815-c402-407f-8edc-00913896e6cb.png)
 
 ### Database and ERD
@@ -52,22 +52,19 @@ Once the data was clean we did visualizations of the data to decide which models
 - We initially decided upon a linear model because what we were trying to find was a correlation rather than a classification
 - Once we tired to linear regression model we decided to explore and build upon it with the Random Forest Regressor
 - To see if we could improve the model and employ skills learned in class we also tested with a Neural Network
-
-
-
-## Database Storage
-We will be using AWS and connecting to PostgreSQl to store our data.
-
 ## Machine Learning
 SciKitLearn is the ML library. We are doing multiple Linear Regression Models utilizing different variables from our dataset. We are also testing adding the Random Forest Classifier to our model as well. We will also use the Stats Model Library to evaluate the accuracy of our model.
 
-## Dashboard
-We will create an interactive dashboard where users can choose variable from a drop down and see visualizations created with plotly. We will also use tableau to create visualizations for our presentation.
-
-
-
+## Dashboard Walk through
+**Introduction**
+A brief bloxk explain the purpose of this analysis:
+**Prefered skills by company and job title**
+An interactive dashboard was created where users can choose variable from a drop down and see visualizations created with Tableau. 
+**External Factors for Salary Differences**
+**Internal Factors for Salary Differences**
 **Result of analysis**
 
-**Recommendation for future analysis**
 
-**Anything the team would have done differently**
+## Recommendation for future analysis
+
+## Meet Our Team
