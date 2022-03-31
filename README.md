@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/Sirius0531/final_project/main/Resources/Images/BannerMain.jpg)
+![image](https://github.com/Sirius0531/final_project/blob/main/Resources/Images/pj_banner.jpg)
 # Data Scientist Salary Analysis with Machine Learning
 Presentation [PDF](https://github.com/Sirius0531/final_project/blob/main/2nd%20Segment%20Project%20Deliverable/Deliverable2_Storyboard_PDF.pdf) &
 Project [Dashboard](https://sirius0531.github.io/final_project/)
