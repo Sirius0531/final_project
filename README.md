@@ -63,8 +63,11 @@ Once the data was clean we did visualizations of the data to decide which models
 A brief block explains the purpose of this analysis:
 **Prefered skills by company and job title**
 An interactive dashboard was created where users can choose variables from a drop-down and see visualizations created with Tableau. 
+
 **External Factors for Salary Differences**
+
 **Internal Factors for Salary Differences**
+
 **Result of analysis**
 
 
