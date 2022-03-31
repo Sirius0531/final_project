@@ -14,6 +14,7 @@ Our goal throughout this analysis was to better educate us on the salary levels 
 - Years of experience
 - Gender
 - Company
+
 affect the anticipated salary.
 
 
