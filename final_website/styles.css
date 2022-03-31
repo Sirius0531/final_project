@@ -11,10 +11,14 @@ body{
 }
 .purpose{
   background-color: #789395;
+  padding-top: 25px;
 }
 .internal{
   background-color: #94B49F;
   padding-right: 50px;
+  padding-bottom: 25px;
+  padding-top: 25px;
+  padding-left: 25px;
 }
 
 .internal-special{
@@ -23,5 +27,19 @@ body{
 .internal-skills{
   background-color: #94B49F;
   padding-right: 50px;
-  padding-left:50px;
+  padding-left:25px;
+  padding-bottom: 25px;
+  padding-top: 25px;
 }
+.hr-styles{
+  background-color:white;
+}
+.estimation{
+  padding-right: 50px;
+  padding-left:25px;
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+/* .left-pad{
+  padding-left: 20px;
+} */
