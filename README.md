@@ -52,10 +52,13 @@ Once the data was clean we did visualizations of the data to decide which models
 - We initially decided upon a linear model because what we were trying to find was a correlation rather than a classification
 - Once we tried to linear regression model we decided to explore and build upon it with the Random Forest Regressor
 - To see if we could improve the model and employ skills learned in class we also tested with a Neural Network
-## Machine Learning
-SciKitLearn is the ML library. We are doing multiple Linear Regression Models utilizing different variables from our dataset. We are also testing adding the Random Forest Classifier to our model as well. We will also use the Stats Model Library to evaluate the accuracy of our model.
+- SciKitLearn is the ML library. We are doing multiple Linear Regression Models utilizing different variables from our dataset. We are also testing adding the Random Forest Classifier to our model as well. We will also use the Stats Model Library to evaluate the accuracy of our model.
+- XGboost
 
-## Dashboard Walkthrough
+## Optimize the Machine Learning Models
+
+
+## Dashboard Walkthrough   (need to add screenshot once the dashborad finished)
 **Introduction**
 A brief block explains the purpose of this analysis:
 **Prefered skills by company and job title**
@@ -65,6 +68,16 @@ An interactive dashboard was created where users can choose variables from a dro
 **Result of analysis**
 
 
+## Team Communication Protocols
+- Weekly Zoom meeting on Sunday morning to go through segment submission.
+- Live time Salck communications with updates and changes
+- Tracking Deliverable with Excel [Gantt Chart](https://github.com/Sirius0531/final_project/blob/main/2nd%20Segment%20Project%20Deliverable/Chart/Agile%20Gantt%20chart1.xlsm)
+ <img src="https://raw.githubusercontent.com/Sirius0531/final_project/main/Resources/Images/ganttchart.PNG" width="800" >
+- 
+
 ## Recommendation for future analysis
+### Data collection form
+### Included job discription
+
 
 ## Meet Our Team
