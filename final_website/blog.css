@@ -110,7 +110,7 @@ body, html {
   width: 100%;
   background-image: url(https://raw.githubusercontent.com/Sirius0531/final_project/main/Resources/Images/BannerMain.jpg);
   height: 300px;
-  background-color: purple;
+  /* background-color: purple; */
   background-position: center;
 }
 

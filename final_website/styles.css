@@ -10,7 +10,8 @@ body{
   background-color: #B4CFB0;
 }
 .purpose{
-  background-color: #789395;
+  /* background-color: #789395; */
+  background-color: #D3DEDC;
   padding-top: 25px;
 }
 .internal{
@@ -23,6 +24,9 @@ body{
 
 .internal-special{
   background-color: #94B49F;
+  padding-bottom: 25px;
+  padding-top: 25px;
+  padding-left: 25px;
 }
 .internal-skills{
   background-color: #94B49F;
@@ -43,3 +47,6 @@ body{
 /* .left-pad{
   padding-left: 20px;
 } */
+.pad-left{
+    padding-left: 50px;
+}
