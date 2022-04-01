@@ -73,13 +73,6 @@ An interactive dashboard was created where users can choose variables from a dro
 **Result of analysis**
 
 
-## Team Communication Protocols
-- Weekly Zoom meeting on Sunday morning to go through segment submission.
-- Live time Salck communications with updates and changes
-- Tracking Deliverable with Excel [Gantt Chart](https://github.com/Sirius0531/final_project/blob/main/2nd%20Segment%20Project%20Deliverable/Chart/Agile%20Gantt%20chart1.xlsm)
- <img src="https://raw.githubusercontent.com/Sirius0531/final_project/main/Resources/Images/ganttchart.PNG" width="800" >
-- 
-
 ## Recommendation for future analysis
 ### Data collection form
 ### Included job discription
