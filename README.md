@@ -23,6 +23,7 @@ affect the anticipated salary.
 JACK OGOZALY. (November 2021). 
 Kaggle: Salary and more-Data Scientist, Analyst, Engineer, 
 Retrieved 3/16/2022 from https://www.kaggle.com/jackogozaly/data-science-and-stem-salaries.
+
 This dataset has 62,000 salary records from top companies. It contains information such as company, location, education level, compensation (base salary, bonus, stock grants), race, and other details. During our analysis, we hoped this dataset would help us answer the question of how do different factors such as location, years of experience, gender, and company affect the anticipated salary.
 
 **Limitations to Dataset**
