@@ -1,7 +1,7 @@
 ![image](https://github.com/Sirius0531/final_project/blob/main/Resources/Images/pj_banner.jpg)
 # Data Scientist Salary Analysis with Machine Learning
 Project Description [PDF](https://github.com/Sirius0531/final_project/blob/main/2nd%20Segment%20Project%20Deliverable/Deliverable2_Storyboard_PDF.pdf) &
-Project [Dashboard](https://sirius0531.github.io/final_project/) &
+Project [Dashboard](https://sirius0531.github.io/final_project/final_website/index.html) &
 Presentation [Slides](https://docs.google.com/presentation/d/1RYqxEM__TevdDOhwg8GO3oerPjs3XSrG1k4ISLAIga0/edit?usp=sharing)
 
 ## Topic:
