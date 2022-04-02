@@ -60,7 +60,7 @@ Once the data was clean we did visualizations of the data to decide which models
 ## Optimize the Machine Learning Models
 
 
-## Dashboard Walkthrough   (need to add screenshot once the dashborad finished)
+## Dashboard Walkthrough   
 **Introduction**
 A brief block explains the purpose of this analysis:
 **Prefered skills by company and job title**
