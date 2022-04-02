@@ -53,13 +53,13 @@ This dataset has 62,000 salary records from top companies. It contains informati
 ### Machine Learning Model Selection
 Once the data was clean we did visualizations of the data to decide which models may lend themselves better to the data 
 - We initially decided upon a linear model because what we were trying to find was a correlation rather than a classification
-- Once we tried to linear regression model we knew we would need a more sophisticated model, so we decided to explore and build upon it with the Random Forest Regressor (RFR).
+- Once saw the results of the simple linear regression model we knew we would need to explore a more sophisticated approach. Reasearching the power of decision trees, we went with the Random Forest Regressor (RFR) for the next approach.
 
 ### Optimizing the Machine Learning Models
--  The RFR hich gave us a much better baseline of 57% accuracy. After some tuning of the the number of estimators this model utilized, we found our best results with an accuracy score of 61%. Our models were serialized with joblib to explore future training and predictions.
+-  The RFR gave us a much better baseline of 57% accuracy. After some tuning of the the number of estimators this model utilized, we found our best results with 100 estimators producing an accuracy score of 61%. Our models were serialized with joblib to explore future training and predictions.
 - To see if we could improve the model and employ skills learned in class we briefly explored a neural network, including many attempts to inflate neurons in hidden layers. While this model was already subject to overfitting given our smaller sample size, it actually did not perform better than the other models anyway, returning a MAPE value of 27.0.
 - After some research about its performance compared to other regressors, we wanted to try utilizing extreme gradient boosting (XGBoost). This ensemble model allowed new trees to be added after other trees have learned, therefore minimizing the loss (an improvement on the RFR approach). This model ultimately proved the best, with predictive accuracy above 65% and a lower mean absolute percentage error (MAPE) at .1862.
-- Side by side comparisions of each of these models revealed a potential to combine their individual predicitions by taking a simple mean of our tested models. After trying different combinations, the mean of the Random Forest Regressor and XGBoost Regressor was able to reduce the MAPE to .1779. This final mean of the two models is what we used in our forecast simulation.
+- Side by side comparisions of each of these models revealed a potential to combine their individual predicitions by taking a simple mean of our tested models' predicted salaries. After trying different combinations, the mean of the Random Forest Regressor and XGBoost Regressor was able to reduce the MAPE to .1779. This final mean of the two models is what we used in our forecast simulation.
 
 
 
