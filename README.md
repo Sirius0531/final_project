@@ -5,10 +5,10 @@ Project [Dashboard](https://sirius0531.github.io/final_project/Website/index.htm
 Presentation [Slides](https://docs.google.com/presentation/d/1RYqxEM__TevdDOhwg8GO3oerPjs3XSrG1k4ISLAIga0/edit?usp=sharing)
 
 ## Topic:
-Predicting the average salary of jobs in the data industry based on different variables using a linear regression model. We wanted to see how factors such as company, location, and experience affect the expected salary.
+Predicting the average salary of jobs in the data industry based on different variables using a regression model. We wanted to see how factors such as company, location, and experience affect the expected salary.
 
 ### The reason the topic was selected
-We selected this topic because it was one that was of interest to all of us including our classmates. As we graduate from this course and enter the job market we have a frame of reference when negotiating offers.
+We selected this topic because it was one that was of interest to all of us including our classmates. As we graduate from this course and enter the job market we have a frame of reference when negotiating compensation offers.
 ### Questions the team hopes to answer with the data
 Our goal throughout this analysis was to better educate us on the salary levels of different data-related jobs. We wanted to see how do the different factors, such as:
 - Location
@@ -53,12 +53,14 @@ This dataset has 62,000 salary records from top companies. It contains informati
 ### Machine Learning Model Selection
 Once the data was clean we did visualizations of the data to decide which models may lend themselves better to the data 
 - We initially decided upon a linear model because what we were trying to find was a correlation rather than a classification
-- Once we tried to linear regression model we decided to explore and build upon it with the Random Forest Regressor
-- To see if we could improve the model and employ skills learned in class we also tested with a Neural Network
-- SciKitLearn is the ML library. We are doing multiple Linear Regression Models utilizing different variables from our dataset. We are also testing adding the Random Forest Classifier to our model as well. We will also use the Stats Model Library to evaluate the accuracy of our model.
-- XGboost
+- Once we tried to linear regression model we knew we would need a more sophisticated model, so we decided to explore and build upon it with the Random Forest Regressor (RFR).
 
-## Optimize the Machine Learning Models
+### Optimizing the Machine Learning Models
+-  The RFR hich gave us a much better baseline of 57% accuracy. After some tuning of the the number of estimators this model utilized, we found our best results with an accuracy score of 61%. Our models were serialized with joblib to explore future training and predictions.
+- To see if we could improve the model and employ skills learned in class we briefly explored a neural network, including many attempts to inflate neurons in hidden layers. While this model was already subject to overfitting given our smaller sample size, it actually did not perform better than the other models anyway, returning a MAPE value of 27.0.
+- After some research about its performance compared to other regressors, we wanted to try utilizing extreme gradient boosting (XGBoost). This ensemble model allowed new trees to be added after other trees have learned, therefore minimizing the loss (an improvement on the RFR approach). This model ultimately proved the best, with predictive accuracy above 65% and a lower mean absolute percentage error (MAPE) at .1862.
+- Side by side comparisions of each of these models revealed a potential to combine their individual predicitions by taking a simple mean of our tested models. After trying different combinations, the mean of the Random Forest Regressor and XGBoost Regressor was able to reduce the MAPE to .1779. This final mean of the two models is what we used in our forecast simulation.
+
 
 
 ## Dashboard Walkthrough   
