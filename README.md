@@ -46,7 +46,7 @@ This dataset has 62,000 salary records from top companies. It contains informati
 ![image](https://user-images.githubusercontent.com/92349969/160261413-f58f0815-c402-407f-8edc-00913896e6cb.png)
 
 ### Database and ERD
-<img src="https://raw.githubusercontent.com/Sirius0531/final_project/main/2nd%20Segment%20Project%20Deliverable/ERD.PNG" width="800" >
+<img src="https://github.com/Sirius0531/final_project/blob/main/Resources/Images/ERD.PNG" width="800" >
 
 ## Description of the analysis phase of the project
 
