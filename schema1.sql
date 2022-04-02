@@ -1,12 +1,13 @@
 CREATE TABLE Company_info (
-  employee_no INTEGER PRIMARY KEY,
+  employee_no INTEGER NOT NULL,
   company TEXT,
   location TEXT,
-  cityid INT
+  cityid INT,
+  PRIMARY KEY employee_no
 );
 
 CREATE TABLE Salary_info (
-  employee_no INT,
+  employee_no INT NOT NULL,
   title TEXT,
   totalyearlycompensation INT,
   yearsofexperience DOUBLE,
@@ -14,6 +15,8 @@ CREATE TABLE Salary_info (
   basesalary INTEGER,
   stockgrantvalue DOUBLE,
   bonus DOUBLE,
+  FOREIGN KEY (employee_no) REFERENCES Company_info(employee_no),
+  PRIMARY KEY (employee_no)
 );
 
 CREATE TABLE Employee_info (
@@ -25,6 +28,8 @@ CREATE TABLE Employee_info (
 	Bachelors_Degree TEXT,
 	Doctorate_Degree TEXT,
 	Highschool TEXT
+	FOREIGN KEY (employee_no) REFERENCES Company_info(employee_no),
+    PRIMARY KEY (employee_no)
 );
 
 SELECT * FROM company_info;
