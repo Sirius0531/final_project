@@ -77,8 +77,12 @@ An interactive dashboard was created where users can choose variables from a dro
 
 
 ## Recommendation for future analysis
-### Data collection form
-### Included job discription
+Due to the time contrain and the limitation of the dataset, for future Analysis we would recommend finding data from more sources such as: 
+- Have data that includes job description or posting
+- Incolude a broader range of job titles
+- Operate live web scraping to get more live data
+- Utilize the “tag” or keyword we had in our data
+
 
 
 ## Meet Our Team
