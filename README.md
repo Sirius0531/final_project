@@ -2,7 +2,7 @@
 # Data Scientist Salary Analysis with Machine Learning
 Project Description [PDF](https://github.com/Sirius0531/final_project/blob/main/Archive/2nd%20Segment%20Project%20Deliverable/Deliverable2_Storyboard_PDF.pdf) &
 Project [Dashboard](https://sirius0531.github.io/final_project/Website/index.html) &
-Presentation [Slides](https://docs.google.com/presentation/d/1RYqxEM__TevdDOhwg8GO3oerPjs3XSrG1k4ISLAIga0/edit?usp=sharing)
+Presentation [Flash Cards](https://docs.google.com/presentation/d/1RYqxEM__TevdDOhwg8GO3oerPjs3XSrG1k4ISLAIga0/edit?usp=sharing)
 
 ## Topic:
 Predicting the average salary of jobs in the data industry based on different variables using a regression model. We wanted to see how factors such as company, location, and experience affect the expected salary.
