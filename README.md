@@ -41,6 +41,9 @@ This dataset has 62,000 salary records from top companies. It contains informati
 3.  Split the location into States, Cities, and Countries.
 4.  Once the data was clean we did visualizations of the data, and observe the correlation between each variable and total yearly compensation. 
 [Dashboard](https://public.tableau.com/app/profile/sirius.liao/viz/SalaryAnalysis-Storyboard/DataScientistSalaryAnalysis#1) of our initial visualizations.
+![Data Scientist Salary Analysis ](https://user-images.githubusercontent.com/92349969/161686283-2f7b32a7-9951-4d0d-a480-6c02c3a64637.png)
+![Data Scientist Salary Analysis  (1)](https://user-images.githubusercontent.com/92349969/161686379-ca225305-5e04-4b10-b0c8-94a7334757e8.png)
+
 5. Use python and pandas to clean the dataset, filtering on data industry-specific jobs in the USA and One-Hotencoder the object columns. 
 6. Upload the cleaned dataset to the S3 bucket on AWS. Using Pyspar to connect AWS and PostgreSQL to store and analysis the data.
 ![image](https://user-images.githubusercontent.com/92349969/160261413-f58f0815-c402-407f-8edc-00913896e6cb.png)
@@ -55,13 +58,21 @@ Once the data was clean we did visualizations of the data to decide which models
 - We initially decided upon a linear model because what we were trying to find was a correlation rather than a classification
 - Once saw the results of the simple linear regression model we knew we would need to explore a more sophisticated approach. Reasearching the power of decision trees, we went with the Random Forest Regressor (RFR) for the next approach.
 
+###  Model Selection
+LinearRegression:
+![image](https://user-images.githubusercontent.com/92349969/161686915-f743cbab-1963-41e7-bc69-cb0b84c6b590.png)
+Random Forest Regressor:
+![image](https://user-images.githubusercontent.com/92349969/161687082-b1af1b9b-d244-4f85-a0b7-9b96d0591f22.png)
+Neural networks:
+![image](https://user-images.githubusercontent.com/92349969/161687356-1e9a8e09-1dd2-4d20-b654-4ef202e18493.png)
+![image](https://user-images.githubusercontent.com/92349969/161687377-f9410ac0-8426-438f-be3f-4fc3dd39df82.png)
+
+
 ### Optimizing the Machine Learning Models
 -  The RFR gave us a much better baseline of 57% accuracy. After some tuning of the the number of estimators this model utilized, we found our best results with 100 estimators producing an accuracy score of 61%. Our models were serialized with joblib to explore future training and predictions.
 - To see if we could improve the model and employ skills learned in class we briefly explored a neural network, including many attempts to inflate neurons in hidden layers. While this model was already subject to overfitting given our smaller sample size, it actually did not perform better than the other models anyway, returning a MAPE value of 27.0.
 - After some research about its performance compared to other regressors, we wanted to try utilizing extreme gradient boosting (XGBoost). This ensemble model allowed new trees to be added after other trees have learned, therefore minimizing the loss (an improvement on the RFR approach). This model ultimately proved the best, with predictive accuracy above 65% and a lower mean absolute percentage error (MAPE) at .1862.
 - Side by side comparisions of each of these models revealed a potential to combine their individual predicitions by taking a simple mean of our tested models' predicted salaries. After trying different combinations, the mean of the Random Forest Regressor and XGBoost Regressor was able to reduce the MAPE to .1779. This final mean of the two models is what we used in our forecast simulation.
-
-
 
 
 ## Recommendation for future analysis
