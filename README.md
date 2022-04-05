@@ -60,12 +60,17 @@ Once the data was clean we did visualizations of the data to decide which models
 
 ###  Model Selection
 LinearRegression:
-![image](https://user-images.githubusercontent.com/92349969/161686915-f743cbab-1963-41e7-bc69-cb0b84c6b590.png)
+
+<img src="https://user-images.githubusercontent.com/92349969/161686915-f743cbab-1963-41e7-bc69-cb0b84c6b590.png" width="600" >
+
 Random Forest Regressor:
-![image](https://user-images.githubusercontent.com/92349969/161687082-b1af1b9b-d244-4f85-a0b7-9b96d0591f22.png)
+
+<img src="https://user-images.githubusercontent.com/92349969/161687082-b1af1b9b-d244-4f85-a0b7-9b96d0591f22.png" width="600" >
+
 Neural networks:
-![image](https://user-images.githubusercontent.com/92349969/161687356-1e9a8e09-1dd2-4d20-b654-4ef202e18493.png)
-![image](https://user-images.githubusercontent.com/92349969/161687377-f9410ac0-8426-438f-be3f-4fc3dd39df82.png)
+
+<img src="https://user-images.githubusercontent.com/92349969/161687356-1e9a8e09-1dd2-4d20-b654-4ef202e18493.png" width="600" >
+<img src="https://user-images.githubusercontent.com/92349969/161687377-f9410ac0-8426-438f-be3f-4fc3dd39df82.png" width="600" >
 
 
 ### Optimizing the Machine Learning Models
