@@ -6,7 +6,7 @@ Presentation [Flash Cards](https://docs.google.com/presentation/d/1RYqxEM__TevdD
 Presentation Practice [Video](https://nike.box.com/s/9od6gj7fqs2sihwmqyr18qbqhgr7wf2l) 
 
 ## Topic:
-Predicting the average salary of jobs in the data industry based on different variables using a regression model. We wanted to see how factors such as company, location, and experience affect the expected salary.
+Predict the average salary of jobs in the data industry based on different variables using a regression model. We wanted to see how factors such as company, location, and experience affect the expected salary.
 
 ### The reason the topic was selected
 We selected this topic because it was one that was of interest to all of us including our classmates. As we graduate from this course and enter the job market we have a frame of reference when negotiating compensation offers.
