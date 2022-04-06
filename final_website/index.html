@@ -384,7 +384,7 @@
             that might work better for our data. We briefly explored a neural network, but while this model was subject to overfitting given our smaller sample size, it actually did not perform better than the other models.
             This is when we started to look at extreme gradient boosting (XGBoost). This ensemble model allows new trees to be added after other trees have learned, therefore minimizing the loss. This model
             ultimately proved the best, with predictive accuracy above 65% and a lower mean absolute percentage error (MAPE) at .1862. </P>
-            <center><img src="MeanPredict.png" alt="" class="mean-predict"></center>
+            <center><img src="MeanPredict1.png" alt="" class="mean-predict"></center>
             <br>
             <p>Side by side comparisions of each of these models revealed a potential to combine their individual predicitions by simple mean. After trying different combinations,
             the mean of the Random Forest Regressor and XGBoost regressor was able to reduce the MAPE to .1779. This final mean of the two models is what we used in our forecast simulation below.</p>
