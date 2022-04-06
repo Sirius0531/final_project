@@ -267,40 +267,6 @@
             <li>Company Size (Numbers of Data Scientist Position)</li>
             <p>Average Salary by company and number of Data scientist positions: Companies that have more data scientists do not necessarily offer higher salaries.</p>
             <br>
-            <!-- <div class='tableauPlaceholder' id='viz1648681282714' style='position: relative'><noscript><a href='#'><img alt='Dashboard 4 '
-                    src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CompanyDB_16486805485450&#47;Dashboard4&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
-                <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-                <param name='embed_code_version' value='3' />
-                <param name='site_root' value='' />
-                <param name='name' value='CompanyDB_16486805485450&#47;Dashboard4' />
-                <param name='tabs' value='no' />
-                <param name='toolbar' value='yes' />
-                <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CompanyDB_16486805485450&#47;Dashboard4&#47;1.png' />
-                <param name='animate_transition' value='yes' />
-                <param name='display_static_image' value='yes' />
-                <param name='display_spinner' value='yes' />
-                <param name='display_overlay' value='yes' />
-                <param name='display_count' value='yes' />
-                <param name='language' value='en-US' />
-                <param name='filter' value='publish=yes' />
-              </object></div>
-            <script type='text/javascript'>
-              var divElement = document.getElementById('viz1648681282714');
-              var vizElement = divElement.getElementsByTagName('object')[0];
-              if (divElement.offsetWidth > 800) {
-                vizElement.style.width = '100%';
-                vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
-              } else if (divElement.offsetWidth > 500) {
-                vizElement.style.width = '100%';
-                vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
-              } else {
-                vizElement.style.width = '100%';
-                vizElement.style.height = '727px';
-              }
-              var scriptElement = document.createElement('script');
-              scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-              vizElement.parentNode.insertBefore(scriptElement, vizElement);
-            </script> -->
             <div class='tableauPlaceholder left-pad' id='viz1648776847706' style='position: relative'><noscript><a href='#'><img alt='Dashboard 4 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;co&#47;companysize950&#47;Dashboard4&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='companysize950&#47;Dashboard4' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;co&#47;companysize950&#47;Dashboard4&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1648776847706');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='950px';vizElement.style.height='577px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='950px';vizElement.style.height='577px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
           </ul>
         </Section>
@@ -340,15 +306,22 @@
         <Section class="internal" id="machine_learning">
           <h3 class="left-pad">Analysis of Data using Machine Learning Model</h3>
           <hr class="hr-styles">
-          <p>After filtering for "Data Scientist" in our data set, we were left with about 2500 data entries. After cleaning the data for outliers, we encoded the categorical values. This preprocessing of data allowed us to test different machine
-            learning models.</p>
-          <P>We knew that our model needed to be a regression in order to make an actual prediction. We began by examining a multiple linear regression model. Results from our data indicated that we might need a more sophisticated model. Harnessing
-            the power of decision trees, we then examined
-            the random forest regressor. This allowed us to increase predictive accuracy and control potential over-fitting. The ability to manipulate the number of estimators allowed us to tune the model for more accuracy. Still, we wondered if
-            there was another model
-            that might work better for our data. This is when we started to look at extreme gradient boosting (XGBoost). This ensemble model allows new trees to be added after other trees have learned, therefore minimizing the loss. This model
-            ultimately proved the best, with predictive accuracy above 64%.</P>
-          
+          <p>Our data cleaning process began by filtering for "Data Scientist" in our data set, which left with about 2500 data entries. Data exploration initially sought to define the target and feature variables. Our target feature was the self-reported total yearly compensation.
+            Our focused features included years of experience, location, company size, and gender, and all columns not realated to these features were eliminated. Through data exploration and graphical displays, we
+            were able to determine outlier threshholds. We eliminated these outliers since the number of data points leftover was still sufficient to train a model.
+            After cleaning the data for outliers, we encoded the categorical values. This preprocessing of data allowed us to test different machine learning models.</p>
+
+          <P>We knew that our model needed to be a regression in order to make an actual prediction of a continuous variable. We began by examining a multiple linear regression model.
+            Results from our data indicated that we might need a more sophisticated model. Harnessing the power of decision trees, we then examined the random forest regressor. This allowed us to increase predictive accuracy and control potential over-fitting.
+            The ability to manipulate the number of estimators allowed us to tune the model for more accuracy. Still, we wondered if there was another model
+            that might work better for our data. We briefly explored a neural network, but while this model was subject to overfitting given our smaller sample size, it actually did not perform better than the other models.
+            This is when we started to look at extreme gradient boosting (XGBoost). This ensemble model allows new trees to be added after other trees have learned, therefore minimizing the loss. This model
+            ultimately proved the best, with predictive accuracy above 65% and a lower mean absolute percentage error (MAPE) at .1862. </P>
+            <center><img src="https://raw.githubusercontent.com/Sirius0531/final_project/bowman_segment1/final_website/MeanPredict1.png" alt="" class="mean-predict"></center>
+            <br>
+            <p>Side by side comparisions of each of these models revealed a potential to combine their individual predicitions by simple mean. After trying different combinations,
+            the mean of the Random Forest Regressor and XGBoost regressor was able to reduce the MAPE to .1779. This final mean of the two models is what we used in our forecast simulation below.</p>
+      
 
 
         </Section>
@@ -375,7 +348,7 @@
                 <td>Netflix</td>
                 <td>TX</td>
                 <td>0</td>
-                <td>177,000</td>
+                <td>$177,000</td>
               </tr>
               <tr>
                 <td>Bat Man</td>
@@ -383,7 +356,7 @@
                 <td>Facebook</td>
                 <td>CA</td>
                 <td>3</td>
-                <td>213,000</td>
+                <td>$212,000</td>
               </tr>
               <tr>
                 <td>Crystal Ball</td>
@@ -391,7 +364,7 @@
                 <td>Facebook</td>
                 <td>NY</td>
                 <td>7</td>
-                <td>317,000</td>
+                <td>$316,000</td>
               </tr>
               <tr>
                 <td>Dr. Pandas</td>
@@ -399,7 +372,7 @@
                 <td>Amazon</td>
                 <td>WA</td>
                 <td>10</td>
-                <td>272,000</td>
+                <td>$272,000</td>
               </tr>
             </tbody>
           </table>
