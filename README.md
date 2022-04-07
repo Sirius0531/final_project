@@ -44,6 +44,13 @@ This dataset has 62,000 salary records from top companies. It contains informati
 [Dashboard](https://public.tableau.com/app/profile/sirius.liao/viz/SalaryAnalysis-Storyboard/DataScientistSalaryAnalysis#1) of our initial visualizations.
 ![Data Scientist Salary Analysis ](https://user-images.githubusercontent.com/92349969/161686283-2f7b32a7-9951-4d0d-a480-6c02c3a64637.png)
 ![Data Scientist Salary Analysis  (1)](https://user-images.githubusercontent.com/92349969/161686379-ca225305-5e04-4b10-b0c8-94a7334757e8.png)
+- Filter out foreign locations
+- Split "location" to two columns State & City
+- Keep: (total yearly compensation < 500,000)
+- Keep: (total yearly compensation > 30,000)
+- Keep: (years of experience < 21)
+- drop: (years of experience == 0  &   total yearly compensation > 250,000)
+- drop: (years of experience > 5    &   total yearly compensation < 45,000)
 
 5. Use python and pandas to clean the dataset, filtering on data industry-specific jobs in the USA and One-Hotencoder the object columns. 
 6. Upload the cleaned dataset to the S3 bucket on AWS. Using Pyspar to connect AWS and PostgreSQL to store and analysis the data.
