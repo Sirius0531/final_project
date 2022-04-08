@@ -95,4 +95,5 @@ Due to the time contrain and the limitation of the dataset, for future Analysis 
 - Operate live web scraping to get more live data
 - Utilize the “tag” or keyword we had in our data
 
-
+ ## Technologies, languages, tools
+ Anaconda, Github, Python, Postgres, AWS, Visual Studio, Jupyter Notebook, Pandas, scikit-learn, Tableau, Slack, Zoom
