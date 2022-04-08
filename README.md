@@ -38,6 +38,7 @@ This dataset has 62,000 salary records from top companies. It contains informati
 
 ### Data Cleaning and Analysis
 1. We use boxplots to locate the outliers in [total salary](https://raw.githubusercontent.com/Sirius0531/final_project/main/2nd%20Segment%20Project%20Deliverable/Data/outlier_totalyearlycompensation.PNG) and [Year of experience](https://github.com/Sirius0531/final_project/blob/main/2nd%20Segment%20Project%20Deliverable/Data/outlier_yearofexperence.PNG), remove in the dataset.
+<img src="https://raw.githubusercontent.com/Sirius0531/final_project/main/Resources/Images/Salary_Experience_distribution.jpg" width="800" >
 2.  Dropping columns in Data Frame, such as race, bonus, stock, other details, and tags, which are not used in the analysis. 
 3.  Split the location into States, Cities, and Countries.
 4.  Once the data was clean we did visualizations of the data, and observe the correlation between each variable and total yearly compensation. 
