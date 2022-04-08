@@ -40,11 +40,7 @@ This dataset has 62,000 salary records from top companies. It contains informati
 1. We use boxplots to locate the outliers in [total salary](https://raw.githubusercontent.com/Sirius0531/final_project/main/2nd%20Segment%20Project%20Deliverable/Data/outlier_totalyearlycompensation.PNG) and [Year of experience](https://github.com/Sirius0531/final_project/blob/main/2nd%20Segment%20Project%20Deliverable/Data/outlier_yearofexperence.PNG), remove in the dataset.
 <img src="https://raw.githubusercontent.com/Sirius0531/final_project/main/Resources/Images/Salary_Experience_distribution.jpg" width="800" >
 2.  Dropping columns in Data Frame, such as race, bonus, stock, other details, and tags, which are not used in the analysis. 
-3.  Split the location into States, Cities, and Countries.
-4.  Once the data was clean we did visualizations of the data, and observe the correlation between each variable and total yearly compensation. 
-[Dashboard](https://public.tableau.com/app/profile/sirius.liao/viz/SalaryAnalysis-Storyboard/DataScientistSalaryAnalysis#1) of our initial visualizations.
-![Data Scientist Salary Analysis ](https://user-images.githubusercontent.com/92349969/161686283-2f7b32a7-9951-4d0d-a480-6c02c3a64637.png)
-![Data Scientist Salary Analysis  (1)](https://user-images.githubusercontent.com/92349969/161686379-ca225305-5e04-4b10-b0c8-94a7334757e8.png)
+
 - Filter out foreign locations
 - Split "location" to two columns State & City
 - Keep: (total yearly compensation < 500,000)
@@ -52,6 +48,13 @@ This dataset has 62,000 salary records from top companies. It contains informati
 - Keep: (years of experience < 21)
 - drop: (years of experience == 0  &   total yearly compensation > 250,000)
 - drop: (years of experience > 5    &   total yearly compensation < 45,000)
+
+4.  Split the location into States, Cities, and Countries.
+5.  Once the data was clean we did visualizations of the data, and observe the correlation between each variable and total yearly compensation. 
+
+[Dashboard](https://public.tableau.com/app/profile/sirius.liao/viz/SalaryAnalysis-Storyboard/DataScientistSalaryAnalysis#1) of our initial visualizations.
+![Data Scientist Salary Analysis ](https://user-images.githubusercontent.com/92349969/161686283-2f7b32a7-9951-4d0d-a480-6c02c3a64637.png)
+![Data Scientist Salary Analysis  (1)](https://user-images.githubusercontent.com/92349969/161686379-ca225305-5e04-4b10-b0c8-94a7334757e8.png)
 
 5. Use python and pandas to clean the dataset, filtering on data industry-specific jobs in the USA and One-Hotencoder the object columns. 
 6. Upload the cleaned dataset to the S3 bucket on AWS. Using Pyspar to connect AWS and PostgreSQL to store and analysis the data.
@@ -68,15 +71,21 @@ Once the data was clean we did visualizations of the data to decide which models
 - Once saw the results of the simple linear regression model we knew we would need to explore a more sophisticated approach. Reasearching the power of decision trees, we went with the Random Forest Regressor (RFR) for the next approach.
 
 ###  Model Selection
+Our data cleaning process began by filtering for "Data Scientist" in our data set, which left with about 2500 data entries.
+Data exploration initially sought to define the target and feature variables. Our target feature was the self-reported total yearly compensation. Our focused features included years of experience, location, company size, and gender, and all columns not realated to these features were eliminated.
+
 LinearRegression:
+We began by examining a multiple linear regression model. Results from our data indicated that we might need a more sophisticated model.
 
 <img src="https://user-images.githubusercontent.com/92349969/161686915-f743cbab-1963-41e7-bc69-cb0b84c6b590.png" width="600" >
 
 Random Forest Regressor:
+Harnessing the power of decision trees, we then examined the random forest regressor. This allowed us to increase predictive accuracy and control potential over-fitting. The ability to manipulate the number of estimators allowed us to tune the model for more accuracy. 
 
 <img src="https://user-images.githubusercontent.com/92349969/161687082-b1af1b9b-d244-4f85-a0b7-9b96d0591f22.png" width="600" >
 
 Neural networks:
+Still, we wondered if there was another model that might work better for our data. We briefly explored a neural network, but while this model was subject to overfitting given our smaller sample size, it actually did not perform better than the other models.
 
 <img src="https://user-images.githubusercontent.com/92349969/161687356-1e9a8e09-1dd2-4d20-b654-4ef202e18493.png" width="600" >
 <img src="https://user-images.githubusercontent.com/92349969/161687377-f9410ac0-8426-438f-be3f-4fc3dd39df82.png" width="600" >
@@ -88,6 +97,7 @@ Neural networks:
 - After some research about its performance compared to other regressors, we wanted to try utilizing extreme gradient boosting (XGBoost). This ensemble model allowed new trees to be added after other trees have learned, therefore minimizing the loss (an improvement on the RFR approach). This model ultimately proved the best, with predictive accuracy above 65% and a lower mean absolute percentage error (MAPE) at .1862.
 - Side by side comparisions of each of these models revealed a potential to combine their individual predicitions by taking a simple mean of our tested models' predicted salaries. After trying different combinations, the mean of the Random Forest Regressor and XGBoost Regressor was able to reduce the MAPE to .1779. This final mean of the two models is what we used in our forecast simulation.
 
+<img src="https://raw.githubusercontent.com/Sirius0531/final_project/bowman_segment1/final_website/MeanPredict1.png" >
 
 ## Recommendation for future analysis
 Due to the time contrain and the limitation of the dataset, for future Analysis we would recommend finding data from more sources such as: 
